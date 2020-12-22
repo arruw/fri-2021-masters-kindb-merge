@@ -1,7 +1,3 @@
-# ###!./.env/bin/python3
-
-# pip install Pillow
-
 from tkinter import *
 from PIL import ImageTk, Image
 from glob import glob
@@ -22,20 +18,28 @@ class Main():
         self.annotations_file_path = annotations_file_path
         self.annotations = self._read_annotations()
 
-        self.index_frame = Frame(self.master)
-        self.index_frame.grid(row=0, column=0)
-        self.preview_frame = Frame(self.master)
-        self.preview_frame.grid(row=1, column=0)
-        self.buttons_frame = Frame(self.master)
-        self.buttons_frame.grid(row=2, column=0)
-        self.flags_frame = Frame(self.master)
-        self.flags_frame.grid(row=3, column=0)
+        self.left_frame = Frame(self.master)
+        self.left_frame.grid(row=0, column=0, sticky=N)
+        self.right_frame = Frame(self.master)
+        self.right_frame.grid(row=0, column=1, sticky=N)
+
+        self.index_frame = Frame(self.left_frame)
+        self.index_frame.pack(side=TOP)
+        self.preview_frame = Frame(self.left_frame)
+        self.preview_frame.pack(side=TOP)
+        self.buttons_frame = Frame(self.left_frame)
+        self.buttons_frame.pack(side=TOP)
+
+        self.props_frame = Frame(self.right_frame)
+        self.props_frame.grid(row=0, column=0, sticky=NW)
+        self.flags_frame = Frame(self.right_frame)
+        self.flags_frame.grid(row=1, column=0, sticky=NW)
 
         self.index_var = IntVar(value=1)
         self.index_var.trace_add("write", self.onIndexChange)
         self.only_flagged_var = BooleanVar(value=False)
         Label(self.index_frame, text="Image ").pack(side=LEFT)
-        Entry(self.index_frame, textvariable=self.index_var, justify=CENTER).pack(side=LEFT)
+        Spinbox(self.index_frame, from_=1, to=len(self.images), textvariable=self.index_var, justify=CENTER).pack(side=LEFT)
         Label(self.index_frame, text=" of ").pack(side=LEFT)
         Label(self.index_frame, text=len(self.images)).pack(side=LEFT)
         Checkbutton(self.index_frame, text="Only flagged", variable=self.only_flagged_var).pack(side=LEFT)
@@ -43,12 +47,16 @@ class Main():
         self.canvas = Canvas(self.preview_frame, width=512, height=512)
         self.canvas.pack(fill="both", expand=True)
 
-        Button(self.buttons_frame, text="Back",
-               command=self.onBackButton).pack(side=LEFT)
-        Button(self.buttons_frame, text="Next",
-               command=self.onNextButton).pack(side=LEFT)
+        Button(self.buttons_frame, text="Back", command=self.onBackButton).pack(side=LEFT)
+        Button(self.buttons_frame, text="Next", command=self.onNextButton).pack(side=LEFT)
         self.window.bind('<Control-Left>', lambda _: self.onBackButton())
         self.window.bind('<Control-Right>', lambda _: self.onNextButton())
+
+        self.prop_vars = {
+            'size': StringVar()
+        }
+        Label(self.props_frame, text="Props:", anchor=W, font="Helvetica 16 bold").pack(side=TOP, fill=X)
+        Label(self.props_frame, textvariable=self.prop_vars['size'], anchor=W).pack(side=TOP, fill=X)
 
         self.annotation_vars = {
             'watermark': BooleanVar(),
@@ -61,16 +69,16 @@ class Main():
             'garbage': BooleanVar(),
             'comment': StringVar(),
         }
-        Checkbutton(self.flags_frame, text="Watermark", variable=self.annotation_vars["watermark"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Hat", variable=self.annotation_vars["hat"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Sunglasses", variable=self.annotation_vars["sunglasses"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Glasses", variable=self.annotation_vars["glasses"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Occlusion", variable=self.annotation_vars["occlusion"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Multiple faces", variable=self.annotation_vars["multiple_faces"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Low resolution", variable=self.annotation_vars["low_resolution"]).pack(side=LEFT)
-        Checkbutton(self.flags_frame, text="Garbage", variable=self.annotation_vars["garbage"]).pack(side=LEFT)
-
-        Entry(self.master, textvariable=self.annotation_vars["comment"]).grid(row=4, column=0)
+        Label(self.flags_frame, text="Flags:", anchor=W, font="Helvetica 16 bold").pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Watermark", variable=self.annotation_vars["watermark"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Hat", variable=self.annotation_vars["hat"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Sunglasses", variable=self.annotation_vars["sunglasses"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Glasses", variable=self.annotation_vars["glasses"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Occlusion", variable=self.annotation_vars["occlusion"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Multiple faces", variable=self.annotation_vars["multiple_faces"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Low resolution", variable=self.annotation_vars["low_resolution"]).pack(side=TOP, fill=X)
+        Checkbutton(self.flags_frame, anchor=W, text="Garbage", variable=self.annotation_vars["garbage"]).pack(side=TOP, fill=X)
+        Entry(self.flags_frame, textvariable=self.annotation_vars["comment"]).pack(side=TOP, fill=X)
 
         self._restore_annotation()
         self._load_image()
@@ -127,6 +135,7 @@ class Main():
         self.window.title(image_path)
         # self.canvas.delete("all")
         image = Image.open(image_path)
+        self.prop_vars['size'].set(f"Size: {image.width}x{image.height}")
         image.thumbnail((512, 512), Image.ANTIALIAS)
         self.image = ImageTk.PhotoImage(image)
         # self.canvas.config(width=self.image.width(), height=self.image.height())
