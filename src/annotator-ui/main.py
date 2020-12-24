@@ -5,6 +5,7 @@ from pprint import pprint
 import csv
 from os import path
 
+# pip install face-recognition
 
 class Main():
 
