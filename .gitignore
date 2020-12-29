@@ -179,3 +179,4 @@ datasets/fiw/*
 !datasets/ibb/meta.csv
 !datasets/ibb/relations.csv
 !datasets/ibb/persons.csv
+!datasets/ibb/family-trees.pdf
