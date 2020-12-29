@@ -176,3 +176,6 @@ datasets/in/*
 datasets/ibb/*
 datasets/fiw/*
 !datasets/**/annotations.csv
+!datasets/ibb/meta.csv
+!datasets/ibb/relations.csv
+!datasets/ibb/persons.csv
