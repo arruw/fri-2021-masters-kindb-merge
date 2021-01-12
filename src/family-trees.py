@@ -7,8 +7,8 @@ from textwrap import wrap
 COLOR_MALE = "#34aeeb"
 COLOR_FEMALE = "#de3e7e"
 
-persons = pd.read_csv("./datasets/ibb/persons.csv", index_col="pid")
-annotations = pd.read_csv("./datasets/ibb/annotations.csv")
+persons = pd.read_csv("./annotations/ibb-persons.csv", index_col="pid")
+annotations = pd.read_csv("./annotations/ibb-annotations.csv")
 
 ok_annotations = annotations.loc[\
   (~annotations["watermark"]) \

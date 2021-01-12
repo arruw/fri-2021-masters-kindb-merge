@@ -1,0 +1,298 @@
+pid,name,family_name,sex,fid,father_pid,mother_pid,paths
+1000,GORDON RAMSAY,,Male,FR1001,,,./datasets/fr/Family_1/gordon_ramsay_father/
+1001,TANA RAMSAY,,Female,FR1001,,,./datasets/fr/Family_1/Tana_Ramsay_mother/
+1002,HOLLY ANNA RAMSAY,,Female,FR1001,1000,1001,./datasets/fr/Family_1/Holly_Anna_Ramsay_daughter/
+1003,DON JOHNSON,,Male,FR1010,,,./datasets/fr/Family_10/don_johnson_father/
+1004,MELANIE GRIFFITH,,Female,FR1010,,,./datasets/fr/Family_10/Melanie_griffith_mother/
+1005,DAKOTA JOHNSON,,Female,FR1010,1003,1004,./datasets/fr/Family_10/dakota_johnson_daughter/
+1006,MICK JAGGER,,Male,FR1011,,,./datasets/fr/Family_11/mick_jagger_father/
+1007,JERRY HALL,,Female,FR1011,,,./datasets/fr/Family_11/jerry_hall_mother/
+1008,GEORGIA MAY JAGGER,,Female,FR1011,1006,1007,./datasets/fr/Family_11/georgia_may_jagger_daughter/
+1009,RYAN PHILLIPPE,,Male,FR1012,,,./datasets/fr/Family_12/Ryan_phillippe_father/
+1010,REESE WITHERSPOON,,Female,FR1012,,,./datasets/fr/Family_12/reese_witherspoon_mother/
+1011,AVA ELIZABETH PHILLIPPE,,Female,FR1012,1009,1010,./datasets/fr/Family_12/ava_elizabeth_phillippe_daughter/
+1012,RANDE GERBER,,Male,FR1013,,,./datasets/fr/Family_13/Rande_Gerber_father/
+1013,CINDY CRAWFORD,,Female,FR1013,,,./datasets/fr/Family_13/Cindy_Crawford_mother/
+1014,KAIA GERBER,,Female,FR1013,1012,1013,./datasets/fr/Family_13/Kaia_Gerber_daughter/
+1015,DAVID ARQUETTE,,Male,FR1014,,,./datasets/fr/Family_14/David_Arquette_father/
+1016,COURTENEY COX,,Female,FR1014,,,./datasets/fr/Family_14/courteney_cox_mother/
+1017,COCO ARQUETTE,,Female,FR1014,1015,1016,./datasets/fr/Family_14/Coco_Arquette_daughter/
+1018,RICHARD HILTON,,Male,FR1015,,,./datasets/fr/Family_15/richard_hilton_father/
+1019,KATHY HILTON,,Female,FR1015,,,./datasets/fr/Family_15/kathy_hilton_mother/
+1020,PARIS HILTON,,Female,FR1015,1018,1019,./datasets/fr/Family_15/paris_hilton_daughter/
+1021,BILL HUDSON,,Male,FR1016,,,./datasets/fr/Family_16/bill_hudson_father/
+1022,GOLDIE HAWN,,Female,FR1016,,,./datasets/fr/Family_16/goldie_hawn_mother/
+1023,KATE HUDSON,,Female,FR1016,1021,1022,./datasets/fr/Family_16/kate_hudson_daughter/
+1024,FRANCO AMURRI,,Male,FR1017,,,./datasets/fr/Family_17/franco_amurri_father/
+1025,SUSAN SARANDON,,Female,FR1017,,,./datasets/fr/Family_17/susan_sarandon_mother/
+1026,EVA AMURRI,,Female,FR1017,1024,1025,./datasets/fr/Family_17/eva_amurri_daughter/
+1027,BARACK OBAMA,,Male,FR1018,,,./datasets/fr/Family_18/Barack_Obama_father/
+1028,MICHELLE OBAMA,,Female,FR1018,,,./datasets/fr/Family_18/michelle_obama_mother/
+1029,MALIA OBAMA,,Female,FR1018,1027,1028,./datasets/fr/Family_18/Malia_Obama_daughter/
+1030,MOSSIMO GIANNULLI,,Male,FR1019,,,./datasets/fr/Family_19/mossimo_giannulli_father/
+1031,LORI LOUGHLIN,,Female,FR1019,,,./datasets/fr/Family_19/lori_loughlin_mother/
+1032,OLIVIA JADE GIANNULLI,,Female,FR1019,1030,1031,./datasets/fr/Family_19/olivia_jade_giannulli_daughter/
+1033,CHRISTIAN RESTOIN,,Male,FR1002,,,./datasets/fr/Family_2/christian_restoin_father/
+1034,CARINE ROITFELD,,Female,FR1002,,,./datasets/fr/Family_2/Carine_Roitfeld_mother/
+1035,JULIA RESTOIN ROITFELD,,Female,FR1002,1033,1034,./datasets/fr/Family_2/Julia_Restoin_Roitfeld_daughter/
+1036,WILL SMITH,,Male,FR1020,,,./datasets/fr/Family_20/will_smith_father/
+1037,JADA PINKETT SMITH,,Female,FR1020,,,./datasets/fr/Family_20/jada_pinkett_smith_mother/
+1038,WILLOW SMITH,,Female,FR1020,1036,1037,./datasets/fr/Family_20/willow_smith_daughter/
+1039,ALEC BALDWIN,,Male,FR1021,,,./datasets/fr/Family_21/alec_baldwin_father/
+1040,KIM BASINGER,,Female,FR1021,,,./datasets/fr/Family_21/kim_basinger_mother/
+1041,IRELAND BALDWIN,,Female,FR1021,1039,1040,./datasets/fr/Family_21/ireland_baldwin_daughter/
+1042,BILL CLINTON,,Male,FR1022,,,./datasets/fr/Family_22/bill_clinton_father/
+1043,HILLARY CLINTON,,Female,FR1022,,,./datasets/fr/Family_22/hillary_clinton_mother/
+1044,CHELSEA CLINTON,,Female,FR1022,1042,1043,./datasets/fr/Family_22/chelsea_clinton_daughter/
+1045,MICHAEL LOHAN,,Male,FR1023,,,./datasets/fr/Family_23/Michael_Lohan_father/
+1046,DINA LOHAN,,Female,FR1023,,,./datasets/fr/Family_23/Dina_Lohan_mother/
+1047,LOHAN LINDSAY,,Female,FR1023,1045,1046,./datasets/fr/Family_23/LOHAN_LINDSAY_daughter/
+1048,ANDREW D'YORK,,Male,FR1024,,,./datasets/fr/Family_24/Andrew_d'York_father/
+1049,SARAH FERGUSON,,Female,FR1024,,,./datasets/fr/Family_24/Sarah_Ferguson_mother/
+1050,EUGENIE D'YORK,,Female,FR1024,1048,1049,./datasets/fr/Family_24/Eugenie_d'York_daughter/
+1051,OZZY OSBOURNE,,Male,FR1025,,,./datasets/fr/Family_25/ozzy_osbourne_father/
+1052,SHARON OSBOURNE,,Female,FR1025,,,./datasets/fr/Family_25/Sharon_Osbourne_mother/
+1053,KELLY OSBOURNE,,Female,FR1025,1051,1052,./datasets/fr/Family_25/Kelly_Osbourne_daughter/
+1054,JUDD APATOW,,Male,FR1026,,,./datasets/fr/Family_26/Judd_Apatow_father/
+1055,LESLIE MANN,,Female,FR1026,,,./datasets/fr/Family_26/Leslie_Mann_mother/
+1056,MAUDE APATOW,,Female,FR1026,1054,1055,./datasets/fr/Family_26/maude_apatow_daughter/
+1057,BILLY RAY CYRUS,,Male,FR1027,,,./datasets/fr/Family_27/Billy_Ray_Cyrus_father/
+1058,LETITIA JEAN,,Female,FR1027,,,./datasets/fr/Family_27/Letitia_Jean_mother/
+1059,MILEY CYRUS,,Female,FR1027,1057,1058,./datasets/fr/Family_27/Miley_Cyrus_daughter/
+1060,ARNOLD SCHWARZENEGGER,,Male,FR1028,,,./datasets/fr/Family_28/Arnold_Schwarzenegger_father/
+1061,MARIA SHRIVER,,Female,FR1028,,,./datasets/fr/Family_28/Maria_Shriver_mother/
+1062,KATHERINE SCHWARZENEGGER,,Female,FR1028,1060,1061,./datasets/fr/Family_28/Katherine_Schwarzenegger_daughter/
+1063,BRIAN WILLIAMS,,Male,FR1029,,,./datasets/fr/Family_29/Brian_Williams_father/
+1064,JANE STODDARD WILLIAMS,,Female,FR1029,,,./datasets/fr/Family_29/jane_stoddard_williams_mother/
+1065,ALLISON WILLIAMS,,Female,FR1029,1063,1064,./datasets/fr/Family_29/Allison_Williams_daughter/
+1066,FELIPE VI,,Male,FR1003,,,./datasets/fr/Family_3/Felipe_VI_father/
+1067,LETIZIA ORTIZ,,Female,FR1003,,,./datasets/fr/Family_3/Letizia_Ortiz_mother/
+1068,SOFIA DE BORBON Y ORTIZ,,Female,FR1003,1066,1067,./datasets/fr/Family_3/Sofia_de_Borbon_y_Ortiz_daughter/
+1069,DONALD TRUMP,,Male,FR1030,,,./datasets/fr/Family_30/Donald_Trump_father/
+1070,IVANA TRUMP,,Female,FR1030,,,./datasets/fr/Family_30/Ivana_Trump_mother/
+1071,IVANKA TRUMP,,Female,FR1030,1069,1070,./datasets/fr/Family_30/Ivanka_Trump_daughter/
+1072,CARLOS LEON,,Male,FR1031,,,./datasets/fr/Family_31/Carlos_Leon_father/
+1073,MADONNA,,Female,FR1031,,,./datasets/fr/Family_31/Madonna_mother/
+1074,LOURDES LEON,,Female,FR1031,1072,1073,./datasets/fr/Family_31/Lourdes_Leon_daughter/
+1075,ROBERT KARDASHIAN,,Male,FR1032,,,./datasets/fr/Family_32/Robert_Kardashian_father/
+1076,KRIS JENNER,,Female,FR1032,,,./datasets/fr/Family_32/Kris_Jenner_mother/
+1077,KIM KARDASHIAN,,Female,FR1032,1075,1076,./datasets/fr/Family_32/Kim_Kardashian_daughter/
+1078,PAUL GASCOIGNE,,Male,FR1033,,,./datasets/fr/Family_33/Paul_Gascoigne_father/
+1079,SHERYL GASCOIGNE,,Female,FR1033,,,./datasets/fr/Family_33/Sheryl_Gascoigne_mother/
+1080,BIANCA GASCOIGNE,,Female,FR1033,1078,1079,./datasets/fr/Family_33/Bianca_Gascoigne_daughter/
+1081,JOHNNY HALLYDAY,,Male,FR1034,,,./datasets/fr/Family_34/Johnny_Hallyday_father/
+1082,NATHALIE BAYE,,Female,FR1034,,,./datasets/fr/Family_34/Nathalie_Baye_mother/
+1083,LAURA SMET,,Female,FR1034,1081,1082,./datasets/fr/Family_34/laura_smet_daughter/
+1084,HENRI DE LUXEMBOURG,,Male,FR1035,,,./datasets/fr/Family_35/henri_de_luxembourg_father/
+1085,MARIA TERESA MESTRE,,Female,FR1035,,,./datasets/fr/Family_35/Maria_Teresa_Mestre_mother/
+1086,ALEXANDRA DE LUXEMBOURG,,Female,FR1035,1084,1085,./datasets/fr/Family_35/Alexandra_de_Luxembourg_daughter/
+1087,JON VOIGHT,,Male,FR1036,,,./datasets/fr/Family_36/Jon_Voight_father/
+1088,MARCHELINE BERTRAND,,Female,FR1036,,,./datasets/fr/Family_36/Marcheline_Bertrand_mother/
+1089,ANGELINA JOLIE,,Female,FR1036,1087,1088,./datasets/fr/Family_36/angelina_jolie_daughter/
+1090,RICHIE SAMBORA,,Male,FR1037,,,./datasets/fr/Family_37/Richie_Sambora_father/
+1091,HEATHER LOCKLEAR,,Female,FR1037,,,./datasets/fr/Family_37/Heather_Locklear_mother/
+1092,AVA ELIZABETH SAMBORA,,Female,FR1037,1090,1091,./datasets/fr/Family_37/Ava_Elizabeth_Sambora_daughter/
+1093,DON GUMMER,,Male,FR1038,,,./datasets/fr/Family_38/Don_Gummer_father/
+1094,MERYL STREEP,,Female,FR1038,,,./datasets/fr/Family_38/Meryl_Streep_mother/
+1095,GRACE GUMMER,,Female,FR1038,1093,1094,./datasets/fr/Family_38/Grace_Gummer_daughter/
+1096,PAUL QUALLEY,,Male,FR1039,,,./datasets/fr/Family_39/paul_qualley_father/
+1097,MACDOWELL ANDIE,,Female,FR1039,,,./datasets/fr/Family_39/MacDowell_Andie_mother/
+1098,RAINEY QUALLEY,,Female,FR1039,1096,1097,./datasets/fr/Family_39/Rainey_Qualley_daughter/
+1099,MATTHEW COWLES,,Male,FR1004,,,./datasets/fr/Family_4/Matthew_Cowles_father/
+1100,BARANSKI CHRISTINE,,Female,FR1004,,,./datasets/fr/Family_4/BARANSKI_CHRISTINE_mother/
+1101,LILY COWLES,,Female,FR1004,1099,1100,./datasets/fr/Family_4/lily_cowles_daughter/
+1102,GERARD DEPARDIEU,,Male,FR1040,,,./datasets/fr/Family_40/gerard_depardieu_father/
+1103,ELISABETH DEPARDIEU,,Female,FR1040,,,./datasets/fr/Family_40/Elisabeth_Depardieu_mother/
+1104,JULIE DEPARDIEU,,Female,FR1040,1102,1103,./datasets/fr/Family_40/Julie_Depardieu_daughter/
+1105,JOHNNY DEPP,,Male,FR1041,,,./datasets/fr/Family_41/Johnny_Depp_father/
+1106,VANESSA PARADIS,,Female,FR1041,,,./datasets/fr/Family_41/Vanessa_Paradis_mother/
+1107,LILY ROSE DEPP,,Female,FR1041,1105,1106,./datasets/fr/Family_41/Lily-Rose_Depp_daughter/
+1108,BILLY JOEL,,Male,FR1042,,,./datasets/fr/Family_42/Billy_Joel_father/
+1109,CHRISTIE BRINKLEY,,Female,FR1042,,,./datasets/fr/Family_42/Christie_Brinkley_mother/
+1110,ALEXA RAY JOEL,,Female,FR1042,1108,1109,./datasets/fr/Family_42/Alexa_Ray_Joel_daughter/
+1111,KURT COBAIN,,Male,FR1043,,,./datasets/fr/Family_43/Kurt_Cobain_father/
+1112,COURTNEY LOVE,,Female,FR1043,,,./datasets/fr/Family_43/Courtney_Love_mother/
+1113,FRANCES BEAN COBAIN,,Female,FR1043,1111,1112,./datasets/fr/Family_43/Frances_Bean_Cobain_daughter/
+1114,BEN STILLER,,Male,FR1044,,,./datasets/fr/Family_44/Ben_Stiller_father/
+1115,CHRISTINE TAYLOR,,Female,FR1044,,,./datasets/fr/Family_44/Christine_Taylor_mother/
+1116,ELLA STILLER,,Female,FR1044,1114,1115,./datasets/fr/Family_44/Ella_Stiller_daughter/
+1117,ROB SCHNEIDER,,Male,FR1045,,,./datasets/fr/Family_45/Rob_Schneider_father/
+1118,LONDON KING,,Female,FR1045,,,./datasets/fr/Family_45/London_King_mother/
+1119,ELLE KING,,Female,FR1045,1117,1118,./datasets/fr/Family_45/elle_king_daughter/
+1120,DOLPH LUNDGREN,,Male,FR1046,,,./datasets/fr/Family_46/Dolph_Lundgren_father/
+1121,ANETTE QVIBERG,,Female,FR1046,,,./datasets/fr/Family_46/anette_qviberg_mother/
+1122,IDA LUNDGREN,,Female,FR1046,1120,1121,./datasets/fr/Family_46/Ida_Lundgren_daughter/
+1123,MOHAMED HADID,,Male,FR1047,,,./datasets/fr/Family_47/Mohamed_Hadid_father/
+1124,YOLANDA HADID,,Female,FR1047,,,./datasets/fr/Family_47/Yolanda_Hadid_mother/
+1125,GIGI HADID,,Female,FR1047,1123,1124,./datasets/fr/Family_47/Gigi_hadid_daughter/
+1126,MICHAEL SHEEN,,Male,FR1048,,,./datasets/fr/Family_48/Michael_Sheen_father/
+1127,BECKINSALE KATE,,Female,FR1048,,,./datasets/fr/Family_48/BECKINSALE_KATE_mother/
+1128,LILY MO SHEEN,,Female,FR1048,1126,1127,./datasets/fr/Family_48/Lily_Mo_Sheen_daughter/
+1129,KEVIN SMITH,,Male,FR1049,,,./datasets/fr/Family_49/Kevin_Smith_father/
+1130,JENNIFER SCHWALBACH SMITH,,Female,FR1049,,,./datasets/fr/Family_49/Jennifer_Schwalbach_Smith_mother/
+1131,HARLEY QUINN SMITH,,Female,FR1049,1129,1130,./datasets/fr/Family_49/harley_quinn_smith_daughter/
+1132,THOMAS JOUANNET,,Male,FR1005,,,./datasets/fr/Family_5/Thomas_Jouannet_father/
+1133,ALEXANDRA LAMY,,Female,FR1005,,,./datasets/fr/Family_5/Alexandra_Lamy_mother/
+1134,CHLOE JOUANNET,,Female,FR1005,1132,1133,./datasets/fr/Family_5/Chloe_Jouannet_daughter/
+1135,MIKKELSEN MADS,,Male,FR1050,,,./datasets/fr/Family_50/MIKKELSEN_MADS_father/
+1136,HANNE JACOBSEN,,Female,FR1050,,,./datasets/fr/Family_50/Hanne_Jacobsen_mother/
+1137,VIOLA JACOBSEN MIKKELSEN,,Female,FR1050,1135,1136,./datasets/fr/Family_50/Viola_Jacobsen_Mikkelsen_daughter/
+1138,KEITH ALLEN,,Male,FR1051,,,./datasets/fr/Family_51/Keith_Allen_father/
+1139,ALISON OWEN,,Female,FR1051,,,./datasets/fr/Family_51/Alison_Owen_mother/
+1140,LILY ALLEN,,Female,FR1051,1138,1139,./datasets/fr/Family_51/Lily_Allen_daughter/
+1141,STEVEN TYLER,,Male,FR1052,,,./datasets/fr/Family_52/Steven_Tyler_father/
+1142,BEBE BUELL,,Female,FR1052,,,./datasets/fr/Family_52/Bebe_Buell_mother/
+1143,LIV TYLER,,Female,FR1052,1141,1142,./datasets/fr/Family_52/liv_tyler_daughter/
+1144,CHARLES SPENCER,,Male,FR1053,,,./datasets/fr/Family_53/charles_spencer_father/
+1145,VICTORIA AITKEN,,Female,FR1053,,,./datasets/fr/Family_53/victoria_aitken_mother/
+1146,KITTY SPENCER,,Female,FR1053,1144,1145,./datasets/fr/Family_53/kitty_spencer_daughter/
+1147,KEVIN BACON,,Male,FR1054,,,./datasets/fr/Family_54/Kevin_Bacon_father/
+1148,KYRA SEDGWICK,,Female,FR1054,,,./datasets/fr/Family_54/Kyra_Sedgwick_mother/
+1149,SOSIE BACON,,Female,FR1054,1147,1148,./datasets/fr/Family_54/Sosie_Bacon_daughter/
+1150,XI JINPING,,Male,FR1055,,,./datasets/fr/Family_55/Xi_Jinping_father/
+1151,PENG LIYUAN,,Female,FR1055,,,./datasets/fr/Family_55/peng_liyuan_mother/
+1152,XI MINGZE,,Female,FR1055,1150,1151,./datasets/fr/Family_55/Xi_mingze_daughter/
+1153,PHILIPPE DE BELGIQUE,,Male,FR1056,,,./datasets/fr/Family_56/Philippe_de_Belgique_father/
+1154,MATHILDE D'UDEKEM D'ACOZ,,Female,FR1056,,,./datasets/fr/Family_56/Mathilde_d'Udekem_d'acoz_mother/
+1155,ELISABETH DE BELGIQUE,,Female,FR1056,1153,1154,./datasets/fr/Family_56/elisabeth_de_belgique_daughter/
+1156,JEAN CLAUDE VAN DAMME,,Male,FR1057,,,./datasets/fr/Family_57/Jean-Claude_Van_Damme_father/
+1157,GLADYS PORTUGUES,,Female,FR1057,,,./datasets/fr/Family_57/Gladys_Portugues_mother/
+1158,BIANCA BREE,,Female,FR1057,1156,1157,./datasets/fr/Family_57/Bianca_Bree_daughter/
+1159,ETHAN HAWKE,,Male,FR1058,,,./datasets/fr/Family_58/ethan_hawke_father/
+1160,UMA THURMAN,,Female,FR1058,,,./datasets/fr/Family_58/Uma_thurman_mother/
+1161,MAYA THURMAN HAWKE,,Female,FR1058,1159,1160,./datasets/fr/Family_58/Maya_Thurman-hawke_daughter/
+1162,GEORGE W BUSH,,Male,FR1059,,,./datasets/fr/Family_59/George_W._Bush_father/
+1163,LAURA BUSH,,Female,FR1059,,,./datasets/fr/Family_59/Laura_Bush_mother/
+1164,JENNA BUSH,,Female,FR1059,1162,1163,./datasets/fr/Family_59/Jenna_Bush_daughter/
+1165,AFFLECK BEN,,Male,FR1006,,,./datasets/fr/Family_6/AFFLECK_BEN_father/
+1166,JENNIFER GARNER,,Female,FR1006,,,./datasets/fr/Family_6/Jennifer_Garner_mother/
+1167,VIOLET AFFLECK,,Female,FR1006,1165,1166,./datasets/fr/Family_6/Violet_Affleck_daughter/
+1168,KENNY ANDERSON,,Male,FR1060,,,./datasets/fr/Family_60/Kenny_Anderson_father/
+1169,TAMI ROMAN,,Female,FR1060,,,./datasets/fr/Family_60/Tami_Roman_mother/
+1170,JAZZ ANDERSON,,Female,FR1060,1168,1169,./datasets/fr/Family_60/jazz_anderson_daughter/
+1171,JOSEPH GERMANOTTA,,Male,FR1061,,,./datasets/fr/Family_61/Joseph_Germanotta_father/
+1172,CYNTHIA GERMANOTTA,,Female,FR1061,,,./datasets/fr/Family_61/Cynthia_Germanotta_mother/
+1173,LADY GAGA,,Female,FR1061,1171,1172,./datasets/fr/Family_61/Lady_gaga_daughter/
+1174,RONALD FENTY,,Male,FR1062,,,./datasets/fr/Family_62/Ronald_fenty_father/
+1175,MONICA BRAITHWAITE,,Female,FR1062,,,./datasets/fr/Family_62/Monica_braithwaite_mother/
+1176,RIHANNA,,Female,FR1062,1174,1175,./datasets/fr/Family_62/rihanna_daughter/
+1177,MICHAEL JORDAN,,Male,FR1063,,,./datasets/fr/Family_63/Michael_Jordan_father/
+1178,JUANITA VANOY,,Female,FR1063,,,./datasets/fr/Family_63/Juanita_Vanoy_mother/
+1179,JASMINE JORDAN,,Female,FR1063,1177,1178,./datasets/fr/Family_63/Jasmine_Jordan_daughter/
+1180,SYLVESTER STALLONE,,Male,FR1064,,,./datasets/fr/Family_64/sylvester_stallone_father/
+1181,JENNIFER FLAVIN,,Female,FR1064,,,./datasets/fr/Family_64/jennifer_flavin_mother/
+1182,SISTINE ROSE STALLONE,,Female,FR1064,1180,1181,./datasets/fr/Family_64/sistine_rose_stallone_daughter/
+1183,CLINT EASTWOOD,,Male,FR1065,,,./datasets/fr/Family_65/Clint_eastwood_father/
+1184,FRANCES FISHER,,Female,FR1065,,,./datasets/fr/Family_65/Frances_Fisher_mother/
+1185,FRANCESCA FISHER EASTWOOD,,Female,FR1065,1183,1184,./datasets/fr/Family_65/Francesca_Fisher-Eastwood_daughter/
+1186,BRUCE WILLIS,,Male,FR1066,,,./datasets/fr/Family_66/Bruce_Willis_father/
+1187,DEMI MOORE,,Female,FR1066,,,./datasets/fr/Family_66/Demi_Moore_mother/
+1188,TALLULAH BELLE WILLIS,,Female,FR1066,1186,1187,./datasets/fr/Family_66/Tallulah_Belle_Willis_daughter/
+1189,BONO,,Male,FR1067,,,./datasets/fr/Family_67/Bono_father/
+1190,ALI HEWSON,,Female,FR1067,,,./datasets/fr/Family_67/Ali_hewson_mother/
+1191,EVE HEWSON,,Female,FR1067,1189,1190,./datasets/fr/Family_67/eve_hewson_daughter/
+1192,BILL GATES,,Male,FR1068,,,./datasets/fr/Family_68/Bill_gates_father/
+1193,MELINDA GATES,,Female,FR1068,,,./datasets/fr/Family_68/melinda_gates_mother/
+1194,JENNIFER KATHARINE GATES,,Female,FR1068,1192,1193,./datasets/fr/Family_68/Jennifer_Katharine_Gates_daughter/
+1195,SHAHRUKH KHAN,,Male,FR1069,,,./datasets/fr/Family_69/Shahrukh_Khan_father/
+1196,GAURI KHAN,,Female,FR1069,,,./datasets/fr/Family_69/Gauri_Khan_mother/
+1197,SUHANA KHAN,,Female,FR1069,1195,1196,./datasets/fr/Family_69/Suhana_Khan_daughter/
+1198,EMINEM,,Male,FR1007,,,./datasets/fr/Family_7/Eminem_father/
+1199,KIMBERLY ANNE SCOTT,,Female,FR1007,,,./datasets/fr/Family_7/Kimberly_Anne_Scott_mother/
+1200,HAILIE JADE SCOTT,,Female,FR1007,1198,1199,./datasets/fr/Family_7/Hailie_Jade_Scott_daughter/
+1201,SEAN PENN,,Male,FR1070,,,./datasets/fr/Family_70/Sean_Penn_father/
+1202,ROBIN WRIGHT,,Female,FR1070,,,./datasets/fr/Family_70/Robin_Wright_mother/
+1203,DYLAN PENN,,Female,FR1070,1201,1202,./datasets/fr/Family_70/Dylan_Penn_daughter/
+1204,AJAY DEVGAN,,Male,FR1071,,,./datasets/fr/Family_71/Ajay_Devgan_father/
+1205,KAJOL,,Female,FR1071,,,./datasets/fr/Family_71/kajol_mother/
+1206,NYSA DEVGAN,,Female,FR1071,1204,1205,./datasets/fr/Family_71/Nysa_Devgan_daughter/
+1207,BONEY KAPOOR,,Male,FR1072,,,./datasets/fr/Family_72/Boney_Kapoor_father/
+1208,SRIDEVI,,Female,FR1072,,,./datasets/fr/Family_72/Sridevi_mother/
+1209,KHUSHI KAPOOR,,Female,FR1072,1207,1208,./datasets/fr/Family_72/Khushi_Kapoor_daughter/
+1210,SANJAY KAPOOR,,Male,FR1073,,,./datasets/fr/Family_73/Sanjay_Kapoor_father/
+1211,MAHEEP SANDHU,,Female,FR1073,,,./datasets/fr/Family_73/maheep_sandhu_mother/
+1212,SHANAYA KAPOOR,,Female,FR1073,1210,1211,./datasets/fr/Family_73/Shanaya_Kapoor_daughter/
+1213,EDGAR ROSENBERG,,Male,FR1074,,,./datasets/fr/Family_74/Edgar_Rosenberg_father/
+1214,RIVERS JOAN,,Female,FR1074,,,./datasets/fr/Family_74/RIVERS_JOAN_mother/
+1215,MELISSA RIVERS,,Female,FR1074,1213,1214,./datasets/fr/Family_74/Melissa_Rivers_daughter/
+1216,SAIF ALI KHAN,,Male,FR1075,,,./datasets/fr/Family_75/Saif_Ali_Khan_father/
+1217,AMRITA SINGH,,Female,FR1075,,,./datasets/fr/Family_75/Amrita_Singh_mother/
+1218,SARA ALI KHAN,,Female,FR1075,1216,1217,./datasets/fr/Family_75/Sara_Ali_Khan_daughter/
+1219,CHUNKY PANDEY,,Male,FR1076,,,./datasets/fr/Family_76/chunky_pandey_father/
+1220,BHAVNA PANDEY,,Female,FR1076,,,./datasets/fr/Family_76/bhavna_pandey_mother/
+1221,ANANYA PANDAY,,Female,FR1076,1219,1220,./datasets/fr/Family_76/Ananya_Panday_daughter/
+1222,MICHAEL DOUGLAS,,Male,FR1077,,,./datasets/fr/Family_77/Michael_Douglas_father/
+1223,CATHERINE ZETA JONES,,Female,FR1077,,,./datasets/fr/Family_77/Catherine_Zeta-Jones_mother/
+1224,CARYS ZETA DOUGLAS,,Female,FR1077,1222,1223,./datasets/fr/Family_77/Carys_Zeta_Douglas_daughter/
+1225,TOM CRUISE,,Male,FR1078,,,./datasets/fr/Family_78/Tom_Cruise_father/
+1226,KATIE HOLMES,,Female,FR1078,,,./datasets/fr/Family_78/Katie_Holmes_mother/
+1227,SURI CRUISE,,Female,FR1078,1225,1226,./datasets/fr/Family_78/Suri_Cruise_daughter/
+1228,EDDIE MURPHY,,Male,FR1079,,,./datasets/fr/Family_79/Eddie_Murphy_father/
+1229,NICOLE MITCHELL MURPHY,,Female,FR1079,,,./datasets/fr/Family_79/Nicole_Mitchell_Murphy_mother/
+1230,BRIA MURPHY,,Female,FR1079,1228,1229,./datasets/fr/Family_79/Bria_Murphy_daughter/
+1231,BRYAN LOURD,,Male,FR1008,,,./datasets/fr/Family_8/Bryan_Lourd_father/
+1232,CARRIE FISHER,,Female,FR1008,,,./datasets/fr/Family_8/Carrie_Fisher_mother/
+1233,BILLIE LOURD,,Female,FR1008,1231,1232,./datasets/fr/Family_8/Billie_Lourd_daughter/
+1234,CHRIS CIAFFA,,Male,FR1080,,,./datasets/fr/Family_80/chris_ciaffa_father/
+1235,MIMI ROGERS,,Female,FR1080,,,./datasets/fr/Family_80/Mimi_Rogers_mother/
+1236,LUCY JULIA ROGERS CIAFFA,,Female,FR1080,1234,1235,./datasets/fr/Family_80/lucy_julia_rogers-ciaffa_daughter/
+1237,JEFFERSON HACK,,Male,FR1081,,,./datasets/fr/Family_81/Jefferson_Hack_father/
+1238,KATE MOSS,,Female,FR1081,,,./datasets/fr/Family_81/KATE_MOSS_mother/
+1239,LILA GRACE MOSS HACK,,Female,FR1081,1237,1238,./datasets/fr/Family_81/Lila_Grace_Moss-Hack_daughter/
+1240,SANJAY DUTT,,Male,FR1082,,,./datasets/fr/Family_82/Sanjay_Dutt_father/
+1241,TRISHALA DUTT,,Female,FR1082,,,./datasets/fr/Family_82/trishala_dutt_mother/
+1242,RICHA SHARMA,,Female,FR1082,1240,1241,./datasets/fr/Family_82/Richa_Sharma_daughter/
+1243,BRUCE PALTROW,,Male,FR1083,,,./datasets/fr/Family_83/Bruce_Paltrow_father/
+1244,BLYTHE DANNER,,Female,FR1083,,,./datasets/fr/Family_83/Blythe_Danner_mother/
+1245,GWYNETH PALTROW,,Female,FR1083,1243,1244,./datasets/fr/Family_83/Gwyneth_Paltrow_daughter/
+1246,JOSE CANSECO,,Male,FR1084,,,./datasets/fr/Family_84/Jose_Canseco_father/
+1247,JESSICA CANSECO,,Female,FR1084,,,./datasets/fr/Family_84/Jessica_canseco_mother/
+1248,JOSIE CANSECO,,Female,FR1084,1246,1247,./datasets/fr/Family_84/Josie_canseco_daughter/
+1249,ADULYADEJ BHUMIBOL,,Male,FR1085,,,./datasets/fr/Family_85/ADULYADEJ_BHUMIBOL_father/
+1250,SIRIKIT KITIYAKARA,,Female,FR1085,,,./datasets/fr/Family_85/sirikit_kitiyakara_mother/
+1251,UBOLRATANA RAJAKANYA,,Female,FR1085,1249,1250,./datasets/fr/Family_85/Ubolratana_Rajakanya_daughter/
+1252,WAYNE GRETZKY,,Male,FR1086,,,./datasets/fr/Family_86/wayne_Gretzky_father/
+1253,JANET JONES,,Female,FR1086,,,./datasets/fr/Family_86/janet_jones_mother/
+1254,PAULINA GRETZKY,,Female,FR1086,1252,1253,./datasets/fr/Family_86/paulina_gretzky_daughter/
+1255,GUSTAF KING CARL XVI,,Male,FR1087,,,./datasets/fr/Family_87/GUSTAF_KING_CARL_XVI_father/
+1256,SILVIA SOMMERLATH,,Female,FR1087,,,./datasets/fr/Family_87/Silvia_Sommerlath_mother/
+1257,VICTORIA DE SUEDE,,Female,FR1087,1255,1256,./datasets/fr/Family_87/Victoria_de_Suede_daughter/
+1258,HOWARD DEUTCH,,Male,FR1088,,,./datasets/fr/Family_88/Howard_Deutch_father/
+1259,LEA THOMPSON,,Female,FR1088,,,./datasets/fr/Family_88/Lea_Thompson_mother/
+1260,ZOEY DEUTCH,,Female,FR1088,1258,1259,./datasets/fr/Family_88/Zoey_Deutch_daughter/
+1261,STING,,Male,FR1089,,,./datasets/fr/Family_89/Sting_father/
+1262,TRUDIE STYLER,,Female,FR1089,,,./datasets/fr/Family_89/Trudie_Styler_mother/
+1263,MICKEY SUMNER,,Female,FR1089,1261,1262,./datasets/fr/Family_89/Mickey_Sumner_daughter/
+1264,LENNY KRAVITZ,,Male,FR1009,,,./datasets/fr/Family_9/Lenny_kravitz_father/
+1265,LISA BONET,,Female,FR1009,,,./datasets/fr/Family_9/Lisa_Bonet_mother/
+1266,ZOE KRAVITZ,,Female,FR1009,1264,1265,./datasets/fr/Family_9/Zoe_Kravitz_daughter/
+1267,MARK GASTINEAU,,Male,FR1090,,,./datasets/fr/Family_90/Mark_Gastineau_father/
+1268,LISA GASTINEAU,,Female,FR1090,,,./datasets/fr/Family_90/Lisa_Gastineau_mother/
+1269,BRITTNY GASTINEAU,,Female,FR1090,1267,1268,./datasets/fr/Family_90/Brittny_Gastineau_daughter/
+1270,LIL WAYNE,,Male,FR1091,,,./datasets/fr/Family_91/Lil_Wayne_father/
+1271,ANTONIA WRIGHT,,Female,FR1091,,,./datasets/fr/Family_91/Antonia_Wright_mother/
+1272,REGINAE CARTER,,Female,FR1091,1270,1271,./datasets/fr/Family_91/Reginae_Carter_daughter/
+1273,QUINCY JONES,,Male,FR1092,,,./datasets/fr/Family_92/Quincy_Jones_father/
+1274,PEGGY LIPTON,,Female,FR1092,,,./datasets/fr/Family_92/Peggy_Lipton_mother/
+1275,RASHIDA JONES,,Female,FR1092,1273,1274,./datasets/fr/Family_92/Rashida_Jones_daughter/
+1276,VALERI BURE,,Male,FR1093,,,./datasets/fr/Family_93/Valeri_Bure_father/
+1277,CANDACE CAMERON BURE,,Female,FR1093,,,./datasets/fr/Family_93/Candace_Cameron_Bure_mother/
+1278,NATASHA BURE,,Female,FR1093,1276,1277,./datasets/fr/Family_93/Natasha_Bure_daughter/
+1279,ELVIS PRESLEY COLOR,,Male,FR1094,,,./datasets/fr/Family_94/Elvis_Presley_color_father/
+1280,PRISCILLA PRESLEY,,Female,FR1094,,,./datasets/fr/Family_94/Priscilla_Presley_mother/
+1281,LISA MARIE PRESLEY,,Female,FR1094,1279,1280,./datasets/fr/Family_94/Lisa_Marie_Presley_daughter/
+1282,EDWARD DE WESSEX,,Male,FR1095,,,./datasets/fr/Family_95/Edward_de_Wessex_father/
+1283,SOPHIE RHYS JONES,,Female,FR1095,,,./datasets/fr/Family_95/Sophie_Rhys-Jones_mother/
+1284,LOUISE MOUNTBATTEN WINDSOR,,Female,FR1095,1282,1283,./datasets/fr/Family_95/Louise_Mountbatten-Windsor_daughter/
+1285,RAJESH KHANNA,,Male,FR1096,,,./datasets/fr/Family_96/Rajesh_Khanna_father/
+1286,DIMPLE KAPADIA,,Female,FR1096,,,./datasets/fr/Family_96/Dimple_Kapadia_mother/
+1287,TWINKLE KHANNA,,Female,FR1096,1285,1286,./datasets/fr/Family_96/Twinkle_Khanna_daughter/
+1288,SCHUMACHER MICHAEL,,Male,FR1097,,,./datasets/fr/Family_97/SCHUMACHER_MICHAEL_father/
+1289,CORINNA BETSCH,,Female,FR1097,,,./datasets/fr/Family_97/Corinna_Betsch_mother/
+1290,GINA MARIA SCHUMACHER,,Female,FR1097,1288,1289,./datasets/fr/Family_97/Gina_Maria_Schumacher_daughter/
+1291,FRANCIS FORD COPPOLA,,Male,FR1098,,,./datasets/fr/Family_98/Francis_Ford_Coppola_father/
+1292,ELEANOR COPPOLA,,Female,FR1098,,,./datasets/fr/Family_98/Eleanor_Coppola_mother/
+1293,SOFIA COPPOLA,,Female,FR1098,1291,1292,./datasets/fr/Family_98/Sofia_Coppola_daughter/
+1294,BRIAN WILSON,,Male,FR1099,,,./datasets/fr/Family_99/Brian_Wilson_father/
+1295,MARILYN WILSON,,Female,FR1099,,,./datasets/fr/Family_99/Marilyn_Wilson_mother/
+1296,WENDY WILSON,,Female,FR1099,1294,1295,./datasets/fr/Family_99/Wendy_Wilson_daughter/

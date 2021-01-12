@@ -87,12 +87,12 @@ pid,name,family_name,sex,fid,father_pid,mother_pid
 90,Sean,BEAN.SEAN,Male,F0062,,
 87,Lorna,BEAN.SEAN,Female,F0062,90.0,88.0
 89,Molly,BEAN.SEAN,Female,F0062,90.0,88.0
-88,Melanie,BEAN.SEAN,Female,F0062,90.0,
+88,Melanie,BEAN.SEAN,Female,F0062,,
 91,Cecily,BEAVER.CECILY,Female,F0063,,
 92,Madeline,BEAVER.CECILY,Female,F0063,93.0,91.0
 93,Jim,BEAVER.CECILY,Male,F0063,,
 94,Harper,BECKHAM.DAVID,Female,F0064,98.0,95.0
-95,Victoria,BECKHAM.DAVID,Female,F0064,98.0,
+95,Victoria,BECKHAM.DAVID,Female,F0064,,
 98,David,BECKHAM.DAVID,Male,F0064,,
 96,Brooklyn,BECKHAM.DAVID,Male,F0064,98.0,95.0
 97,Cruz,BECKHAM.DAVID,Male,F0064,98.0,95.0
@@ -157,7 +157,7 @@ pid,name,family_name,sex,fid,father_pid,mother_pid
 156,Cameron,BULLOCK.STEVE,Male,F0111,157.0,155.0
 158,Linda,CAAN.JAMES,Female,F0116,,
 159,Jacob,CAAN.JAMES,Male,F0116,161.0,158.0
-161,Jimmy,CAAN.JAMES,Male,F0116,160.0,158.0
+161,Jimmy,CAAN.JAMES,Male,F0116,,
 160,James,CAAN.JAMES,Male,F0116,,
 162,Scott,CAAN.JAMES,Male,F0116,160.0,
 163,Deidre,Pujols.Albert,Female,F0118,,
@@ -217,7 +217,7 @@ pid,name,family_name,sex,fid,father_pid,mother_pid
 220,Clint,Eastwood.Clint,Male,F0205,,
 218,Morgan,Eastwood.Clint,Female,F0205,220.0,217.0
 221,Kyle,Eastwood.Clint,Male,F0205,220.0,
-222,Scott,Eastwood.Clint,Male,F0205,220.0,219.0
+222,Scott,Eastwood.Clint,Male,F0205,220.0,
 217,Dina,Eastwood.Clint,Female,F0205,,
 219,Sandra,Eastwood.Clint,Female,F0205,,
 223,Alexia,FERDINAND.WILLEM-ALEXANDER,Female,F0232,227.0,226.0
@@ -232,15 +232,15 @@ pid,name,family_name,sex,fid,father_pid,mother_pid
 229,Maria,FERMI.ENRICO,Female,F0233,,
 232,Giulio,FERMI.ENRICO,Male,F0233,,
 234,Viveca (wife of will),FERREL.WILL,Female,F0234,,
-235,Axel (third child of will),FERREL.WILL,Male,F0234,,234.0
+235,Axel (third child of will),FERREL.WILL,Male,F0234,239.0,234.0
 236,Magnus (son of will),FERREL.WILL,Male,F0234,239.0,234.0
 237,Mattias (second son of will),FERREL.WILL,Male,F0234,239.0,234.0
-239,Will Ferrell,FERREL.WILL,Male,F0234,235.0,
+239,Will Ferrell,FERREL.WILL,Male,F0234,,
 238,Patrick (brother of will),FERREL.WILL,Male,F0234,,
 240,Leilani,Ferrer.Miguel,Female,F0235,,
-244,Jose Jr.,Ferrer.Miguel,Male,F0235,243.0,241.0
+244,Jose Jr.,Ferrer.Miguel,Male,F0235,,
 246,Miguel,Ferrer.Miguel,Male,F0235,243.0,242.0
-241,Lori,Ferrer.Miguel,Female,F0235,,
+241,Leilani,Ferrer.Miguel,Female,F0235,,
 245,Lukas,Ferrer.Miguel,Male,F0235,246.0,241.0
 242,Rosemary,Ferrer.Miguel,Female,F0235,,
 247,Rafael,Ferrer.Miguel,Male,F0235,243.0,242.0
