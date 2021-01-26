@@ -175,6 +175,11 @@ datasets/fr/*
 datasets/in/*
 datasets/ibb/*
 datasets/fiw/*
+datasets/ibb-landmarks/*
+datasets/ibb-landmarks-final/*
+datasets/ibb-landmarks-json/*
+datasets/ibb-landmarks - Copy/*
+datasets/ibb-h1-landmarks/*
 !datasets/**/annotations.csv
 !datasets/ibb/meta.csv
 !datasets/ibb/relations.csv

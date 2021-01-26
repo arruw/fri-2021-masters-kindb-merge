@@ -3,7 +3,7 @@ import pathlib
 from pprint import pprint
 from itertools import groupby
 
-annotations_file_path = "./datasets/fr/annotations.csv"
+annotations_file_path = "./annotations/ibb-annotations.csv"
 
 def is_useful(row):
   return \
