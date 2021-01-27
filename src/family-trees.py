@@ -55,4 +55,4 @@ nx.draw_networkx_edges(G, pos=pos, node_size=50, width=0.1, arrowsize=1, style="
 nx.draw_networkx_labels(G, pos=pos, labels=labels1, font_size=2)
 nx.draw_networkx_labels(G, pos={k:(v[0], v[1]-5) for k,v in pos.items()}, labels=labels2, font_size=1.5, font_color="#5a5a5a", verticalalignment="top")
 
-plt.savefig("./datasets/ibb/family-trees.pdf", format="pdf", orientation="landscape")
+plt.savefig("./annotations/family-trees.pdf", format="pdf", orientation="landscape")

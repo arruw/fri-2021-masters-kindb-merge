@@ -1,0 +1,196 @@
+pid,name,family_name,sex,fid,father_pid,mother_pid,paths
+IN1000,DAVID BECKHAM,,Male,IN1001,,,in/Family_1/David_Beckham_father
+IN1001,VICTORIA BECKHAM,,Female,IN1001,,,in/Family_1/Victoria_Beckham_mother
+IN1002,BROOKLYN BECKHAM,,Male,IN1001,IN1000,IN1001,in/Family_1/Brooklyn_Beckham_son
+IN1003,ARNAULT BERNARD,,Male,IN1010,,,in/Family_10/Arnault Bernard_father
+IN1004,HELENE,,Female,IN1010,,,in/Family_10/Helene_mother
+IN1005,FREDERIC ARNAULT,,Male,IN1010,IN1003,IN1004,in/Family_10/Frederic Arnault_son
+IN1006,RISHI KAPOOR,,Male,IN1103,,,in/Family_103/Rishi Kapoor_father
+IN1007,NEETU SINGH,,Female,IN1103,,,in/Family_103/Neetu Singh_mother
+IN1008,RANBIR KAPOOR,,Male,IN1103,IN1006,IN1007,in/Family_103/Ranbir kapoor_son
+IN1009,JAVED AKHTAR,,Male,IN1104,,,in/Family_104/Javed Akhtar_father
+IN1010,HONEY IRANI,,Female,IN1104,,,in/Family_104/Honey Irani_mother
+IN1011,FARHAN AKHTAR,,Male,IN1104,IN1009,IN1010,in/Family_104/Farhan Akhtar_son
+IN1012,DAVID DHAWAN,,Male,IN1106,,,in/Family_106/David Dhawan_father
+IN1013,KARUNA DHAWAN,,Female,IN1106,,,in/Family_106/Karuna Dhawan_mother
+IN1014,VARUN DHAWAN,,Male,IN1106,IN1012,IN1013,in/Family_106/Varun Dhawan_son
+IN1015,AMITABH BACHCHAN,,Male,IN1107,,,in/Family_107/Amitabh Bachchan_father
+IN1016,JAYA BACHCHAN,,Female,IN1107,,,in/Family_107/Jaya Bachchan_mother
+IN1017,ABHISHEK BACHCHAN,,Male,IN1107,IN1015,IN1016,in/Family_107/Abhishek Bachchan_son
+IN1018,ROB LOWE,,Male,IN1011,,,in/Family_11/Rob_Lowe_father
+IN1019,SHERYL BERKOFF,,Female,IN1011,,,in/Family_11/Sheryl_Berkoff_mother
+IN1020,JOHN OWEN LOWE,,Male,IN1011,IN1018,IN1019,in/Family_11/John_Owen_Lowe_son
+IN1021,RAJESH KHATTAR,,Male,IN1110,,,in/Family_110/Rajesh Khattar_father
+IN1022,NEELIMA AZEEM,,Female,IN1110,,,in/Family_110/Neelima Azeem_mother
+IN1023,ISHAAN KHATTAR,,Male,IN1110,IN1021,IN1022,in/Family_110/ishaan khattar_son
+IN1024,NITIN MUKESH,,Male,IN1111,,,in/Family_111/Nitin Mukesh_father
+IN1025,NISHI MUKESH,,Female,IN1111,,,in/Family_111/Nishi Mukesh_mother
+IN1026,NEIL NITIN MUKESH,,Male,IN1111,IN1024,IN1025,in/Family_111/Neil Nitin Mukesh_son
+IN1027,SURESH OBEROI,,Male,IN1112,,,in/Family_112/Suresh Oberoi_father
+IN1028,YASHODHARA OBEROI,,Female,IN1112,,,in/Family_112/Yashodhara Oberoi_mother
+IN1029,VIVEK OBEROI,,Male,IN1112,IN1027,IN1028,in/Family_112/Vivek Oberoi_son
+IN1030,RAKESH ROSHAN,,Male,IN1113,,,in/Family_113/Rakesh Roshan_father
+IN1031,PINKY ROSHAN,,Female,IN1113,,,in/Family_113/Pinky Roshan_mother
+IN1032,HRITHIK ROSHAN,,Male,IN1113,IN1030,IN1031,in/Family_113/Hrithik_Roshan_son
+IN1033,JACKIE SHROFF,,Male,IN1114,,,in/Family_114/Jackie Shroff_father
+IN1034,AYESHA SHROFF,,Female,IN1114,,,in/Family_114/Ayesha Shroff_mother
+IN1035,TIGER SHROFF,,Male,IN1114,IN1033,IN1034,in/Family_114/Tiger Shroff_son
+IN1036,WILLARD CARROLL SMITH SR,,Male,IN1115,,,"in/Family_115/Willard Carroll Smith, Sr_father"
+IN1037,CAROLINE BRIGHT,,Female,IN1115,,,in/Family_115/Caroline Bright_mother
+IN1038,WILL SMITH,,Male,IN1115,IN1036,IN1037,in/Family_115/Will Smith_son
+IN1039,WILL SMITH,,Male,IN1116,,,in/Family_116/Will Smith_father
+IN1040,JADA PINKETT SMITH,,Female,IN1116,,,in/Family_116/Jada Pinkett Smith_mother
+IN1041,JADEN SMITH,,Male,IN1116,IN1039,IN1040,in/Family_116/Jaden Smith_son
+IN1042,WILL SMITH,,Male,IN1117,,,in/Family_117/Will Smith_father
+IN1043,SHEREE ZAMPINO,,Female,IN1117,,,in/Family_117/Sheree Zampino_mother
+IN1044,TREY SMITH,,Male,IN1117,IN1042,IN1043,in/Family_117/Trey Smith_son
+IN1045,WILLIAM ALVIN PITT,,Male,IN1118,,,in/Family_118/William Alvin Pitt_father
+IN1046,JANE ETTA,,Female,IN1118,,,in/Family_118/Jane Etta_mother
+IN1047,BRAD PITT,,Male,IN1118,IN1045,IN1046,in/Family_118/Brad Pitt_son
+IN1048,BRAD PITT,,Male,IN1119,,,in/Family_119/Brad Pitt_father
+IN1049,ANGELINA JOLIE,,Female,IN1119,,,in/Family_119/Angelina Jolie_mother
+IN1050,JOHN JOLIE PITT,,Male,IN1119,IN1048,IN1049,in/Family_119/John Jolie-Pitt_son
+IN1051,GEORGE DICAPRIO,,Male,IN1120,,,in/Family_120/George DiCaprio_father
+IN1052,IRMELIN INDENBIRKEN,,Female,IN1120,,,in/Family_120/Irmelin Indenbirken_mother
+IN1053,LEONARDO DICAPRIO,,Male,IN1120,IN1051,IN1052,in/Family_120/Leonardo DiCaprio_son
+IN1054,TOM HANKS,,Male,IN1121,,,in/Family_121/Tom Hanks_father
+IN1055,RITA WILSON,,Female,IN1121,,,in/Family_121/Rita_Wilson_mother
+IN1056,CHET HANKS,,Male,IN1121,IN1054,IN1055,in/Family_121/Chet Hanks_son
+IN1057,KENT DAMON,,Male,IN1123,,,in/Family_123/Kent Damon_father
+IN1058,NANCY CARLSSON PAIGE,,Female,IN1123,,,in/Family_123/Nancy Carlsson-Paige_mother
+IN1059,MATT DAMON,,Male,IN1123,IN1057,IN1058,in/Family_123/Matt Damon_son
+IN1060,CHRISTOPHER JOHN JACKMAN,,Male,IN1124,,,in/Family_124/Christopher John Jackman_father
+IN1061,GRACE MCNEIL,,Female,IN1124,,,in/Family_124/Grace McNeil_mother
+IN1062,HUGH JACKMAN,,Male,IN1124,IN1060,IN1061,in/Family_124/Hugh Jackman_son
+IN1063,CRAIG HEMSWORTH,,Male,IN1125,,,in/Family_125/Craig Hemsworth_father
+IN1064,LEONIE HEMSWORTH,,Female,IN1125,,,in/Family_125/Leonie Hemsworth_mother
+IN1065,CHRIS HEMSWORT,,Male,IN1125,IN1063,IN1064,in/Family_125/Chris Hemswort_son
+IN1066,CRAIG HEMSWORTH,,Male,IN1126,,,in/Family_126/Craig Hemsworth_father
+IN1067,LEONIE HEMSWORTH,,Female,IN1126,,,in/Family_126/Leonie Hemsworth_mother
+IN1068,LIAM HEMSWORTH,,Male,IN1126,IN1066,IN1067,in/Family_126/Liam Hemsworth_son
+IN1069,DAVID BALE,,Male,IN1127,,,in/Family_127/David Bale_father
+IN1070,JENNY BALE,,Female,IN1127,,,in/Family_127/Jenny Bale_mother
+IN1071,CHRISTIAN BALE,,Male,IN1127,IN1069,IN1070,in/Family_127/Christian Bale_son
+IN1072,BARNES MATT,,Male,IN1013,,,in/Family_13/Barnes Matt_father
+IN1073,GLORIA,,Female,IN1013,,,in/Family_13/Gloria_mother
+IN1074,ISIAH,,Male,IN1013,IN1072,IN1073,in/Family_13/Isiah_son
+IN1075,SYLVESTER STALLONE,,Male,IN1131,,,in/Family_131/Sylvester Stallone_father
+IN1076,SASHA CZACK,,Female,IN1131,,,in/Family_131/Sasha Czack_mother
+IN1077,SAGE STALLONE,,Male,IN1131,IN1075,IN1076,in/Family_131/Sage Stallone_son
+IN1078,AUGUST COPPOLA,,Male,IN1133,,,in/Family_133/August Coppola_father
+IN1079,JOY VOGELSANG,,Female,IN1133,,,in/Family_133/Joy Vogelsang_mother
+IN1080,NICOLAS CAGE,,Male,IN1133,IN1078,IN1079,in/Family_133/Nicolas Cage_son
+IN1081,ARNOLD SCHWARZENEGGER,,Male,IN1134,,,in/Family_134/Arnold Schwarzenegger_father
+IN1082,MARIA SHRIVER,,Female,IN1134,,,in/Family_134/Maria Shriver_mother
+IN1083,JOSEPH BAENA,,Male,IN1134,IN1081,IN1082,in/Family_134/Joseph Baena_son
+IN1084,ARNOLD SCHWARZENEGGER,,Male,IN1135,,,in/Family_135/Arnold Schwarzenegger_father
+IN1085,MARIA SHRIVER,,Female,IN1135,,,in/Family_135/Maria Shriver_mother
+IN1086,PATRICK SCHWARZENEGGER,,Male,IN1135,IN1084,IN1085,in/Family_135/Patrick Schwarzenegger_son
+IN1087,DOMINIC HOLLAND,,Male,IN1139,,,in/Family_139/Dominic Holland_father
+IN1088,NICOLA ELIZABETH FROST,,Female,IN1139,,,in/Family_139/Nicola Elizabeth Frost_mother
+IN1089,TOM HOLLAND,,Male,IN1139,IN1087,IN1088,in/Family_139/Tom holland_son
+IN1090,TIMOTHY CARLTON,,Male,IN1141,,,in/Family_141/Timothy Carlton_father
+IN1091,WANDA VENTHAM,,Female,IN1141,,,in/Family_141/Wanda Ventham_mother
+IN1092,BENEDICT CUMBERBATCH,,Male,IN1141,IN1090,IN1091,in/Family_141/Benedict Cumberbatch_son
+IN1093,YASH CHOPRA,,Male,IN1143,,,in/Family_143/Yash Chopra_father
+IN1094,PAMELA CHOPRA,,Female,IN1143,,,in/Family_143/Pamela chopra_mother
+IN1095,UDAY CHOPRA,,Male,IN1143,IN1093,IN1094,in/Family_143/Uday Chopra_son
+IN1096,CHIRANJEEVI,,Male,IN1146,,,in/Family_146/Chiranjeevi_father
+IN1097,SUREKHA KONIDELA,,Female,IN1146,,,in/Family_146/Surekha Konidela_mother
+IN1098,RAM CHARAN,,Male,IN1146,IN1096,IN1097,in/Family_146/Ram Charan_son
+IN1099,PANKAJ KAPUR,,Male,IN1149,,,in/Family_149/Pankaj Kapur_father
+IN1100,NEELIMA AZEEM,,Female,IN1149,,,in/Family_149/Neelima Azeem_mother
+IN1101,SHAHID KAPOOR,,Male,IN1149,IN1099,IN1100,in/Family_149/Shahid Kapoor_son
+IN1102,SEAN PENN,,Male,IN1150,,,in/Family_150/Sean_Penn_father
+IN1103,ROBIN WRIGHT,,Female,IN1150,,,in/Family_150/Robin_Wright_mother
+IN1104,HOPPER PENN,,Male,IN1150,IN1102,IN1103,in/Family_150/Hopper_Penn_son
+IN1105,CHRIS BOSH,,Male,IN1017,,,in/Family_17/Chris Bosh_father
+IN1106,ADRIENNE BOSH,,Female,IN1017,,,in/Family_17/Adrienne Bosh_mother
+IN1107,JACKSON BOSH,,Male,IN1017,IN1105,IN1106,in/Family_17/Jackson Bosh_son
+IN1108,SEAN COMBS,,Male,IN1019,,,in/Family_19/Sean_Combs_father
+IN1109,KIM PORTER,,Female,IN1019,,,in/Family_19/Kim_Porter_mother
+IN1110,QUINCY COMBS,,Male,IN1019,IN1108,IN1109,in/Family_19/Quincy_Combs_son
+IN1111,ARNAULT BERNARD,,Male,IN1002,,,in/Family_2/Arnault Bernard_father
+IN1112,HELENE,,Female,IN1002,,,in/Family_2/Helene_mother
+IN1113,ALEXANDRE,,Male,IN1002,IN1111,IN1112,in/Family_2/Alexandre_son
+IN1114,DAVID BECKHAM,,Male,IN1020,,,in/Family_20/David_Beckham_father
+IN1115,VICTORIA BECKHAM,,Female,IN1020,,,in/Family_20/Victoria_Beckham_mother
+IN1116,ROMEO BECKHAM,,Male,IN1020,IN1114,IN1115,in/Family_20/Romeo_Beckham_son
+IN1117,BRANSON RICHARD,,Male,IN1021,,,in/Family_21/Branson Richard_father
+IN1118,JOAN,,Female,IN1021,,,in/Family_21/Joan_mother
+IN1119,SAM,,Male,IN1021,IN1117,IN1118,in/Family_21/Sam_son
+IN1120,CHRISTOPHER GAVIGAN,,Male,IN1026,,,in/Family_26/Christopher Gavigan_father
+IN1121,JESSICA CAPSHAW,,Female,IN1026,,,in/Family_26/Jessica Capshaw_mother
+IN1122,LUKE HUDSON GAVIGAN,,Male,IN1026,IN1120,IN1121,in/Family_26/Luke Hudson Gavigan_son
+IN1123,ADULYADEJ BHUMIBOL,,Male,IN1003,,,in/Family_3/Adulyadej Bhumibol_father
+IN1124,SIRIKIT,,Female,IN1003,,,in/Family_3/Sirikit_mother
+IN1125,MAHA,,Male,IN1003,IN1123,IN1124,in/Family_3/Maha_son
+IN1126,JAKOB DYLAN,,Male,IN1032,,,in/Family_32/Jakob_Dylan_father
+IN1127,PAIGE DYLAN,,Female,IN1032,,,in/Family_32/Paige_Dylan_mother
+IN1128,LEVI DYLAN,,Male,IN1032,IN1126,IN1127,in/Family_32/Levi_Dylan_son
+IN1129,EASTWOOD CLINT,,Male,IN1033,,,in/Family_33/Eastwood Clint_father
+IN1130,JACELYN REEVES,,Female,IN1033,,,in/Family_33/Jacelyn Reeves_mother
+IN1131,SCOTT,,Male,IN1033,IN1129,IN1130,in/Family_33/Scott_son
+IN1132,JOSE FERRER,,Male,IN1039,,,in/Family_39/Jose Ferrer_father
+IN1133,ROSEMARY,,Female,IN1039,,,in/Family_39/Rosemary_mother
+IN1134,MIGUEL,,Male,IN1039,IN1132,IN1133,in/Family_39/Miguel_son
+IN1135,ARNOLD SCHWARZENEGGER,,Male,IN1004,,,in/Family_4/Arnold_Schwarzenegger_father
+IN1136,MARIA SHRIVER,,Female,IN1004,,,in/Family_4/Maria_Shriver_mother
+IN1137,PATRICK SCHWARZENEGGER,,Male,IN1004,IN1135,IN1136,in/Family_4/Patrick_Schwarzenegger_son
+IN1138,GUSTAF KING CARL XVI,,Male,IN1048,,,in/Family_48/Gustaf King Carl XVI_father
+IN1139,SILIVIA,,Female,IN1048,,,in/Family_48/Silivia_mother
+IN1140,PHILIP,,Male,IN1048,IN1138,IN1139,in/Family_48/Philip_son
+IN1141,TOMMY LEE,,Male,IN1005,,,in/Family_5/Tommy_Lee_father
+IN1142,PAMELA ANDERSON,,Female,IN1005,,,in/Family_5/Pamela_Anderson_mother
+IN1143,BRANDON THOMAS LEE,,Male,IN1005,IN1141,IN1142,in/Family_5/Brandon_Thomas_Lee_son
+IN1144,CHRIS MARTIN,,Male,IN1050,,,in/Family_50/Chris Martin_father
+IN1145,GWYNETH,,Female,IN1050,,,in/Family_50/Gwyneth_mother
+IN1146,MOSES,,Male,IN1050,IN1144,IN1145,in/Family_50/Moses_son
+IN1147,ROCKY JOHNSON,,Male,IN1054,,,in/Family_54/Rocky Johnson_father
+IN1148,ATA,,Female,IN1054,,,in/Family_54/Ata_mother
+IN1149,JOHNSON DWAYNE,,Male,IN1054,IN1147,IN1148,in/Family_54/Johnson Dwayne_son
+IN1150,LENNON JOHN,,Male,IN1059,,,in/Family_59/lennon John_father
+IN1151,CYNTHIA,,Female,IN1059,,,in/Family_59/Cynthia_mother
+IN1152,JULIAN,,Male,IN1059,IN1150,IN1151,in/Family_59/Julian_son
+IN1153,BARNES MATT,,Male,IN1006,,,in/Family_6/Barnes Matt_father
+IN1154,GLORIA,,Female,IN1006,,,in/Family_6/Gloria_mother
+IN1155,CARTER,,Male,IN1006,IN1153,IN1154,in/Family_6/Carter_son
+IN1156,GUY RITCHIE,,Male,IN1064,,,in/Family_64/Guy Ritchie_father
+IN1157,MADONNA,,Female,IN1064,,,in/Family_64/Madonna_mother
+IN1158,ROCCO RITCHIE,,Male,IN1064,IN1156,IN1157,in/Family_64/Rocco Ritchie_son
+IN1159,LUIS,,Male,IN1067,,,in/Family_67/Luis_father
+IN1160,VILMA,,Female,IN1067,,,in/Family_67/Vilma_mother
+IN1161,MANZANO LUIS,,Male,IN1067,IN1159,IN1160,in/Family_67/Manzano Luis_son
+IN1162,JUDE LAW,,Male,IN1007,,,in/Family_7/Jude_Law_father
+IN1163,SADIE FROST,,Female,IN1007,,,in/Family_7/Sadie_Frost_mother
+IN1164,RAFFERTY LAW,,Male,IN1007,IN1162,IN1163,in/Family_7/Rafferty_Law_son
+IN1165,PERSSON STEFAN,,Male,IN1070,,,in/Family_70/Persson Stefan_father
+IN1166,DENISE,,Female,IN1070,,,in/Family_70/Denise_mother
+IN1167,KARL,,Male,IN1070,IN1165,IN1166,in/Family_70/Karl_son
+IN1168,JON GOSSELIN,,Male,IN1071,,,in/Family_71/jon gosselin_father
+IN1169,KATE,,Female,IN1071,,,in/Family_71/Kate_mother
+IN1170,COLLIN THOMAS GOSSELIN,,Male,IN1071,IN1168,IN1169,in/Family_71/Collin Thomas Gosselin_son
+IN1171,BRAD PITT,,Male,IN1072,,,in/Family_72/Brad Pitt_father
+IN1172,ANGELINA,,Female,IN1072,,,in/Family_72/Angelina_mother
+IN1173,KNOX,,Male,IN1072,IN1171,IN1172,in/Family_72/Knox_son
+IN1174,ROBBEN ARJEN,,Male,IN1076,,,in/Family_76/Robben Arjen_father
+IN1175,BERNADIEN,,Female,IN1076,,,in/Family_76/Bernadien_mother
+IN1176,LUKA,,Male,IN1076,IN1174,IN1175,in/Family_76/Luka_son
+IN1177,CLIFFORD JOSEPH HARRIS JR,,Male,IN1008,,,in/Family_8/Clifford_Joseph_Harris_Jr._father
+IN1178,LASHON DIXON,,Female,IN1008,,,in/Family_8/Lashon_Dixon_mother
+IN1179,DOMANI HARRIS,,Male,IN1008,IN1177,IN1178,in/Family_8/Domani_Harris_son
+IN1180,SCHUMACHER MICHAEL,,Male,IN1082,,,in/Family_82/Schumacher MICHAEL_father
+IN1181,CORINNA,,Female,IN1082,,,in/Family_82/Corinna_mother
+IN1182,MICK,,Male,IN1082,IN1180,IN1181,in/Family_82/Mick_son
+IN1183,ANTONY ARMSTRONG JONES 1ST EARL OF SNOWDON,,Male,IN1084,,,"in/Family_84/Antony Armstrong-Jones, 1st Earl of Snowdon_father"
+IN1184,PRINCESS MARGARET COUNTESS OF SNOWDON,,Female,IN1084,,,"in/Family_84/Princess Margaret, Countess of Snowdon_mother"
+IN1185,DAVID ARMSTRONG JONES 2ND EARL OF SNOWDON,,Male,IN1084,IN1183,IN1184,"in/Family_84/David Armstrong-Jones, 2nd Earl of Snowdon_son"
+IN1186,WAHLBERG MARK,,Male,IN1086,,,in/Family_86/Wahlberg Mark_father
+IN1187,RHEA,,Female,IN1086,,,in/Family_86/Rhea_mother
+IN1188,MICHAEL,,Male,IN1086,IN1186,IN1187,in/Family_86/Michael_son
+IN1189,GEORGE SANTO PIETRO,,Male,IN1088,,,in/Family_88/George Santo Pietro_father
+IN1190,WHITE VANNA,,Female,IN1088,,,in/Family_88/White Vanna_mother
+IN1191,NIKKO,,Male,IN1088,IN1189,IN1190,in/Family_88/Nikko_son
+IN1192,CLIFFORD JOSEPH HARRIS JR,,Male,IN1009,,,in/Family_9/Clifford_Joseph_Harris_Jr._father
+IN1193,LASHON DIXON,,Female,IN1009,,,in/Family_9/Lashon_Dixon_mother
+IN1194,MESSIAH YA MAJESTY HARRIS,,Male,IN1009,IN1192,IN1193,in/Family_9/Messiah_Ya_Majesty_Harris_son

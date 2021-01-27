@@ -14,7 +14,7 @@ ibb_persons = pd.read_csv('./annotations/ibb-persons.csv')
 
 def ibb_pid2label(pid):
     row = ibb_persons.loc[ibb_persons['pid'] == int(pid)]
-    return f"{row['family_name'].to_string(header=False, index=False)}/{pid}/{row['name'].to_string(header=False, index=False)}"
+    return f"{row['fid'].to_string(header=False, index=False)}/{row['family_name'].to_string(header=False, index=False)}/{pid}/{row['name'].to_string(header=False, index=False)}"
 
 df1["person"] = df1["path"].map(lambda x: "/".join(x.split("/")[-4:-1]))
 df2["person"] = df2["path"].map(lambda x: ibb_pid2label(x.split("/")[-1].replace("_", "-").split("-")[0]))

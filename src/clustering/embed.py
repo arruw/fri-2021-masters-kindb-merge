@@ -69,31 +69,42 @@ embeddings = []
 image_paths = []
 
 images = []
-# images += glob("../../datasets/fr/**/*.jpg", recursive=True)
-# images += glob("../../datasets/in/**/*.jpg", recursive=True)
-images += get_ibb_images()
+images += glob("./datasets/fr/**/*.jpg", recursive=True)
+images += glob("./datasets/in/**/*.jpg", recursive=True)
+images += glob("./datasets/fr/**/*.jpeg", recursive=True)
+images += glob("./datasets/in/**/*.jpeg", recursive=True)
+images += glob("./datasets/fr/**/*.png", recursive=True)
+images += glob("./datasets/in/**/*.png", recursive=True)
+images += glob("./datasets/fr/**/*.JPG", recursive=True)
+images += glob("./datasets/in/**/*.JPG", recursive=True)
+images += glob("./datasets/fr/**/*.JPEG", recursive=True)
+images += glob("./datasets/in/**/*.JPEG", recursive=True)
+images += glob("./datasets/fr/**/*.PNG", recursive=True)
+images += glob("./datasets/in/**/*.PNG", recursive=True)
+# images += get_ibb_images()
 
 for img_path in tqdm(images):
     with torch.no_grad():
         try:
             img_pil = Image.open(img_path).convert("RGB")
-            _, _, points = mtcnn.detect(img_pil, landmarks=True)
+            # _, _, points = mtcnn.detect(img_pil, landmarks=True)
 
-            # align
-            cx, cy, angle = get_pivot(points[0,0:2,0], points[0,0:2,1])
-            aligned_image = Image.fromarray(
-                cv2.cvtColor(
-                    cv2.warpAffine(
-                        cv2.cvtColor(np.array(img_pil), cv2.COLOR_RGB2BGR),
-                        cv2.getRotationMatrix2D((cx, cy),angle,1),
-                        (img_pil.width, img_pil.height)
-                    ),
-                    cv2.COLOR_BGR2RGB
-                )
-            )
+            # # align
+            # cx, cy, angle = get_pivot(points[0,0:2,0], points[0,0:2,1])
+            # aligned_image = Image.fromarray(
+            #     cv2.cvtColor(
+            #         cv2.warpAffine(
+            #             cv2.cvtColor(np.array(img_pil), cv2.COLOR_RGB2BGR),
+            #             cv2.getRotationMatrix2D((cx, cy),angle,1),
+            #             (img_pil.width, img_pil.height)
+            #         ),
+            #         cv2.COLOR_BGR2RGB
+            #     )
+            # )
 
             # crop
-            img_cropped = mtcnn(aligned_image)
+            img_cropped = mtcnn(img_pil)
+            # img_cropped = mtcnn(aligned_image)
 
             # embed
             img_embedding = resnet(img_cropped.unsqueeze(0))
@@ -104,4 +115,4 @@ for img_path in tqdm(images):
 
 # store computed embeddings
 df = pd.concat([pd.DataFrame({'path': image_paths}), pd.DataFrame(embeddings)], axis=1)
-df.to_csv('./annotations/ibb-embeddings.csv', index=False)
+df.to_csv('./annotations/fr-in-embeddings.csv', index=False)

@@ -29,6 +29,11 @@ del persons["Path"]
 del persons["Comment"]
 del persons["Full Name"]
 
+persons["pid"] = persons["pid"].map(lambda x: f"FR{x}")
+persons["father_pid"] = persons["father_pid"].map(lambda x: f"FR{x}" if x else None)
+persons["mother_pid"] = persons["mother_pid"].map(lambda x: f"FR{x}" if x else None)
+persons["paths"] = persons["paths"].map(lambda x: x.replace("./datasets/", "")[:-1])
+
 persons.to_csv("./annotations/fr-persons.csv", index=False)
 
-print(persons.head())
+print(persons.head(50))
