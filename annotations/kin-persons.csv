@@ -3,8 +3,8 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 1066,Michael,ADAY.MICHAEL,M,,,['9']
 650,Amanda,ADAY.MICHAEL,F,1066.0,,['6']
 166,Chulabhorn,ADULYADEJ.BHUMIBOL,F,859.0,143.0,['10']
-143,Sirikit,ADULYADEJ.BHUMIBOL,F,,,"['in/Family_3/Sirikit_mother', '12']"
-859,Adulyadej Bhumibol,ADULYADEJ.BHUMIBOL,M,,142.0,"['in/Family_3/Adulyadej Bhumibol_father', 'fr/Family_85/ADULYADEJ_BHUMIBOL_father', '17']"
+143,Sirikit,ADULYADEJ.BHUMIBOL,F,,,"['12', 'in/Family_3/Sirikit_mother']"
+859,Adulyadej Bhumibol,ADULYADEJ.BHUMIBOL,M,,142.0,"['in/Family_3/Adulyadej Bhumibol_father', '17', 'fr/Family_85/ADULYADEJ_BHUMIBOL_father']"
 201,Stringhorn,ADULYADEJ.BHUMIBOL,F,859.0,143.0,['14']
 615,Maha,ADULYADEJ.BHUMIBOL,M,859.0,143.0,"['in/Family_3/Maha_son', '18']"
 164,Ubolratana,ADULYADEJ.BHUMIBOL,F,859.0,143.0,['15']
@@ -47,12 +47,12 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 804,Frederic,ARNAULT.BERNARD,M,652.0,335.0,['65']
 1000,Antoine,ARNAULT.BERNARD,M,652.0,,['63']
 652,Bernard,ARNAULT.BERNARD,M,,,['64']
-335,Helene,ARNAULT.BERNARD,F,,,"['in/Family_10/Helene_mother', '61']"
+335,Helene,ARNAULT.BERNARD,F,,,"['61', 'in/Family_10/Helene_mother']"
 800,Alex,ARNAULT.BERNARD,M,652.0,335.0,['62']
 792,Jose,ARROYO.GLORIA,M,,,['68']
 138,Gloria,ARROYO.GLORIA,F,,,['66']
 276,Baranski Christine,BARANSKI.CHRISTINE,F,,,"['fr/Family_4/BARANSKI_CHRISTINE_mother', '69']"
-529,Lily Cowles,BARANSKI.CHRISTINE,F,984.0,276.0,"['fr/Family_4/lily_cowles_daughter', '71']"
+529,Lily Cowles,BARANSKI.CHRISTINE,F,984.0,276.0,"['71', 'fr/Family_4/lily_cowles_daughter']"
 957,Javier,BARDEM-CRUZ.JAVIER&PENELOPE,M,,436.0,['77']
 451,Penelope,BARDEM-CRUZ.JAVIER&PENELOPE,F,,,['74']
 436,Pilar,BARDEM-CRUZ.JAVIER&PENELOPE,F,,,['75']
@@ -68,7 +68,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 989,Sean,BEAN.SEAN,M,,,['90']
 465,Molly,BEAN.SEAN,F,989.0,646.0,['89']
 466,Lorna,BEAN.SEAN,F,989.0,646.0,['87']
-646,Melanie,BEAN.SEAN,F,989.0,,['88']
+646,Melanie,BEAN.SEAN,F,,,['88']
 786,Madeline,BEAVER.CECILY,F,20.0,927.0,['92']
 927,Cecily,BEAVER.CECILY,F,,,['91']
 20,Jim,BEAVER.CECILY,M,,,['93']
@@ -76,12 +76,12 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 254,Cruz,BECKHAM.DAVID,M,1070.0,322.0,['97']
 1070,David,BECKHAM.DAVID,M,,,['98']
 241,Harper,BECKHAM.DAVID,F,1070.0,322.0,['94']
-322,Victoria,BECKHAM.DAVID,F,1070.0,,['95']
+322,Victoria,BECKHAM.DAVID,F,,,['95']
 308,Brooklyn,BECKHAM.DAVID,M,1070.0,322.0,['96']
-521,Lily Mo Sheen,BECKINSDALE.KATE,F,4.0,441.0,"['fr/Family_48/Lily_Mo_Sheen_daughter', '102']"
+521,Lily Mo Sheen,BECKINSDALE.KATE,F,4.0,441.0,"['102', 'fr/Family_48/Lily_Mo_Sheen_daughter']"
 675,Judy,BECKINSDALE.KATE,F,,,['100']
 936,Richard,BECKINSDALE.KATE,M,,,['103']
-441,Beckinsale Kate,BECKINSDALE.KATE,F,936.0,675.0,"['fr/Family_48/BECKINSALE_KATE_mother', '101']"
+441,Beckinsale Kate,BECKINSDALE.KATE,F,936.0,675.0,"['101', 'fr/Family_48/BECKINSALE_KATE_mother']"
 176,Trinity,BOSH.CHRIS,F,147.0,889.0,['120']
 177,Jackson,BOSH.CHRIS,M,147.0,889.0,['122']
 889,Adrienne,BOSH.CHRIS,F,,,['118']
@@ -117,7 +117,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 55,James,CAAN.JAMES,M,,,['160']
 641,Christopher Gavigan,CAPSHAW-GAVIGAN,M,,,"['in/Family_26/Christopher Gavigan_father', '174']"
 216,Kate,CAPSHAW-GAVIGAN,F,,,['172']
-672,Jessica Capshaw,CAPSHAW-GAVIGAN,F,,216.0,"['in/Family_26/Jessica Capshaw_mother', '171']"
+672,Jessica Capshaw,CAPSHAW-GAVIGAN,F,,216.0,"['171', 'in/Family_26/Jessica Capshaw_mother']"
 207,Luke,CAPSHAW-GAVIGAN,M,641.0,672.0,['175']
 215,Poppy,CAPSHAW-GAVIGAN,F,641.0,672.0,['173']
 217,Eve,CAPSHAW-GAVIGAN,F,641.0,672.0,['170']
@@ -157,11 +157,11 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 378,Diana (mother),Douglas.Michael,F,,,['847']
 438,Catherine Zeta Jones,Douglas.Michael,F,,,"['849', 'fr/Family_77/Catherine_Zeta-Jones_mother']"
 973,Cameron (son),Douglas.Michael,M,,,['850']
-602,Michael Douglas,Douglas.Michael,M,,,"['fr/Family_77/Michael_Douglas_father', '845']"
+602,Michael Douglas,Douglas.Michael,M,,,"['845', 'fr/Family_77/Michael_Douglas_father']"
 37,Kirk (father),Douglas.Michael,M,,,['846']
 306,Dylan Michael (son),Douglas.Michael,M,,,['848']
 343,Maggie,EASTWOOD-JOHNSON,F,,,['213']
-28,Clint Eastwood,EASTWOOD-JOHNSON,M,,,"['220', 'fr/Family_65/Clint_eastwood_father', 'in/Family_33/Eastwood Clint_father', '214']"
+28,Eastwood Clint,EASTWOOD-JOHNSON,M,,,"['220', 'fr/Family_65/Clint_eastwood_father', '214', 'in/Family_33/Eastwood Clint_father']"
 396,Allison,EASTWOOD-JOHNSON,F,28.0,343.0,"['216', '212']"
 1083,Kyle,EASTWOOD-JOHNSON,M,28.0,343.0,"['221', '215']"
 790,Dina,Eastwood.Clint,F,,,['217']
@@ -182,10 +182,10 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 561,Amalia,FERDINAND.WILLEM-ALEXANDER,F,65.0,290.0,['224']
 914,Patrick (brother Of Will),FERREL.WILL,M,,,['238']
 206,Mattias (second Son Of Will),FERREL.WILL,M,689.0,658.0,['237']
-226,Axel (third Child Of Will),FERREL.WILL,M,,658.0,['235']
+226,Axel (third Child Of Will),FERREL.WILL,M,689.0,658.0,['235']
 658,Viveca (wife Of Will),FERREL.WILL,F,,,['234']
 228,Magnus (son Of Will),FERREL.WILL,M,689.0,658.0,['236']
-689,Will Ferrell,FERREL.WILL,M,226.0,,['239']
+689,Will Ferrell,FERREL.WILL,M,,,['239']
 902,Clara,FORD.HENRY,F,,,['248']
 838,Edsel,FORD.HENRY,M,638.0,902.0,['250']
 638,Henry,FORD.HENRY,M,,,['251']
@@ -215,7 +215,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 1047,Marc,GASOL.PAU,M,,,['302']
 1005,Pau,GASOL.PAU,M,,,['303']
 590,Bill Gates,GATES.BILL,M,35.0,,"['307', 'fr/Family_68/Bill_gates_father']"
-817,Melinda Gates,GATES.BILL,F,,,"['fr/Family_68/melinda_gates_mother', '305']"
+817,Melinda Gates,GATES.BILL,F,,,"['305', 'fr/Family_68/melinda_gates_mother']"
 736,Rory,GATES.BILL,M,590.0,817.0,['309']
 35,Bill Sr,GATES.BILL,M,,,['308']
 994,Jennifer Katharine Gates,GATES.BILL,F,590.0,817.0,"['304', 'fr/Family_68/Jennifer_Katharine_Gates_daughter']"
@@ -263,7 +263,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 595,Mel,HEPBURN.AUDREY,M,,,['359']
 867,Audrey,HEPBURN.AUDREY,F,,,['356']
 990,Sean,HEPBURN.AUDREY,M,595.0,867.0,['360']
-585,Mohamed (father),Hadid.Bella,M,,,"['858', 'fr/Family_47/Mohamed_Hadid_father']"
+585,Mohamed (father),Hadid.Bella,M,,,"['fr/Family_47/Mohamed_Hadid_father', '858']"
 640,Bella,Hadid.Bella,F,,,['855']
 411,Yolanda (mother),Hadid.Bella,F,,,"['857', 'fr/Family_47/Yolanda_Hadid_mother']"
 499,Gigi (sister),Hadid.Bella,F,585.0,411.0,"['856', 'fr/Family_47/Gigi_hadid_daughter']"
@@ -289,7 +289,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 720,Letizia Ortiz,KING.JUAN.CARLOS.I,F,,,"['fr/Family_3/Letizia_Ortiz_mother', '375']"
 485,Elena,KING.JUAN.CARLOS.I,F,943.0,550.0,['373']
 486,Cristina,KING.JUAN.CARLOS.I,F,943.0,550.0,['372']
-986,Felipe Vi,KING.JUAN.CARLOS.I,M,943.0,550.0,"['fr/Family_3/Felipe_VI_father', '380']"
+986,Felipe Vi,KING.JUAN.CARLOS.I,M,943.0,550.0,"['380', 'fr/Family_3/Felipe_VI_father']"
 542,Dmitry Medvedev,KING.JUAN.CARLOS.I,M,,,['379']
 356,Dexter,KING.MARTIN.LUTHER,M,184.0,125.0,['387']
 185,Mlk Iii,KING.MARTIN.LUTHER,M,184.0,125.0,['388']
@@ -321,9 +321,9 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 73,Robert,Kraft.Robert,M,,,['604']
 273,Myra,Kraft.Robert,F,,,['599']
 1096,Wyatt (son),Kurt.Russell,F,,,['869']
-408,Goldie Hawn (mother),Kurt.Russell,F,,,"['868', 'fr/Family_16/goldie_hawn_mother']"
+408,Goldie Hawn (mother),Kurt.Russell,M,,,"['fr/Family_16/goldie_hawn_mother', '868']"
 749,Kurt,Kurt.Russell,M,,,['867']
-536,Julian,LENNON.JOHN,M,534.0,344.0,"['410', 'in/Family_59/Julian_son']"
+536,Julian,LENNON.JOHN,M,534.0,344.0,"['in/Family_59/Julian_son', '410']"
 534,John,LENNON.JOHN,M,,,['409']
 969,Sean,LENNON.JOHN,M,534.0,552.0,['411']
 344,Cynthia,LENNON.JOHN,F,,,"['in/Family_59/Cynthia_mother', '407']"
@@ -336,8 +336,8 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 930,Ali,LOHAN.LINDSAY,F,539.0,459.0,['423']
 802,Cody,LOHAN.LINDSAY,M,539.0,459.0,['426']
 1113,Michael Jr.,LOHAN.LINDSAY,M,539.0,459.0,['428']
-539,Michael Lohan,LOHAN.LINDSAY,M,,,"['427', 'fr/Family_23/Michael_Lohan_father']"
-459,Dina Lohan,LOHAN.LINDSAY,F,,,"['fr/Family_23/Dina_Lohan_mother', '424']"
+539,Michael Lohan,LOHAN.LINDSAY,M,,,"['fr/Family_23/Michael_Lohan_father', '427']"
+459,Dina Lohan,LOHAN.LINDSAY,F,,,"['424', 'fr/Family_23/Dina_Lohan_mother']"
 456,Lohan Lindsay,LOHAN.LINDSAY,F,539.0,459.0,"['425', 'fr/Family_23/LOHAN_LINDSAY_daughter']"
 619,Satchel,Lee.Spike,F,156.0,618.0,['807']
 157,Jackson,Lee.Spike,M,156.0,618.0,['809']
@@ -406,7 +406,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 635,Talulah,MUSK.ELON,F,,,['498']
 753,Justine,MUSK.ELON,F,,,['497']
 1029,Elon,MUSK.ELON,M,,,['500']
-982,Macdowell Andie,McDowell.Andie,F,,,"['817', 'fr/Family_39/MacDowell_Andie_mother']"
+982,Macdowell Andie,McDowell.Andie,F,,,"['fr/Family_39/MacDowell_Andie_mother', '817']"
 916,Rainey Qualley,McDowell.Andie,F,629.0,982.0,"['818', 'fr/Family_39/Rainey_Qualley_daughter']"
 918,Sarah,McDowell.Andie,F,,982.0,['819']
 66,Brian,Miller.Brian,M,,,['484']
@@ -420,7 +420,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 100,Malia (daughter),Obama.Barack,F,611.0,103.0,"['875', 'fr/Family_18/Malia_Obama_daughter']"
 102,Sasha (daughter),Obama.Barack,F,,,['876']
 103,Michelle (wife),Obama.Barack,F,,,"['874', 'fr/Family_18/michelle_obama_mother']"
-611,Barack Obama,Obama.Barack,M,,,"['873', 'fr/Family_18/Barack_Obama_father']"
+611,Barack Obama,Obama.Barack,M,,,"['fr/Family_18/Barack_Obama_father', '873']"
 789,Aimee (daughter,Osbourne.Ozzy,F,,,['835']
 399,Sharon Osbourne,Osbourne.Ozzy,F,,,"['833', 'fr/Family_25/Sharon_Osbourne_mother']"
 317,Jack (son),Osbourne.Ozzy,M,,,['836']
@@ -430,11 +430,11 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 395,Denise,PERSSON.STEFAN,F,,,['517']
 924,James,PHELP.JAMES&OLIVER,M,,,['520']
 923,Oliver,PHELP.JAMES&OLIVER,M,,,['521']
-706,Angelina Jolie,PITT-JOLIE,F,62.0,715.0,"['in/Family_72/Angelina_mother', 'fr/Family_36/angelina_jolie_daughter', '522', 'in/Family_119/Angelina Jolie_mother']"
+706,Angelina Jolie,PITT-JOLIE,F,62.0,715.0,"['522', 'in/Family_119/Angelina Jolie_mother', 'fr/Family_36/angelina_jolie_daughter', 'in/Family_72/Angelina_mother']"
 236,Knox,PITT-JOLIE,M,572.0,706.0,"['529', 'in/Family_72/Knox_son']"
 234,Shiloh,PITT-JOLIE,F,572.0,706.0,['523']
-572,Brad Pitt,PITT-JOLIE,M,748.0,346.0,"['in/Family_119/Brad Pitt_father', '525', 'in/Family_118/Brad Pitt_son', 'in/Family_72/Brad Pitt_father']"
-346,Jane Etta,PITT-JOLIE,F,,,"['527', 'in/Family_118/Jane Etta_mother']"
+572,Brad Pitt,PITT-JOLIE,M,748.0,346.0,"['525', 'in/Family_119/Brad Pitt_father', 'in/Family_72/Brad Pitt_father', 'in/Family_118/Brad Pitt_son']"
+346,Jane Etta,PITT-JOLIE,M,,,"['in/Family_118/Jane Etta_mother', '527']"
 577,Doug,PITT-JOLIE,M,346.0,,['526']
 252,Vivienne,PITT-JOLIE,F,572.0,706.0,['524']
 62,Jon Voight,PITT-JOLIE,M,,,"['528', 'fr/Family_36/Jon_Voight_father']"
@@ -511,9 +511,9 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 272,Eunice,SCHRIVER.EUNICE,F,,,['623']
 533,Ethel,SCHRIVER.EUNICE,F,,,['622']
 461,Gina Maria Schumacher,SCHUMACHER.MICHAEL,F,729.0,525.0,"['fr/Family_97/Gina_Maria_Schumacher_daughter', '627']"
-729,Schumacher Michael,SCHUMACHER.MICHAEL,M,,,"['in/Family_82/Schumacher MICHAEL_father', 'fr/Family_97/SCHUMACHER_MICHAEL_father', '628']"
+729,Schumacher Michael,SCHUMACHER.MICHAEL,M,,,"['628', 'fr/Family_97/SCHUMACHER_MICHAEL_father', 'in/Family_82/Schumacher MICHAEL_father']"
 732,Mick,SCHUMACHER.MICHAEL,M,729.0,525.0,"['629', 'in/Family_82/Mick_son']"
-525,Corinna Betsch,SCHUMACHER.MICHAEL,F,,,"['in/Family_82/Corinna_mother', '626', 'fr/Family_97/Corinna_Betsch_mother']"
+525,Corinna Betsch,SCHUMACHER.MICHAEL,F,,,"['in/Family_82/Corinna_mother', 'fr/Family_97/Corinna_Betsch_mother', '626']"
 565,Jaclyn,SMITH.JACLYN,F,,,['630']
 659,Anthony,SMITH.JACLYN,M,,,['632']
 425,Margaret,SMITH.JACLYN,F,659.0,565.0,['631']
@@ -541,18 +541,18 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 1105,Silvio,Santos.Silvio,M,,,['759']
 471,Renata,Santos.Silvio,F,1105.0,362.0,['758']
 472,Rebeca,Santos.Silvio,F,1105.0,362.0,['757']
-154,Jaden (son),Smith.Will,M,158.0,90.0,"['in/Family_116/Jaden Smith_son', '830']"
-158,Will Smith,Smith.Will,M,192.0,124.0,"['fr/Family_20/will_smith_father', 'in/Family_116/Will Smith_father', 'in/Family_115/Will Smith_son', 'in/Family_117/Will Smith_father', '828']"
-90,Jada Pinkett Smith,Smith.Will,F,,,"['in/Family_116/Jada Pinkett Smith_mother', 'fr/Family_20/jada_pinkett_smith_mother', '829']"
+154,Jaden (son),Smith.Will,M,158.0,90.0,"['830', 'in/Family_116/Jaden Smith_son']"
+158,Will Smith,Smith.Will,M,192.0,124.0,"['in/Family_116/Will Smith_father', 'in/Family_117/Will Smith_father', 'fr/Family_20/will_smith_father', 'in/Family_115/Will Smith_son', '828']"
+90,Jada Pinkett Smith,Smith.Will,F,,,"['in/Family_116/Jada Pinkett Smith_mother', '829', 'fr/Family_20/jada_pinkett_smith_mother']"
 109,Willow (daughter),Smith.Will,F,158.0,90.0,"['fr/Family_20/willow_smith_daughter', '831']"
 305,Levon,THURMAN.UMA,M,625.0,488.0,['662']
 46,Rob,THURMAN.UMA,M,,,['664']
-488,Uma Thurman,THURMAN.UMA,F,46.0,342.0,"['658', 'fr/Family_58/Uma_thurman_mother']"
+488,Uma Thurman,THURMAN.UMA,F,46.0,342.0,"['fr/Family_58/Uma_thurman_mother', '658']"
 342,Nena,THURMAN.UMA,F,,,['656']
 639,Dechen,THURMAN.UMA,M,46.0,342.0,['659']
 702,Maya,THURMAN.UMA,F,625.0,488.0,['655']
 686,Nipam,THURMAN.UMA,M,46.0,342.0,['663']
-625,Ethan Hawke,THURMAN.UMA,M,,,"['fr/Family_58/ethan_hawke_father', '660']"
+625,Ethan Hawke,THURMAN.UMA,M,,,"['660', 'fr/Family_58/ethan_hawke_father']"
 467,Meghan Trainor,TRAINOR.MEGHAN,F,58.0,,['665']
 830,Justin Trainor,TRAINOR.MEGHAN,M,,,['667']
 58,Gary Trainor,TRAINOR.MEGHAN,M,,,['666']
@@ -573,7 +573,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 243,Ella,WAHLBERG.MARK,F,581.0,710.0,['674']
 244,Michael,WAHLBERG.MARK,M,581.0,710.0,"['in/Family_86/Michael_son', '679']"
 710,Rhea,WAHLBERG.MARK,F,,,"['676', 'in/Family_86/Rhea_mother']"
-581,Wahlberg Mark,WAHLBERG.MARK,M,,,"['678', 'in/Family_86/Wahlberg Mark_father']"
+581,Wahlberg Mark,WAHLBERG.MARK,M,,,"['in/Family_86/Wahlberg Mark_father', '678']"
 246,Brendon,WAHLBERG.MARK,M,581.0,710.0,['677']
 265,Maisie,WALTERS.JULIE,F,1019.0,422.0,['681']
 422,Julie,WALTERS.JULIE,F,,,['680']
@@ -618,7 +618,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 16,Craig Hemsworth,,M,,,"['in/Family_126/Craig Hemsworth_father', 'in/Family_125/Craig Hemsworth_father']"
 21,Kevin Smith,,M,,,['fr/Family_49/Kevin_Smith_father']
 23,Branson Richard,,M,,,['in/Family_21/Branson Richard_father']
-42,Arnold Schwarzenegger,,M,,,"['fr/Family_28/Arnold_Schwarzenegger_father', 'in/Family_134/Arnold Schwarzenegger_father']"
+42,Arnold Schwarzenegger,,M,,,"['in/Family_134/Arnold Schwarzenegger_father', 'fr/Family_28/Arnold_Schwarzenegger_father']"
 50,Timothy Carlton,,M,,,['in/Family_141/Timothy Carlton_father']
 52,Edward De Wessex,,M,,,['fr/Family_95/Edward_de_Wessex_father']
 57,Philippe De Belgique,,M,,,['fr/Family_56/Philippe_de_Belgique_father']
@@ -629,7 +629,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 71,Bruce Willis,,M,,,['fr/Family_66/Bruce_Willis_father']
 82,Suresh Oberoi,,M,,,['in/Family_112/Suresh Oberoi_father']
 84,Kenny Anderson,,M,,,['fr/Family_60/Kenny_Anderson_father']
-97,Reginae Carter,,F,86.0,98.0,['fr/Family_91/Reginae_Carter_daughter']
+97,Reginae Carter,,F,,,['fr/Family_91/Reginae_Carter_daughter']
 106,Jazz Anderson,,F,84.0,107.0,['fr/Family_60/jazz_anderson_daughter']
 107,Tami Roman,,F,,,['fr/Family_60/Tami_Roman_mother']
 124,Caroline Bright,,F,,,['in/Family_115/Caroline Bright_mother']
@@ -644,7 +644,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 204,Julia Restoin Roitfeld,,F,637.0,289.0,['fr/Family_2/Julia_Restoin_Roitfeld_daughter']
 205,Luke Hudson Gavigan,,M,641.0,672.0,['in/Family_26/Luke Hudson Gavigan_son']
 224,Collin Thomas Gosselin,,M,737.0,807.0,['in/Family_71/Collin Thomas Gosselin_son']
-255,Ella Stiller,,F,604.0,908.0,['fr/Family_44/Ella_Stiller_daughter']
+255,Ella Stiller,,F,,,['fr/Family_44/Ella_Stiller_daughter']
 277,Sasha Czack,,F,,,['in/Family_131/Sasha Czack_mother']
 278,Lori Loughlin,,F,,,['fr/Family_19/lori_loughlin_mother']
 289,Carine Roitfeld,,F,,,['fr/Family_2/Carine_Roitfeld_mother']
@@ -659,7 +659,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 360,Marilyn Wilson,,F,,,['fr/Family_99/Marilyn_Wilson_mother']
 361,Frances Fisher,,F,,,['fr/Family_65/Frances_Fisher_mother']
 372,Kim Basinger,,F,,,['fr/Family_21/kim_basinger_mother']
-380,Neelima Azeem,,F,,,"['in/Family_149/Neelima Azeem_mother', 'in/Family_110/Neelima Azeem_mother']"
+380,Neelima Azeem,,F,,,"['in/Family_110/Neelima Azeem_mother', 'in/Family_149/Neelima Azeem_mother']"
 382,Jaya Bachchan,,F,,,['in/Family_107/Jaya Bachchan_mother']
 383,Irmelin Indenbirken,,F,,,['in/Family_120/Irmelin Indenbirken_mother']
 385,Eleanor Coppola,,F,,,['fr/Family_98/Eleanor_Coppola_mother']
@@ -672,17 +672,17 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 402,Melanie Griffith,,F,,,['fr/Family_10/Melanie_griffith_mother']
 407,Heather Locklear,,F,,,['fr/Family_37/Heather_Locklear_mother']
 414,Anette Qviberg,,F,,,['fr/Family_46/anette_qviberg_mother']
-415,Louise Mountbatten Windsor,,F,52.0,592.0,['fr/Family_95/Louise_Mountbatten-Windsor_daughter']
+415,Louise Mountbatten Windsor,,F,52.0,,['fr/Family_95/Louise_Mountbatten-Windsor_daughter']
 418,Alexandra Lamy,,F,,,['fr/Family_5/Alexandra_Lamy_mother']
 426,Demi Moore,,F,,,['fr/Family_66/Demi_Moore_mother']
 427,Courteney Cox,,F,,,['fr/Family_14/courteney_cox_mother']
 428,Priscilla Presley,,F,,,['fr/Family_94/Priscilla_Presley_mother']
-429,Maria Shriver,,F,,,"['in/Family_135/Maria Shriver_mother', 'in/Family_134/Maria Shriver_mother', 'fr/Family_28/Maria_Shriver_mother']"
+429,Maria Shriver,,F,,,"['in/Family_135/Maria Shriver_mother', 'fr/Family_28/Maria_Shriver_mother', 'in/Family_134/Maria Shriver_mother']"
 433,Sarah Ferguson,,F,,,['fr/Family_24/Sarah_Ferguson_mother']
 475,Rakesh Roshan,,M,,,['in/Family_113/Rakesh Roshan_father']
 476,Hrithik Roshan,,M,475.0,388.0,['in/Family_113/Hrithik_Roshan_son']
 497,Jerry Hall,,F,,,['fr/Family_11/jerry_hall_mother']
-501,Elle King,,F,874.0,473.0,['fr/Family_45/elle_king_daughter']
+501,Elle King,,F,874.0,,['fr/Family_45/elle_king_daughter']
 502,Robin Wright,,F,,,['fr/Family_70/Robin_Wright_mother']
 506,Ava Elizabeth Sambora,,F,883.0,407.0,['fr/Family_37/Ava_Elizabeth_Sambora_daughter']
 507,Wendy Wilson,,F,687.0,360.0,['fr/Family_99/Wendy_Wilson_daughter']
@@ -709,12 +709,12 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 576,Rob Lowe,,M,,,['in/Family_11/Rob_Lowe_father']
 579,Matt Damon,,M,894.0,353.0,['in/Family_123/Matt Damon_son']
 580,Leonardo Dicaprio,,M,1055.0,383.0,['in/Family_120/Leonardo DiCaprio_son']
-583,Christian Bale,,M,980.0,352.0,['in/Family_127/Christian Bale_son']
+583,Christian Bale,,M,980.0,,['in/Family_127/Christian Bale_son']
 587,Meryl Streep,,F,,,['fr/Family_38/Meryl_Streep_mother']
 588,Grace Gummer,,F,67.0,587.0,['fr/Family_38/Grace_Gummer_daughter']
 593,Tom Hanks,,M,,,['in/Family_121/Tom Hanks_father']
 598,Sistine Rose Stallone,,F,940.0,1056.0,['fr/Family_64/sistine_rose_stallone_daughter']
-607,Nysa Devgan,,F,544.0,835.0,['fr/Family_71/Nysa_Devgan_daughter']
+607,Nysa Devgan,,F,544.0,,['fr/Family_71/Nysa_Devgan_daughter']
 608,Princess Margaret Countess Of Snowdon,,F,,,"['in/Family_84/Princess Margaret, Countess of Snowdon_mother']"
 609,Chelsea Clinton,,F,61.0,520.0,['fr/Family_22/chelsea_clinton_daughter']
 617,Paul Gascoigne,,M,,,['fr/Family_33/Paul_Gascoigne_father']
@@ -725,7 +725,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 629,Paul Qualley,,M,,,['fr/Family_39/paul_qualley_father']
 630,Rande Gerber,,M,,,['fr/Family_13/Rande_Gerber_father']
 631,Rajesh Khanna,,M,,,['fr/Family_96/Rajesh_Khanna_father']
-634,Alexandra De Luxembourg,,F,9.0,1050.0,['fr/Family_35/Alexandra_de_Luxembourg_daughter']
+634,Alexandra De Luxembourg,,F,,1050.0,['fr/Family_35/Alexandra_de_Luxembourg_daughter']
 637,Christian Restoin,,M,,,['fr/Family_2/christian_restoin_father']
 643,Vivek Oberoi,,M,82.0,674.0,['in/Family_112/Vivek Oberoi_son']
 644,Lisa Marie Presley,,F,907.0,428.0,['fr/Family_94/Lisa_Marie_Presley_daughter']
@@ -747,13 +747,13 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 696,Kaia Gerber,,F,630.0,722.0,['fr/Family_13/Kaia_Gerber_daughter']
 700,Ida Lundgren,,F,1012.0,414.0,['fr/Family_46/Ida_Lundgren_daughter']
 701,Miley Cyrus,,F,886.0,909.0,['fr/Family_27/Miley_Cyrus_daughter']
-712,Allison Williams,,F,895.0,716.0,['fr/Family_29/Allison_Williams_daughter']
+712,Allison Williams,,F,895.0,,['fr/Family_29/Allison_Williams_daughter']
 714,Mimi Rogers,,F,,,['fr/Family_80/Mimi_Rogers_mother']
 715,Marcheline Bertrand,,F,,,['fr/Family_36/Marcheline_Bertrand_mother']
 722,Cindy Crawford,,F,,,['fr/Family_13/Cindy_Crawford_mother']
 726,Twinkle Khanna,,F,631.0,1093.0,['fr/Family_96/Twinkle_Khanna_daughter']
 727,Thomas Jouannet,,M,,,['fr/Family_5/Thomas_Jouannet_father']
-728,Billie Lourd,,F,69.0,949.0,['fr/Family_8/Billie_Lourd_daughter']
+728,Billie Lourd,,F,,949.0,['fr/Family_8/Billie_Lourd_daughter']
 737,Jon Gosselin,,M,,,['in/Family_71/jon gosselin_father']
 740,Trey Smith,,M,158.0,310.0,['in/Family_117/Trey Smith_son']
 747,Dominic Holland,,M,,,['in/Family_139/Dominic Holland_father']
@@ -776,12 +776,12 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 828,Andrew D'york,,M,,,"[""fr/Family_24/Andrew_d'York_father""]"
 829,Joy Vogelsang,,F,,,['in/Family_133/Joy Vogelsang_mother']
 840,Katherine Schwarzenegger,,F,42.0,429.0,['fr/Family_28/Katherine_Schwarzenegger_daughter']
-841,Ananya Panday,,F,517.0,692.0,['fr/Family_76/Ananya_Panday_daughter']
+841,Ananya Panday,,F,517.0,,['fr/Family_76/Ananya_Panday_daughter']
 846,Uday Chopra,,M,1027.0,182.0,['in/Family_143/Uday Chopra_son']
 847,David Dhawan,,M,,,['in/Family_106/David Dhawan_father']
 848,Joseph Germanotta,,M,,,['fr/Family_61/Joseph_Germanotta_father']
-855,Chris Hemswort,,M,16.0,779.0,['in/Family_125/Chris Hemswort_son']
-858,Scott,,M,28.0,394.0,['in/Family_33/Scott_son']
+855,Chris Hemswort,,M,16.0,,['in/Family_125/Chris Hemswort_son']
+858,Scott,,M,28.0,,['in/Family_33/Scott_son']
 864,Georgia May Jagger,,F,964.0,497.0,['fr/Family_11/georgia_may_jagger_daughter']
 871,Carys Zeta Douglas,,F,602.0,438.0,['fr/Family_77/Carys_Zeta_Douglas_daughter']
 872,Jessica Canseco,,F,,,['fr/Family_84/Jessica_canseco_mother']
@@ -802,7 +802,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 912,Boney Kapoor,,M,,,['fr/Family_72/Boney_Kapoor_father']
 915,David Arquette,,M,,,['fr/Family_14/David_Arquette_father']
 937,Jose Canseco,,M,,,['fr/Family_84/Jose_Canseco_father']
-940,Sylvester Stallone,,M,,,"['in/Family_131/Sylvester Stallone_father', 'fr/Family_64/sylvester_stallone_father']"
+940,Sylvester Stallone,,M,,,"['fr/Family_64/sylvester_stallone_father', 'in/Family_131/Sylvester Stallone_father']"
 945,Candace Cameron Bure,,F,,,['fr/Family_93/Candace_Cameron_Bure_mother']
 946,Bianca Gascoigne,,F,617.0,808.0,['fr/Family_33/Bianca_Gascoigne_daughter']
 947,Natasha Bure,,F,1057.0,945.0,['fr/Family_93/Natasha_Bure_daughter']
@@ -820,14 +820,14 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 984,Matthew Cowles,,M,,,['fr/Family_4/Matthew_Cowles_father']
 991,Abhishek Bachchan,,M,1116.0,382.0,['in/Family_107/Abhishek Bachchan_son']
 993,Suhana Khan,,F,355.0,891.0,['fr/Family_69/Suhana_Khan_daughter']
-1002,Ivanka Trump,,F,64.0,1089.0,['fr/Family_30/Ivanka_Trump_daughter']
+1002,Ivanka Trump,,F,64.0,,['fr/Family_30/Ivanka_Trump_daughter']
 1008,Jose Ferrer,,M,,,['in/Family_39/Jose Ferrer_father']
 1009,Carlos Leon,,M,,,['fr/Family_31/Carlos_Leon_father']
 1011,Mossimo Giannulli,,M,,,['fr/Family_19/mossimo_giannulli_father']
 1012,Dolph Lundgren,,M,,,['fr/Family_46/Dolph_Lundgren_father']
 1016,Joseph Baena,,M,42.0,429.0,['in/Family_134/Joseph Baena_son']
 1027,Yash Chopra,,M,,,['in/Family_143/Yash Chopra_father']
-1041,Patrick Schwarzenegger,,M,42.0,429.0,['in/Family_135/Patrick Schwarzenegger_son']
+1041,Patrick Schwarzenegger,,M,,429.0,['in/Family_135/Patrick Schwarzenegger_son']
 1044,Maheep Sandhu,,F,,,['fr/Family_73/maheep_sandhu_mother']
 1046,Ireland Baldwin,,F,972.0,372.0,['fr/Family_21/ireland_baldwin_daughter']
 1052,Gladys Portugues,,F,,,['fr/Family_57/Gladys_Portugues_mother']
@@ -836,14 +836,14 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 1056,Jennifer Flavin,,F,,,['fr/Family_64/jennifer_flavin_mother']
 1057,Valeri Bure,,M,,,['fr/Family_93/Valeri_Bure_father']
 1060,Ram Charan,,M,515.0,390.0,['in/Family_146/Ram Charan_son']
-1062,Rashida Jones,,F,302.0,548.0,['fr/Family_92/Rashida_Jones_daughter']
+1062,Rashida Jones,,F,302.0,,['fr/Family_92/Rashida_Jones_daughter']
 1079,Varun Dhawan,,M,847.0,391.0,['in/Family_106/Varun Dhawan_son']
 1081,Shahid Kapoor,,M,546.0,380.0,['in/Family_149/Shahid Kapoor_son']
 1090,Bill Hudson,,M,,,['fr/Family_16/bill_hudson_father']
 1092,Hugh Jackman,,M,896.0,538.0,['in/Family_124/Hugh Jackman_son']
 1093,Dimple Kapadia,,F,,,['fr/Family_96/Dimple_Kapadia_mother']
-1098,Xi Mingze,,F,180.0,146.0,['fr/Family_55/Xi_mingze_daughter']
-1103,Sam,,M,23.0,750.0,['in/Family_21/Sam_son']
+1098,Xi Mingze,,F,,146.0,['fr/Family_55/Xi_mingze_daughter']
+1103,Sam,,M,23.0,,['in/Family_21/Sam_son']
 1107,Nicolas Cage,,M,771.0,829.0,['in/Family_133/Nicolas Cage_son']
 1111,Ayesha Shroff,,F,,,['in/Family_114/Ayesha Shroff_mother']
 1116,Amitabh Bachchan,,M,,,['in/Family_107/Amitabh Bachchan_father']
