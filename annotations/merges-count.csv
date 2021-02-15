@@ -1,0 +1,75 @@
+,pid,name,family_name,sex,father_pid,mother_pid,paths,merge_count
+543,158,Will Smith,Smith.Will,M,192.0,124.0,"['in/Family_116/Will Smith_father', 'in/Family_117/Will Smith_father', 'fr/Family_20/will_smith_father', 'in/Family_115/Will Smith_son', '828']",5
+434,572,Brad Pitt,PITT-JOLIE,M,748.0,346.0,"['525', 'in/Family_119/Brad Pitt_father', 'in/Family_72/Brad Pitt_father', 'in/Family_118/Brad Pitt_son']",4
+162,28,Eastwood Clint,EASTWOOD-JOHNSON,M,,,"['220', 'fr/Family_65/Clint_eastwood_father', '214', 'in/Family_33/Eastwood Clint_father']",4
+431,706,Angelina Jolie,PITT-JOLIE,F,62.0,715.0,"['522', 'in/Family_119/Angelina Jolie_mother', 'fr/Family_36/angelina_jolie_daughter', 'in/Family_72/Angelina_mother']",4
+62,311,Barnes Matt,BARNES.MATT,M,,,"['in/Family_6/Barnes Matt_father', '82', 'in/Family_13/Barnes Matt_father']",3
+544,90,Jada Pinkett Smith,Smith.Will,F,,,"['in/Family_116/Jada Pinkett Smith_mother', '829', 'fr/Family_20/jada_pinkett_smith_mother']",3
+514,525,Corinna Betsch,SCHUMACHER.MICHAEL,F,,,"['in/Family_82/Corinna_mother', 'fr/Family_97/Corinna_Betsch_mother', '626']",3
+5,859,Adulyadej Bhumibol,ADULYADEJ.BHUMIBOL,M,,142.0,"['in/Family_3/Adulyadej Bhumibol_father', '17', 'fr/Family_85/ADULYADEJ_BHUMIBOL_father']",3
+512,729,Schumacher Michael,SCHUMACHER.MICHAEL,M,,,"['628', 'fr/Family_97/SCHUMACHER_MICHAEL_father', 'in/Family_82/Schumacher MICHAEL_father']",3
+678,429,Maria Shriver,,F,,,"['in/Family_135/Maria Shriver_mother', 'fr/Family_28/Maria_Shriver_mother', 'in/Family_134/Maria Shriver_mother']",3
+266,411,Yolanda (mother),Hadid.Bella,F,,,"['857', 'fr/Family_47/Yolanda_Hadid_mother']",2
+61,171,Isiah,BARNES.MATT,M,311.0,950.0,"['81', 'in/Family_13/Isiah_son']",2
+60,172,Carter,BARNES.MATT,M,311.0,950.0,"['80', 'in/Family_6/Carter_son']",2
+59,950,Gloria,BARNES.MATT,F,,,"['in/Family_6/Gloria_mother', '79']",2
+158,602,Michael Douglas,Douglas.Michael,M,,,"['845', 'fr/Family_77/Michael_Douglas_father']",2
+156,438,Catherine Zeta Jones,Douglas.Michael,F,,,"['849', 'fr/Family_77/Catherine_Zeta-Jones_mother']",2
+267,499,Gigi (sister),Hadid.Bella,F,585.0,411.0,"['856', 'fr/Family_47/Gigi_hadid_daughter']",2
+363,494,Madonna,MADONNA,F,,,"['in/Family_64/Madonna_mother', '447']",2
+118,672,Jessica Capshaw,CAPSHAW-GAVIGAN,F,,216.0,"['171', 'in/Family_26/Jessica Capshaw_mother']",2
+52,276,Baranski Christine,BARANSKI.CHRISTINE,F,,,"['fr/Family_4/BARANSKI_CHRISTINE_mother', '69']",2
+660,380,Neelima Azeem,,F,,,"['in/Family_110/Neelima Azeem_mother', 'in/Family_149/Neelima Azeem_mother']",2
+803,940,Sylvester Stallone,,M,,,"['fr/Family_64/sylvester_stallone_father', 'in/Family_131/Sylvester Stallone_father']",2
+264,585,Mohamed (father),Hadid.Bella,M,,,"['fr/Family_47/Mohamed_Hadid_father', '858']",2
+407,982,Macdowell Andie,McDowell.Andie,F,,,"['fr/Family_39/MacDowell_Andie_mother', '817']",2
+408,916,Rainey Qualley,McDowell.Andie,F,629.0,982.0,"['818', 'fr/Family_39/Rainey_Qualley_daughter']",2
+53,529,Lily Cowles,BARANSKI.CHRISTINE,F,984.0,276.0,"['71', 'fr/Family_4/lily_cowles_daughter']",2
+365,596,Lourdes Leon,MADONNA,F,1009.0,494.0,"['fr/Family_31/Lourdes_Leon_daughter', '446']",2
+116,641,Christopher Gavigan,CAPSHAW-GAVIGAN,M,,,"['in/Family_26/Christopher Gavigan_father', '174']",2
+79,521,Lily Mo Sheen,BECKINSDALE.KATE,F,4.0,441.0,"['102', 'fr/Family_48/Lily_Mo_Sheen_daughter']",2
+373,960,Luis,MANZANO.LUIS,M,,,"['456', 'in/Family_67/Luis_father']",2
+513,732,Mick,SCHUMACHER.MICHAEL,M,729.0,525.0,"['629', 'in/Family_82/Mick_son']",2
+511,461,Gina Maria Schumacher,SCHUMACHER.MICHAEL,F,729.0,525.0,"['fr/Family_97/Gina_Maria_Schumacher_daughter', '627']",2
+290,986,Felipe Vi,KING.JUAN.CARLOS.I,M,943.0,550.0,"['380', 'fr/Family_3/Felipe_VI_father']",2
+287,720,Letizia Ortiz,KING.JUAN.CARLOS.I,F,,,"['fr/Family_3/Letizia_Ortiz_mother', '375']",2
+82,441,Beckinsale Kate,BECKINSDALE.KATE,F,936.0,675.0,"['101', 'fr/Family_48/BECKINSALE_KATE_mother']",2
+574,581,Wahlberg Mark,WAHLBERG.MARK,M,,,"['in/Family_86/Wahlberg Mark_father', '678']",2
+163,396,Allison,EASTWOOD-JOHNSON,F,28.0,343.0,"['216', '212']",2
+573,710,Rhea,WAHLBERG.MARK,F,,,"['676', 'in/Family_86/Rhea_mother']",2
+73,303,Romeo Beckham,BECKHAM.DAVID,M,1070.0,322.0,"['99', 'in/Family_20/Romeo_Beckham_son']",2
+371,139,Vilma,MANZANO.LUIS,F,,,"['in/Family_67/Vilma_mother', '455']",2
+572,244,Michael,WAHLBERG.MARK,M,581.0,710.0,"['in/Family_86/Michael_son', '679']",2
+164,1083,Kyle,EASTWOOD-JOHNSON,M,28.0,343.0,"['221', '215']",2
+542,154,Jaden (son),Smith.Will,M,158.0,90.0,"['830', 'in/Family_116/Jaden Smith_son']",2
+322,408,Goldie Hawn (mother),Kurt.Russell,M,,,"['fr/Family_16/goldie_hawn_mother', '868']",2
+48,335,Helene,ARNAULT.BERNARD,F,,,"['61', 'in/Family_10/Helene_mother']",2
+339,456,Lohan Lindsay,LOHAN.LINDSAY,F,539.0,459.0,"['425', 'fr/Family_23/LOHAN_LINDSAY_daughter']",2
+4,143,Sirikit,ADULYADEJ.BHUMIBOL,F,,,"['12', 'in/Family_3/Sirikit_mother']",2
+327,344,Cynthia,LENNON.JOHN,F,,,"['in/Family_59/Cynthia_mother', '407']",2
+438,62,Jon Voight,PITT-JOLIE,M,,,"['528', 'fr/Family_36/Jon_Voight_father']",2
+459,599,Edgar Rosenberg,RIVERS.JOAN,M,,367.0,"['560', 'fr/Family_74/Edgar_Rosenberg_father']",2
+435,346,Jane Etta,PITT-JOLIE,M,,,"['in/Family_118/Jane Etta_mother', '527']",2
+458,367,Melissa Rivers,RIVERS.JOAN,F,599.0,369.0,"['fr/Family_74/Melissa_Rivers_daughter', '559']",2
+215,590,Bill Gates,GATES.BILL,M,35.0,,"['307', 'fr/Family_68/Bill_gates_father']",2
+432,236,Knox,PITT-JOLIE,M,572.0,706.0,"['529', 'in/Family_72/Knox_son']",2
+548,488,Uma Thurman,THURMAN.UMA,F,46.0,342.0,"['fr/Family_58/Uma_thurman_mother', '658']",2
+252,1050,Maria Teresa Mestre,HENRI.GRAND.DUKE.OF.LUXEMBOURG,F,,,"['fr/Family_35/Maria_Teresa_Mestre_mother', '350']",2
+457,369,Rivers Joan,RIVERS.JOAN,F,,,"['fr/Family_74/RIVERS_JOAN_mother', '558']",2
+7,615,Maha,ADULYADEJ.BHUMIBOL,M,859.0,143.0,"['in/Family_3/Maha_son', '18']",2
+619,42,Arnold Schwarzenegger,,M,,,"['in/Family_134/Arnold Schwarzenegger_father', 'fr/Family_28/Arnold_Schwarzenegger_father']",2
+425,287,Ozzy Osbourne,Osbourne.Ozzy,M,,,"['832', 'fr/Family_25/ozzy_osbourne_father']",2
+426,463,Kelly (daughter),Osbourne.Ozzy,F,287.0,399.0,"['834', 'fr/Family_25/Kelly_Osbourne_daughter']",2
+423,399,Sharon Osbourne,Osbourne.Ozzy,F,,,"['833', 'fr/Family_25/Sharon_Osbourne_mother']",2
+616,16,Craig Hemsworth,,M,,,"['in/Family_126/Craig Hemsworth_father', 'in/Family_125/Craig Hemsworth_father']",2
+216,817,Melinda Gates,GATES.BILL,F,,,"['305', 'fr/Family_68/melinda_gates_mother']",2
+146,768,Jakob Dylan,DYLAN.BOB,M,806.0,,"['in/Family_32/Jakob_Dylan_father', '207']",2
+338,459,Dina Lohan,LOHAN.LINDSAY,F,,,"['424', 'fr/Family_23/Dina_Lohan_mother']",2
+337,539,Michael Lohan,LOHAN.LINDSAY,M,,,"['fr/Family_23/Michael_Lohan_father', '427']",2
+219,994,Jennifer Katharine Gates,GATES.BILL,F,590.0,817.0,"['304', 'fr/Family_68/Jennifer_Katharine_Gates_daughter']",2
+418,100,Malia (daughter),Obama.Barack,F,611.0,103.0,"['875', 'fr/Family_18/Malia_Obama_daughter']",2
+420,103,Michelle (wife),Obama.Barack,F,,,"['874', 'fr/Family_18/michelle_obama_mother']",2
+421,611,Barack Obama,Obama.Barack,M,,,"['fr/Family_18/Barack_Obama_father', '873']",2
+324,536,Julian,LENNON.JOHN,M,534.0,344.0,"['in/Family_59/Julian_son', '410']",2
+545,109,Willow (daughter),Smith.Will,F,158.0,90.0,"['fr/Family_20/willow_smith_daughter', '831']",2
+553,625,Ethan Hawke,THURMAN.UMA,M,,,"['660', 'fr/Family_58/ethan_hawke_father']",2

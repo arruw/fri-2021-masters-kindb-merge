@@ -1,0 +1,5018 @@
+,iid,age,dominant_race,dominant_emotion
+0,4875,31,white,happy
+1,4876,31,white,neutral
+2,4877,32,white,happy
+3,4878,30,white,neutral
+4,4879,28,white,happy
+5,4880,29,white,neutral
+6,4881,32,white,neutral
+7,4882,33,white,happy
+8,3228,30,black,happy
+9,3229,30,black,happy
+10,3231,28,black,happy
+11,3232,25,black,happy
+12,3233,26,black,neutral
+13,3234,26,black,happy
+14,3236,31,black,happy
+15,3237,27,latino hispanic,happy
+16,3238,32,black,happy
+17,3239,32,black,happy
+18,3240,24,black,happy
+19,3241,30,black,happy
+20,3242,30,black,happy
+21,3243,26,black,happy
+22,3244,27,indian,happy
+23,297,25,white,neutral
+24,300,30,white,angry
+25,6726,30,white,neutral
+26,6727,31,middle eastern,happy
+27,6728,29,white,happy
+28,6729,32,white,happy
+29,6730,31,white,happy
+30,6731,33,white,happy
+31,6732,33,white,sad
+32,6733,30,white,happy
+33,6734,32,white,neutral
+34,6735,32,latino hispanic,happy
+35,2654,40,white,neutral
+36,1538,30,white,happy
+37,1539,33,white,happy
+38,1540,27,white,neutral
+39,1542,29,white,happy
+40,6736,23,white,neutral
+41,6737,22,white,happy
+42,6738,24,white,happy
+43,6739,24,latino hispanic,angry
+44,6740,23,white,happy
+45,6741,24,white,happy
+46,6742,41,middle eastern,neutral
+47,6744,27,white,sad
+48,6745,34,white,happy
+49,6747,26,latino hispanic,happy
+50,6749,32,indian,sad
+51,6750,34,asian,happy
+52,1300,39,white,happy
+53,1301,42,white,happy
+54,1304,36,white,happy
+55,1305,39,white,neutral
+56,1306,41,white,happy
+57,1307,33,white,happy
+58,1308,37,white,neutral
+59,1309,30,white,happy
+60,1310,32,white,happy
+61,1311,40,white,happy
+62,6751,28,white,happy
+63,6752,37,white,neutral
+64,6753,47,white,angry
+65,6754,31,white,happy
+66,6755,26,middle eastern,happy
+67,6756,30,white,neutral
+68,6757,44,white,happy
+69,6758,47,white,happy
+70,6759,31,asian,angry
+71,6760,39,white,happy
+72,6761,35,white,neutral
+73,6762,37,white,happy
+74,6763,25,latino hispanic,happy
+75,6764,44,white,happy
+76,6765,46,white,happy
+77,6766,26,white,happy
+78,4124,23,white,disgust
+79,4125,28,white,happy
+80,4126,28,white,happy
+81,4128,28,white,happy
+82,1889,22,white,happy
+83,1890,26,white,neutral
+84,6767,23,white,happy
+85,6768,23,white,happy
+86,6769,23,white,happy
+87,6770,23,white,neutral
+88,6771,27,white,happy
+89,6772,27,latino hispanic,neutral
+90,6773,23,latino hispanic,happy
+91,6774,31,white,angry
+92,3902,23,white,happy
+93,3903,24,asian,happy
+94,3905,26,latino hispanic,happy
+95,3906,29,white,happy
+96,1506,32,white,happy
+97,1507,33,white,happy
+98,1508,32,white,happy
+99,1509,31,white,neutral
+100,3245,33,black,happy
+101,3246,27,indian,sad
+102,3247,24,black,happy
+103,3248,26,black,happy
+104,3250,33,asian,sad
+105,3251,23,indian,sad
+106,4146,29,white,sad
+107,4148,20,white,happy
+108,4149,21,white,happy
+109,1002,34,white,happy
+110,1005,28,latino hispanic,angry
+111,1006,24,white,neutral
+112,100,32,latino hispanic,happy
+113,101,28,indian,happy
+114,94,30,white,happy
+115,95,24,white,neutral
+116,96,31,white,happy
+117,97,23,white,happy
+118,98,36,white,happy
+119,99,30,white,neutral
+120,3701,31,white,angry
+121,3702,28,white,happy
+122,3703,27,white,happy
+123,3704,31,white,happy
+124,3705,25,white,happy
+125,3706,38,white,happy
+126,2834,36,white,happy
+127,2835,30,white,happy
+128,2836,23,white,happy
+129,2837,33,white,happy
+130,2838,25,white,happy
+131,1825,29,white,happy
+132,1826,24,white,happy
+133,1827,26,middle eastern,happy
+134,1828,32,white,happy
+135,1829,26,white,happy
+136,1830,24,white,happy
+137,6775,47,indian,happy
+138,6776,37,indian,sad
+139,6777,45,indian,sad
+140,6778,44,indian,happy
+141,6779,35,latino hispanic,neutral
+142,6780,38,indian,happy
+143,6781,47,middle eastern,neutral
+144,1027,31,white,happy
+145,1029,31,latino hispanic,happy
+146,3119,40,white,neutral
+147,3120,34,white,happy
+148,3121,36,white,neutral
+149,3122,42,asian,neutral
+150,3123,34,white,happy
+151,3124,30,white,happy
+152,3125,37,white,happy
+153,3126,32,white,happy
+154,3127,31,white,neutral
+155,3128,28,white,sad
+156,3129,30,white,neutral
+157,3131,29,white,happy
+158,3132,27,white,neutral
+159,3133,42,asian,neutral
+160,3252,32,black,happy
+161,3253,36,black,happy
+162,3254,35,black,happy
+163,3255,36,black,happy
+164,3256,36,black,happy
+165,3258,35,black,happy
+166,3259,30,black,happy
+167,3260,35,black,sad
+168,3261,36,black,sad
+169,3262,33,black,happy
+170,3263,34,black,happy
+171,3264,34,black,happy
+172,3265,32,black,happy
+173,3266,33,black,happy
+174,3267,32,black,fear
+175,3268,26,black,neutral
+176,3269,37,black,happy
+177,3270,33,black,happy
+178,3271,36,black,happy
+179,3713,31,white,happy
+180,3714,30,white,happy
+181,3715,29,white,happy
+182,3716,33,white,happy
+183,3717,33,white,happy
+184,3718,31,white,happy
+185,3719,32,white,happy
+186,3628,41,indian,happy
+187,3630,22,white,happy
+188,3631,30,white,happy
+189,3632,33,white,neutral
+190,4517,31,white,fear
+191,4518,30,white,neutral
+192,4520,28,white,happy
+193,4521,32,white,neutral
+194,4522,31,white,happy
+195,4523,30,white,neutral
+196,4524,31,white,neutral
+197,4525,25,white,neutral
+198,2013,28,latino hispanic,neutral
+199,2018,24,latino hispanic,happy
+200,2019,29,white,happy
+201,2020,27,latino hispanic,happy
+202,2021,25,latino hispanic,neutral
+203,2022,31,latino hispanic,neutral
+204,933,27,white,fear
+205,935,25,white,sad
+206,936,29,white,angry
+207,937,29,white,neutral
+208,938,24,white,neutral
+209,940,32,white,happy
+210,2939,27,white,neutral
+211,6782,23,white,happy
+212,6783,24,white,happy
+213,6784,23,white,happy
+214,6785,22,white,neutral
+215,6786,26,white,happy
+216,6787,22,white,happy
+217,6788,23,white,happy
+218,6789,23,white,neutral
+219,6790,25,white,sad
+220,6791,23,white,happy
+221,6792,24,white,happy
+222,6793,23,white,happy
+223,6794,22,white,neutral
+224,6795,26,white,happy
+225,3194,35,white,happy
+226,3195,42,white,neutral
+227,3196,38,white,happy
+228,3197,44,white,happy
+229,3198,35,asian,happy
+230,3199,39,latino hispanic,happy
+231,3200,37,asian,happy
+232,6796,29,middle eastern,happy
+233,6797,31,indian,happy
+234,6798,31,white,happy
+235,6799,30,indian,happy
+236,6800,32,latino hispanic,happy
+237,6801,32,white,neutral
+238,6802,30,middle eastern,happy
+239,6803,25,white,neutral
+240,6804,29,white,happy
+241,6805,26,white,sad
+242,6806,24,white,neutral
+243,6807,25,white,neutral
+244,6808,25,white,neutral
+245,6809,25,white,neutral
+246,6810,25,white,neutral
+247,6811,24,white,neutral
+248,1532,30,white,sad
+249,1533,24,white,happy
+250,1535,25,white,neutral
+251,1537,26,white,angry
+252,3940,36,white,happy
+253,3941,37,white,happy
+254,3943,33,white,sad
+255,3961,29,white,happy
+256,3962,35,white,happy
+257,3963,41,white,neutral
+258,3964,34,white,happy
+259,3965,32,white,happy
+260,1847,22,white,happy
+261,1848,25,latino hispanic,neutral
+262,1849,31,latino hispanic,happy
+263,1850,29,white,happy
+264,1854,30,latino hispanic,neutral
+265,1856,23,white,happy
+266,6815,31,white,fear
+267,6816,40,middle eastern,neutral
+268,6817,25,latino hispanic,neutral
+269,6818,31,latino hispanic,happy
+270,6820,29,white,neutral
+271,6822,29,white,angry
+272,6823,25,white,neutral
+273,6824,27,white,happy
+274,6825,24,white,neutral
+275,6826,27,white,happy
+276,6827,30,white,happy
+277,6828,29,white,neutral
+278,6829,24,white,neutral
+279,6830,27,white,happy
+280,2977,23,white,neutral
+281,2978,23,white,happy
+282,2979,23,white,happy
+283,2980,23,latino hispanic,happy
+284,6831,46,latino hispanic,angry
+285,6832,52,latino hispanic,fear
+286,6833,44,white,happy
+287,6834,47,middle eastern,angry
+288,6835,50,white,angry
+289,6836,51,middle eastern,sad
+290,6837,45,white,happy
+291,6838,29,white,happy
+292,6840,30,white,happy
+293,6841,27,asian,happy
+294,6842,27,white,neutral
+295,6843,26,white,neutral
+296,6844,31,white,happy
+297,6845,34,white,neutral
+298,6846,26,white,happy
+299,6847,30,white,happy
+300,6848,28,white,happy
+301,6849,34,white,happy
+302,6850,38,white,happy
+303,6851,41,white,happy
+304,2982,29,white,happy
+305,2984,31,white,happy
+306,2985,26,white,happy
+307,2987,26,white,happy
+308,2988,29,white,happy
+309,2989,24,white,happy
+310,5041,30,black,neutral
+311,5042,29,black,neutral
+312,5043,32,asian,neutral
+313,5044,30,black,neutral
+314,5045,33,black,happy
+315,5046,30,black,neutral
+316,6853,23,middle eastern,neutral
+317,6854,25,indian,angry
+318,6855,25,white,happy
+319,6856,24,indian,angry
+320,6857,25,middle eastern,angry
+321,6858,22,indian,sad
+322,6859,31,white,fear
+323,1734,49,white,neutral
+324,1735,35,white,happy
+325,1736,49,white,happy
+326,1737,43,white,happy
+327,6860,32,white,happy
+328,6861,32,white,happy
+329,6862,31,white,neutral
+330,6863,28,asian,happy
+331,6864,33,white,happy
+332,6865,32,white,happy
+333,6866,32,white,happy
+334,6867,29,white,happy
+335,6868,30,white,happy
+336,6869,30,white,happy
+337,6870,32,white,happy
+338,6871,28,white,happy
+339,956,30,white,neutral
+340,960,31,white,happy
+341,686,36,white,happy
+342,687,41,white,happy
+343,688,33,white,happy
+344,689,36,white,happy
+345,10,37,white,neutral
+346,11,37,white,angry
+347,6,27,white,happy
+348,7,38,white,sad
+349,9,31,white,sad
+350,2884,24,white,happy
+351,2886,28,white,happy
+352,2887,22,white,neutral
+353,2889,23,white,happy
+354,1981,34,latino hispanic,happy
+355,1982,32,latino hispanic,happy
+356,1983,29,latino hispanic,happy
+357,1984,29,white,neutral
+358,1985,29,white,happy
+359,1986,33,latino hispanic,happy
+360,5047,32,black,happy
+361,5048,32,black,happy
+362,5049,31,black,happy
+363,5050,25,asian,happy
+364,5051,33,black,happy
+365,5052,29,latino hispanic,neutral
+366,5053,32,black,happy
+367,5054,32,black,happy
+368,5055,32,asian,happy
+369,5056,32,black,happy
+370,5057,31,asian,neutral
+371,518,30,white,neutral
+372,520,26,white,neutral
+373,521,25,white,happy
+374,522,23,white,happy
+375,3010,32,white,happy
+376,3011,30,white,happy
+377,3012,34,white,sad
+378,3013,32,white,happy
+379,3015,33,white,happy
+380,3016,33,latino hispanic,happy
+381,3018,29,latino hispanic,happy
+382,3021,32,latino hispanic,happy
+383,3022,33,white,happy
+384,3023,31,white,happy
+385,3984,32,white,sad
+386,3985,31,white,happy
+387,3986,30,white,angry
+388,3987,32,white,sad
+389,3988,32,white,happy
+390,3989,31,white,happy
+391,3990,29,white,neutral
+392,2911,32,white,happy
+393,2913,30,white,neutral
+394,2914,30,latino hispanic,happy
+395,2915,30,latino hispanic,neutral
+396,2916,33,white,happy
+397,2917,31,white,happy
+398,6872,23,latino hispanic,happy
+399,6873,24,middle eastern,happy
+400,6874,23,middle eastern,angry
+401,6875,24,latino hispanic,angry
+402,6876,22,indian,happy
+403,6877,27,middle eastern,neutral
+404,6878,23,white,happy
+405,6879,26,indian,neutral
+406,6880,26,indian,angry
+407,6881,22,middle eastern,happy
+408,6882,23,middle eastern,angry
+409,6883,22,indian,happy
+410,6884,29,middle eastern,sad
+411,6885,23,middle eastern,happy
+412,1496,24,latino hispanic,happy
+413,1497,23,indian,neutral
+414,1498,23,middle eastern,happy
+415,1499,27,latino hispanic,neutral
+416,1500,25,middle eastern,sad
+417,6886,27,white,neutral
+418,6887,27,white,happy
+419,6888,28,indian,happy
+420,6889,29,white,happy
+421,6890,27,latino hispanic,neutral
+422,6891,24,white,neutral
+423,6892,29,white,happy
+424,6893,27,white,neutral
+425,1082,25,white,happy
+426,1083,42,latino hispanic,happy
+427,1084,31,white,neutral
+428,1086,29,white,happy
+429,1090,26,white,happy
+430,1092,39,white,happy
+431,1209,27,white,happy
+432,1211,27,white,happy
+433,1212,26,white,neutral
+434,1214,27,white,neutral
+435,1218,27,white,happy
+436,1219,26,white,happy
+437,1222,26,white,happy
+438,1224,30,white,happy
+439,1225,24,white,happy
+440,1227,26,white,happy
+441,3955,35,white,happy
+442,3956,23,white,happy
+443,3957,26,white,happy
+444,3958,26,white,happy
+445,3959,31,white,happy
+446,3960,29,white,happy
+447,3864,32,white,happy
+448,3866,33,white,happy
+449,3868,32,white,neutral
+450,3869,35,white,happy
+451,3870,36,white,happy
+452,3871,32,white,happy
+453,3872,40,latino hispanic,happy
+454,3873,38,latino hispanic,happy
+455,1038,30,white,happy
+456,1039,49,white,sad
+457,4850,25,asian,neutral
+458,4851,24,asian,happy
+459,4327,29,asian,neutral
+460,4328,29,black,happy
+461,4329,29,black,neutral
+462,4330,29,black,neutral
+463,4331,26,asian,neutral
+464,4332,30,black,sad
+465,4334,27,black,happy
+466,4335,23,asian,fear
+467,4336,25,black,neutral
+468,4337,30,black,neutral
+469,4338,27,asian,neutral
+470,4339,30,black,neutral
+471,4340,29,asian,neutral
+472,4341,31,black,happy
+473,4342,28,black,happy
+474,4343,28,black,angry
+475,6895,41,middle eastern,neutral
+476,6896,42,white,angry
+477,6897,33,white,neutral
+478,6898,49,white,happy
+479,4716,29,middle eastern,happy
+480,4720,28,white,happy
+481,6899,30,white,happy
+482,6900,32,white,happy
+483,6901,30,white,happy
+484,6902,25,white,happy
+485,6903,30,white,happy
+486,6904,31,white,happy
+487,6905,35,white,happy
+488,6906,33,white,happy
+489,6907,32,white,happy
+490,6908,33,latino hispanic,happy
+491,6909,29,white,neutral
+492,6912,33,white,neutral
+493,238,29,white,neutral
+494,2424,25,white,happy
+495,2427,23,white,happy
+496,2430,28,white,happy
+497,2431,25,white,happy
+498,2432,31,white,fear
+499,656,23,white,happy
+500,657,23,white,happy
+501,658,23,white,neutral
+502,660,24,white,happy
+503,661,24,white,happy
+504,662,23,white,happy
+505,6913,29,asian,happy
+506,6914,31,asian,happy
+507,6915,28,asian,happy
+508,2778,32,white,happy
+509,2779,31,white,happy
+510,2780,31,white,happy
+511,2781,28,asian,fear
+512,2782,31,white,neutral
+513,2514,27,white,happy
+514,2515,24,white,happy
+515,772,33,white,happy
+516,774,35,white,happy
+517,2853,23,white,happy
+518,2858,23,white,happy
+519,6918,22,white,happy
+520,6919,24,white,happy
+521,6920,26,white,happy
+522,6921,24,white,happy
+523,6922,24,white,happy
+524,6923,23,white,happy
+525,6924,23,white,happy
+526,6925,24,white,happy
+527,6926,26,white,happy
+528,2824,23,white,neutral
+529,2825,34,white,happy
+530,2826,34,white,angry
+531,2827,27,white,angry
+532,2828,24,white,angry
+533,4216,35,asian,happy
+534,4217,29,latino hispanic,angry
+535,4218,48,asian,angry
+536,4219,24,latino hispanic,happy
+537,4220,43,latino hispanic,happy
+538,4221,39,asian,happy
+539,1739,26,white,happy
+540,1740,29,white,neutral
+541,1741,31,white,happy
+542,1742,30,white,happy
+543,1743,26,white,happy
+544,1744,24,white,happy
+545,1745,35,white,happy
+546,1746,25,white,happy
+547,1747,28,white,happy
+548,6927,33,latino hispanic,neutral
+549,6928,37,white,neutral
+550,6929,44,middle eastern,happy
+551,6930,28,middle eastern,happy
+552,6931,33,middle eastern,neutral
+553,6932,30,indian,neutral
+554,6933,29,middle eastern,neutral
+555,6934,27,white,sad
+556,6935,28,latino hispanic,fear
+557,6936,35,indian,happy
+558,6937,24,indian,neutral
+559,6938,35,middle eastern,sad
+560,6939,48,latino hispanic,disgust
+561,6940,27,white,angry
+562,6941,35,latino hispanic,happy
+563,3047,37,white,angry
+564,3049,28,white,happy
+565,3050,40,white,happy
+566,1687,34,asian,happy
+567,1688,31,white,happy
+568,6942,34,black,happy
+569,6943,39,white,happy
+570,6944,39,latino hispanic,happy
+571,6945,39,latino hispanic,happy
+572,6946,31,latino hispanic,happy
+573,680,27,white,happy
+574,681,26,white,happy
+575,682,23,latino hispanic,happy
+576,683,33,white,happy
+577,684,35,white,happy
+578,685,26,white,happy
+579,2569,23,white,neutral
+580,2570,23,white,happy
+581,2572,30,latino hispanic,happy
+582,2573,28,middle eastern,neutral
+583,2574,22,white,neutral
+584,2575,29,white,happy
+585,2576,22,white,happy
+586,2930,27,white,sad
+587,2932,28,white,happy
+588,3884,41,white,neutral
+589,3885,37,white,angry
+590,3886,47,white,neutral
+591,3888,49,white,happy
+592,3890,45,white,happy
+593,3891,35,white,neutral
+594,6947,49,white,neutral
+595,6948,44,white,happy
+596,6949,43,white,happy
+597,6950,47,white,neutral
+598,6951,36,white,angry
+599,6952,45,indian,happy
+600,6953,32,middle eastern,angry
+601,6954,32,latino hispanic,neutral
+602,1691,30,white,happy
+603,1692,23,middle eastern,neutral
+604,1693,23,white,angry
+605,1694,25,middle eastern,neutral
+606,1695,23,middle eastern,neutral
+607,1696,23,middle eastern,happy
+608,1697,23,middle eastern,neutral
+609,1698,23,middle eastern,neutral
+610,1699,23,white,neutral
+611,1701,23,middle eastern,neutral
+612,1702,24,middle eastern,happy
+613,4813,41,black,happy
+614,4800,34,asian,happy
+615,766,31,black,happy
+616,767,31,black,happy
+617,768,28,asian,sad
+618,769,31,asian,happy
+619,770,29,asian,happy
+620,2240,31,indian,angry
+621,2241,30,asian,sad
+622,2242,32,black,happy
+623,2243,37,black,sad
+624,2244,30,black,sad
+625,2245,29,asian,sad
+626,2246,33,black,happy
+627,2247,31,black,neutral
+628,2249,30,asian,happy
+629,2250,26,asian,fear
+630,4755,32,black,happy
+631,4756,31,black,happy
+632,4757,32,black,happy
+633,4758,33,black,happy
+634,4759,37,black,happy
+635,4760,35,black,happy
+636,4761,32,black,happy
+637,4762,39,black,happy
+638,4763,35,black,happy
+639,4764,33,black,happy
+640,4765,34,black,happy
+641,4766,34,black,happy
+642,4767,32,black,happy
+643,4768,37,black,happy
+644,4770,33,black,happy
+645,4771,33,black,sad
+646,4773,32,black,happy
+647,4775,32,black,sad
+648,4776,36,black,happy
+649,4777,39,black,happy
+650,4778,33,black,happy
+651,4779,33,black,happy
+652,4780,34,black,happy
+653,4781,35,black,happy
+654,4783,33,black,happy
+655,4784,32,black,happy
+656,4785,40,black,happy
+657,4786,32,black,happy
+658,4787,34,black,happy
+659,4788,38,black,happy
+660,4790,31,black,happy
+661,4791,32,black,happy
+662,4792,34,black,happy
+663,4793,28,asian,happy
+664,4794,35,black,happy
+665,962,42,black,happy
+666,963,33,black,happy
+667,964,33,black,happy
+668,966,38,black,happy
+669,967,32,black,happy
+670,968,43,black,happy
+671,977,35,black,happy
+672,979,41,black,happy
+673,2251,43,asian,happy
+674,2252,39,black,angry
+675,2253,43,asian,happy
+676,2254,40,black,happy
+677,2255,37,asian,happy
+678,2256,42,black,sad
+679,2257,36,asian,happy
+680,2258,34,latino hispanic,fear
+681,2259,43,black,happy
+682,4805,33,black,happy
+683,4807,33,latino hispanic,neutral
+684,2267,29,asian,happy
+685,2272,33,asian,neutral
+686,2235,32,indian,neutral
+687,2239,50,black,happy
+688,5058,34,black,happy
+689,5059,46,black,happy
+690,5060,44,black,happy
+691,5061,42,black,happy
+692,5062,34,asian,happy
+693,2276,35,white,sad
+694,2278,31,white,happy
+695,2280,27,latino hispanic,happy
+696,2281,29,latino hispanic,sad
+697,2282,29,asian,happy
+698,3839,32,asian,happy
+699,3840,30,black,angry
+700,3841,35,black,fear
+701,3843,32,black,neutral
+702,1795,33,black,happy
+703,1797,32,black,happy
+704,1800,34,black,happy
+705,1801,32,black,neutral
+706,1803,29,black,happy
+707,1759,30,black,happy
+708,1760,33,black,neutral
+709,1761,32,black,happy
+710,1763,30,black,neutral
+711,1767,25,black,neutral
+712,4735,30,black,happy
+713,4738,27,black,happy
+714,4890,40,white,happy
+715,4891,30,white,happy
+716,4892,30,white,happy
+717,4893,45,white,happy
+718,4894,43,white,neutral
+719,4895,45,white,happy
+720,1975,45,black,happy
+721,1978,36,asian,happy
+722,1979,39,asian,happy
+723,1980,34,latino hispanic,happy
+724,3892,31,latino hispanic,happy
+725,3895,33,latino hispanic,happy
+726,1411,35,indian,happy
+727,1412,34,indian,happy
+728,1415,34,black,happy
+729,2024,27,asian,happy
+730,2027,38,asian,happy
+731,2031,27,asian,happy
+732,2034,27,asian,neutral
+733,2036,34,latino hispanic,happy
+734,2039,34,latino hispanic,happy
+735,2040,32,white,happy
+736,3801,31,black,happy
+737,3803,31,black,happy
+738,3805,29,black,happy
+739,2541,51,asian,happy
+740,2547,41,asian,happy
+741,327,31,asian,sad
+742,328,27,black,happy
+743,329,34,asian,sad
+744,330,36,latino hispanic,happy
+745,331,30,asian,happy
+746,2844,36,asian,neutral
+747,2845,32,asian,happy
+748,2846,37,asian,happy
+749,2847,43,asian,happy
+750,2848,28,asian,happy
+751,2849,38,asian,happy
+752,2850,24,latino hispanic,happy
+753,2851,32,asian,happy
+754,2852,26,asian,happy
+755,4897,40,white,happy
+756,4898,43,white,happy
+757,4899,41,white,happy
+758,4900,36,white,angry
+759,4901,39,white,happy
+760,4902,35,white,angry
+761,4903,34,white,angry
+762,84,34,latino hispanic,neutral
+763,79,23,asian,happy
+764,23,25,asian,sad
+765,24,27,asian,happy
+766,26,24,latino hispanic,neutral
+767,27,43,asian,neutral
+768,28,51,indian,happy
+769,29,33,latino hispanic,neutral
+770,30,32,asian,happy
+771,31,36,asian,happy
+772,32,35,white,fear
+773,33,46,indian,happy
+774,5063,25,asian,happy
+775,5064,29,asian,happy
+776,5065,25,asian,happy
+777,5066,24,asian,happy
+778,5067,33,asian,happy
+779,5068,25,asian,happy
+780,5069,25,asian,happy
+781,5070,33,asian,happy
+782,618,31,black,angry
+783,620,27,black,neutral
+784,4904,28,latino hispanic,fear
+785,4905,26,white,angry
+786,4906,33,latino hispanic,happy
+787,4907,39,white,happy
+788,4908,31,white,angry
+789,4909,36,white,angry
+790,4910,35,white,neutral
+791,4911,41,white,neutral
+792,4912,32,white,sad
+793,981,29,black,angry
+794,982,23,black,neutral
+795,984,33,black,neutral
+796,985,31,black,neutral
+797,986,32,black,happy
+798,987,29,black,happy
+799,988,31,black,angry
+800,5071,34,black,happy
+801,5072,23,black,neutral
+802,5073,22,black,sad
+803,5074,29,black,happy
+804,5075,24,black,neutral
+805,5076,21,black,happy
+806,5077,24,black,happy
+807,5078,23,black,happy
+808,5079,24,black,neutral
+809,4236,26,black,neutral
+810,4237,24,asian,happy
+811,4238,23,black,neutral
+812,4239,24,black,neutral
+813,4240,29,black,neutral
+814,4241,23,black,neutral
+815,4243,30,asian,neutral
+816,4244,27,black,neutral
+817,4245,24,asian,happy
+818,4247,24,black,sad
+819,4248,25,black,neutral
+820,4249,26,black,neutral
+821,2644,38,black,fear
+822,2645,38,black,neutral
+823,2646,44,black,fear
+824,2647,42,black,sad
+825,2648,33,black,happy
+826,2639,30,black,happy
+827,2641,24,black,neutral
+828,2642,33,black,happy
+829,4250,28,black,happy
+830,4251,34,black,neutral
+831,4252,36,black,happy
+832,4253,39,black,angry
+833,4254,32,black,neutral
+834,4255,30,black,happy
+835,4256,26,black,happy
+836,4257,31,black,happy
+837,4258,30,black,happy
+838,4259,34,black,happy
+839,4260,32,black,happy
+840,4261,30,black,happy
+841,4262,31,black,happy
+842,4263,27,black,happy
+843,4264,29,black,happy
+844,4265,32,black,happy
+845,4266,27,black,happy
+846,4267,26,black,happy
+847,4268,35,black,happy
+848,4269,26,black,happy
+849,4270,37,black,happy
+850,4271,37,black,happy
+851,4272,30,black,happy
+852,4281,27,black,happy
+853,4913,43,asian,neutral
+854,4914,43,white,happy
+855,4915,37,white,happy
+856,4916,38,white,happy
+857,74,39,white,happy
+858,75,40,asian,happy
+859,76,32,latino hispanic,happy
+860,77,38,asian,happy
+861,18,32,latino hispanic,fear
+862,22,28,asian,neutral
+863,2518,31,asian,neutral
+864,2519,33,asian,happy
+865,2520,32,asian,neutral
+866,2521,33,asian,happy
+867,2522,33,asian,happy
+868,2525,32,asian,happy
+869,2526,33,asian,happy
+870,2527,33,asian,happy
+871,5080,35,white,fear
+872,5081,35,white,happy
+873,5082,33,white,happy
+874,5083,36,indian,happy
+875,5084,36,latino hispanic,happy
+876,2285,34,black,sad
+877,2286,31,black,happy
+878,2287,33,black,happy
+879,2288,31,black,neutral
+880,2290,23,black,neutral
+881,2291,32,black,neutral
+882,2294,24,black,sad
+883,2297,25,indian,neutral
+884,2298,28,indian,happy
+885,417,25,black,happy
+886,418,21,black,happy
+887,419,28,black,happy
+888,420,22,black,happy
+889,421,24,black,happy
+890,422,27,black,happy
+891,423,25,black,sad
+892,424,26,black,neutral
+893,405,28,black,neutral
+894,406,25,black,neutral
+895,407,28,black,happy
+896,408,21,black,happy
+897,409,22,black,happy
+898,410,23,latino hispanic,happy
+899,411,25,black,happy
+900,412,22,black,happy
+901,413,27,black,happy
+902,1805,29,black,angry
+903,1806,31,black,happy
+904,1807,33,black,happy
+905,1808,30,black,happy
+906,1809,29,black,neutral
+907,1812,32,black,happy
+908,1813,30,black,happy
+909,597,28,black,happy
+910,600,24,black,happy
+911,602,27,asian,happy
+912,603,26,black,happy
+913,2324,26,asian,neutral
+914,2327,28,indian,happy
+915,2329,28,black,neutral
+916,2331,28,black,neutral
+917,2332,32,black,neutral
+918,1426,42,white,happy
+919,1427,42,white,happy
+920,1428,41,white,happy
+921,1429,26,white,happy
+922,1430,26,white,happy
+923,2260,33,asian,angry
+924,2262,30,black,sad
+925,2264,38,latino hispanic,neutral
+926,5085,39,white,fear
+927,5086,32,latino hispanic,happy
+928,5087,39,latino hispanic,happy
+929,5088,35,latino hispanic,happy
+930,5089,38,latino hispanic,happy
+931,3574,32,black,happy
+932,2219,29,black,neutral
+933,2220,24,black,neutral
+934,2221,25,asian,happy
+935,2223,25,black,fear
+936,2225,24,black,happy
+937,2226,46,asian,happy
+938,2227,34,asian,sad
+939,2228,28,asian,happy
+940,2229,31,black,neutral
+941,2231,41,black,neutral
+942,2211,30,black,happy
+943,2212,49,latino hispanic,happy
+944,2213,35,black,happy
+945,2214,39,black,happy
+946,2215,40,indian,fear
+947,2216,35,black,happy
+948,969,39,black,happy
+949,970,28,black,happy
+950,971,39,black,happy
+951,972,25,black,neutral
+952,973,40,black,angry
+953,974,39,black,happy
+954,634,38,black,happy
+955,635,31,black,happy
+956,4109,37,white,happy
+957,4111,34,white,happy
+958,1410,51,black,neutral
+959,5090,41,black,happy
+960,5091,31,black,happy
+961,5092,30,black,neutral
+962,5093,36,latino hispanic,neutral
+963,5094,32,black,happy
+964,3796,29,black,happy
+965,3797,31,black,happy
+966,5095,33,black,happy
+967,5096,32,black,happy
+968,5097,39,asian,happy
+969,5098,33,black,happy
+970,1389,32,black,happy
+971,1393,32,black,happy
+972,1394,25,black,happy
+973,1395,29,black,happy
+974,1322,29,white,neutral
+975,1323,27,latino hispanic,neutral
+976,1324,27,white,happy
+977,1326,31,white,happy
+978,497,48,white,happy
+979,499,41,white,happy
+980,3845,44,black,sad
+981,3846,30,white,fear
+982,3848,44,black,fear
+983,3849,34,black,happy
+984,3850,32,black,happy
+985,3851,34,black,happy
+986,3852,37,black,sad
+987,3853,32,black,sad
+988,3854,36,black,sad
+989,3855,48,black,happy
+990,59,27,asian,happy
+991,60,26,asian,happy
+992,5103,25,white,happy
+993,5104,27,white,sad
+994,5105,27,white,angry
+995,5106,26,white,happy
+996,5108,32,white,neutral
+997,5109,31,white,happy
+998,5110,21,white,neutral
+999,5111,23,white,neutral
+1000,5112,25,white,neutral
+1001,5113,29,white,sad
+1002,5114,26,white,sad
+1003,5115,32,white,neutral
+1004,5116,27,white,neutral
+1005,946,27,white,happy
+1006,947,27,white,happy
+1007,948,28,white,happy
+1008,949,26,white,happy
+1009,950,31,white,happy
+1010,5117,30,white,happy
+1011,5118,31,white,happy
+1012,5119,29,white,happy
+1013,5120,31,white,happy
+1014,5121,31,white,happy
+1015,5122,32,white,happy
+1016,5123,28,white,happy
+1017,5124,29,white,happy
+1018,5125,29,white,neutral
+1019,5126,26,white,happy
+1020,5127,30,white,happy
+1021,5128,26,white,neutral
+1022,5129,30,white,neutral
+1023,5130,25,white,happy
+1024,5131,24,white,happy
+1025,1340,25,white,happy
+1026,1341,21,white,sad
+1027,1342,20,white,happy
+1028,1343,22,white,happy
+1029,834,23,white,happy
+1030,835,21,white,happy
+1031,836,25,asian,neutral
+1032,837,22,white,happy
+1033,838,30,latino hispanic,happy
+1034,839,24,latino hispanic,happy
+1035,2670,25,white,happy
+1036,3556,28,white,happy
+1037,3557,25,white,neutral
+1038,3558,27,white,angry
+1039,4921,39,white,happy
+1040,4922,40,white,neutral
+1041,4923,37,white,neutral
+1042,4924,39,white,neutral
+1043,4925,42,white,sad
+1044,4926,44,white,surprise
+1045,4927,41,white,neutral
+1046,4928,39,white,neutral
+1047,4929,43,white,neutral
+1048,4930,36,white,neutral
+1049,4931,39,middle eastern,happy
+1050,3726,26,white,neutral
+1051,3727,26,white,surprise
+1052,3728,32,white,angry
+1053,3729,24,white,happy
+1054,4495,31,white,happy
+1055,4497,35,white,happy
+1056,4498,29,asian,happy
+1057,4500,22,asian,sad
+1058,4503,22,white,happy
+1059,3907,23,asian,neutral
+1060,3908,39,asian,happy
+1061,3909,36,asian,happy
+1062,3910,21,asian,happy
+1063,3911,39,asian,happy
+1064,3912,33,asian,neutral
+1065,3913,39,white,happy
+1066,3914,26,asian,neutral
+1067,3916,23,asian,angry
+1068,841,28,white,happy
+1069,842,25,white,happy
+1070,843,34,white,happy
+1071,844,23,white,sad
+1072,813,32,asian,sad
+1073,814,30,white,happy
+1074,816,32,white,happy
+1075,845,35,white,happy
+1076,846,27,white,happy
+1077,3724,21,white,happy
+1078,224,24,white,happy
+1079,225,41,white,happy
+1080,226,45,white,neutral
+1081,227,33,white,neutral
+1082,2738,40,white,happy
+1083,2773,24,white,surprise
+1084,3708,29,white,happy
+1085,3709,28,white,neutral
+1086,2662,28,white,neutral
+1087,2663,34,white,happy
+1088,1330,26,white,happy
+1089,1331,24,white,happy
+1090,5132,26,latino hispanic,happy
+1091,5133,26,white,happy
+1092,5134,33,white,happy
+1093,5135,22,asian,neutral
+1094,5136,24,asian,neutral
+1095,2839,22,white,neutral
+1096,2841,25,asian,neutral
+1097,2842,26,white,neutral
+1098,2843,22,white,angry
+1099,1344,28,white,happy
+1100,1501,27,white,happy
+1101,1503,23,white,happy
+1102,1357,30,white,neutral
+1103,1358,23,white,neutral
+1104,1359,25,white,happy
+1105,2752,26,asian,happy
+1106,2753,39,asian,happy
+1107,2754,32,asian,happy
+1108,2755,28,white,happy
+1109,2756,30,latino hispanic,happy
+1110,4932,46,white,sad
+1111,4933,34,white,happy
+1112,4934,37,white,happy
+1113,4935,49,white,happy
+1114,4936,52,white,happy
+1115,4937,46,white,happy
+1116,4938,41,white,fear
+1117,4939,39,white,happy
+1118,4940,44,white,happy
+1119,4941,40,white,happy
+1120,4860,26,black,neutral
+1121,4861,31,white,happy
+1122,4862,32,white,neutral
+1123,4863,26,latino hispanic,sad
+1124,4870,33,latino hispanic,happy
+1125,4871,35,white,sad
+1126,4873,26,latino hispanic,happy
+1127,4874,30,white,neutral
+1128,4514,28,white,neutral
+1129,4515,25,white,happy
+1130,4516,29,white,neutral
+1131,4476,24,white,neutral
+1132,4477,26,white,neutral
+1133,4479,23,white,neutral
+1134,4480,29,latino hispanic,neutral
+1135,4481,30,asian,neutral
+1136,4483,28,latino hispanic,angry
+1137,4484,24,white,neutral
+1138,3439,23,white,fear
+1139,3444,29,white,happy
+1140,3445,26,white,neutral
+1141,3434,29,white,happy
+1142,3435,29,white,happy
+1143,3436,29,white,sad
+1144,3437,31,latino hispanic,happy
+1145,3438,31,white,neutral
+1146,3775,28,white,neutral
+1147,2300,22,white,neutral
+1148,2308,24,white,happy
+1149,1858,37,white,happy
+1150,1859,42,latino hispanic,sad
+1151,1860,40,asian,fear
+1152,3822,21,white,neutral
+1153,3825,26,white,happy
+1154,525,30,white,neutral
+1155,527,31,asian,neutral
+1156,528,33,white,happy
+1157,531,30,white,neutral
+1158,533,29,white,happy
+1159,4545,23,white,neutral
+1160,4553,23,white,neutral
+1161,4554,29,white,angry
+1162,4555,29,white,neutral
+1163,4556,29,white,happy
+1164,4557,22,white,neutral
+1165,4558,29,white,neutral
+1166,4559,24,white,angry
+1167,1633,29,white,happy
+1168,273,34,white,sad
+1169,274,32,white,happy
+1170,1673,29,white,happy
+1171,1674,29,white,happy
+1172,1675,23,latino hispanic,neutral
+1173,1677,26,white,neutral
+1174,1678,23,white,sad
+1175,3512,29,white,happy
+1176,3951,30,white,happy
+1177,514,25,white,neutral
+1178,515,21,white,neutral
+1179,517,25,white,neutral
+1180,5137,27,white,neutral
+1181,5138,29,white,happy
+1182,5139,25,white,happy
+1183,5140,25,white,neutral
+1184,5141,22,white,happy
+1185,5142,21,white,happy
+1186,5143,20,white,happy
+1187,4464,23,white,happy
+1188,4466,27,white,happy
+1189,4467,30,white,happy
+1190,4468,24,white,happy
+1191,672,32,asian,happy
+1192,674,32,white,happy
+1193,3591,23,asian,happy
+1194,3592,24,asian,neutral
+1195,3593,28,asian,happy
+1196,3594,26,latino hispanic,happy
+1197,3596,30,latino hispanic,happy
+1198,2763,22,latino hispanic,happy
+1199,2764,25,asian,happy
+1200,2765,26,asian,happy
+1201,2766,31,latino hispanic,happy
+1202,177,45,white,happy
+1203,178,43,white,happy
+1204,179,48,middle eastern,happy
+1205,444,28,white,neutral
+1206,447,29,asian,happy
+1207,448,31,asian,happy
+1208,3739,33,white,happy
+1209,3925,30,white,happy
+1210,3929,36,white,happy
+1211,4616,23,asian,happy
+1212,103,23,asian,sad
+1213,104,31,white,neutral
+1214,105,24,white,happy
+1215,106,26,white,neutral
+1216,3040,24,white,happy
+1217,3043,25,white,neutral
+1218,1431,30,white,happy
+1219,1432,33,white,neutral
+1220,1433,32,white,happy
+1221,1434,33,white,happy
+1222,1435,28,white,sad
+1223,2341,40,asian,sad
+1224,2342,49,white,angry
+1225,2343,42,white,happy
+1226,2345,46,white,fear
+1227,2347,35,asian,angry
+1228,1298,32,white,happy
+1229,332,32,white,neutral
+1230,333,37,white,happy
+1231,334,30,white,neutral
+1232,335,32,white,happy
+1233,336,29,white,neutral
+1234,338,33,white,happy
+1235,339,32,white,happy
+1236,340,34,white,happy
+1237,341,33,white,happy
+1238,342,33,white,happy
+1239,343,35,white,happy
+1240,344,32,white,neutral
+1241,345,32,white,happy
+1242,346,37,white,happy
+1243,5144,27,white,neutral
+1244,5145,39,white,happy
+1245,5146,43,white,happy
+1246,5147,34,white,happy
+1247,5148,25,white,happy
+1248,5149,22,white,happy
+1249,5150,30,white,happy
+1250,5151,32,white,happy
+1251,5152,26,white,happy
+1252,5153,33,white,happy
+1253,5154,32,white,happy
+1254,5155,31,white,neutral
+1255,5156,33,white,happy
+1256,5157,28,white,happy
+1257,5158,32,white,happy
+1258,5159,31,white,happy
+1259,5160,32,white,happy
+1260,1154,45,white,angry
+1261,1155,39,latino hispanic,neutral
+1262,1156,46,white,angry
+1263,1157,44,white,happy
+1264,1159,32,white,angry
+1265,1160,35,white,happy
+1266,1161,36,white,happy
+1267,1162,28,white,happy
+1268,1164,23,white,sad
+1269,1165,38,white,neutral
+1270,1166,22,white,angry
+1271,1168,23,white,happy
+1272,1172,35,white,happy
+1273,1173,33,white,happy
+1274,1175,43,white,happy
+1275,1179,33,white,fear
+1276,1181,44,white,happy
+1277,1182,31,white,happy
+1278,1183,40,white,fear
+1279,1184,40,white,neutral
+1280,2334,36,black,happy
+1281,4827,32,white,happy
+1282,4828,27,white,happy
+1283,4829,28,white,happy
+1284,4830,30,white,happy
+1285,4831,32,white,happy
+1286,1383,42,latino hispanic,happy
+1287,1384,39,asian,happy
+1288,2877,25,white,neutral
+1289,2878,29,white,neutral
+1290,276,33,white,happy
+1291,277,36,white,happy
+1292,278,31,white,happy
+1293,279,36,white,happy
+1294,280,32,white,happy
+1295,3330,38,latino hispanic,neutral
+1296,3331,38,white,neutral
+1297,3332,36,latino hispanic,happy
+1298,3333,43,latino hispanic,happy
+1299,3334,50,latino hispanic,neutral
+1300,3335,48,asian,happy
+1301,3337,45,white,happy
+1302,3338,52,white,happy
+1303,3339,34,white,happy
+1304,3340,46,latino hispanic,happy
+1305,3341,44,white,happy
+1306,3342,37,white,happy
+1307,3343,39,white,happy
+1308,3344,34,white,happy
+1309,5161,28,white,happy
+1310,5162,39,white,happy
+1311,5163,37,latino hispanic,happy
+1312,5164,35,white,happy
+1313,5165,22,white,happy
+1314,5166,35,white,happy
+1315,5167,40,white,happy
+1316,1318,32,white,happy
+1317,1319,32,white,happy
+1318,1320,33,white,happy
+1319,1321,32,white,happy
+1320,637,24,white,happy
+1321,640,24,white,happy
+1322,641,28,white,happy
+1323,4746,50,latino hispanic,angry
+1324,4748,49,latino hispanic,happy
+1325,1048,28,white,neutral
+1326,1053,32,white,happy
+1327,1054,27,white,happy
+1328,1055,32,white,happy
+1329,1056,23,white,neutral
+1330,1057,25,latino hispanic,fear
+1331,1058,31,white,happy
+1332,1059,32,white,happy
+1333,1068,23,white,happy
+1334,1072,21,latino hispanic,happy
+1335,1073,29,white,neutral
+1336,1074,26,white,neutral
+1337,1076,24,latino hispanic,neutral
+1338,1077,28,white,neutral
+1339,1078,24,white,happy
+1340,1079,30,white,happy
+1341,1080,30,white,neutral
+1342,5168,30,white,happy
+1343,5169,25,white,happy
+1344,5170,24,white,happy
+1345,5171,30,white,neutral
+1346,5172,28,white,neutral
+1347,5173,31,white,neutral
+1348,1620,33,white,neutral
+1349,1621,35,white,happy
+1350,1623,33,white,happy
+1351,1624,34,white,happy
+1352,1617,38,white,happy
+1353,1618,33,white,happy
+1354,1619,36,white,happy
+1355,5174,35,black,neutral
+1356,5175,39,black,neutral
+1357,5176,34,black,happy
+1358,5177,31,black,neutral
+1359,5178,37,black,sad
+1360,5179,36,black,happy
+1361,5180,34,black,neutral
+1362,501,23,white,happy
+1363,503,28,white,happy
+1364,504,29,white,happy
+1365,505,23,white,sad
+1366,507,27,white,happy
+1367,508,22,white,neutral
+1368,509,30,white,fear
+1369,511,30,white,happy
+1370,512,22,asian,happy
+1371,4345,22,white,neutral
+1372,4346,22,white,neutral
+1373,4348,21,white,neutral
+1374,4349,21,white,neutral
+1375,1138,20,white,happy
+1376,4667,20,white,neutral
+1377,4668,20,white,neutral
+1378,549,22,white,happy
+1379,550,22,white,neutral
+1380,551,22,white,neutral
+1381,552,21,white,neutral
+1382,553,22,white,angry
+1383,554,23,white,happy
+1384,555,22,white,happy
+1385,5181,26,black,happy
+1386,5182,30,latino hispanic,happy
+1387,5183,25,latino hispanic,happy
+1388,5184,26,latino hispanic,happy
+1389,5185,30,black,happy
+1390,5186,30,black,happy
+1391,426,30,black,happy
+1392,429,30,indian,happy
+1393,430,31,latino hispanic,angry
+1394,431,28,black,happy
+1395,432,39,latino hispanic,happy
+1396,433,26,indian,happy
+1397,434,28,indian,angry
+1398,435,31,black,happy
+1399,436,31,black,happy
+1400,847,23,white,neutral
+1401,848,24,white,angry
+1402,849,26,white,neutral
+1403,5187,24,white,happy
+1404,5188,22,white,happy
+1405,5189,21,white,happy
+1406,5190,21,white,happy
+1407,5192,25,white,happy
+1408,5193,22,white,neutral
+1409,3323,22,latino hispanic,happy
+1410,3324,30,white,neutral
+1411,3326,27,white,happy
+1412,3327,25,white,angry
+1413,3329,28,white,happy
+1414,1258,25,white,happy
+1415,1260,23,middle eastern,happy
+1416,2107,25,white,happy
+1417,2108,29,white,happy
+1418,2109,25,white,happy
+1419,2110,28,white,happy
+1420,2111,28,white,happy
+1421,2112,29,white,happy
+1422,2113,28,white,happy
+1423,2114,27,white,happy
+1424,230,33,white,neutral
+1425,231,33,white,happy
+1426,235,37,white,happy
+1427,2124,27,white,neutral
+1428,2125,23,white,sad
+1429,2126,31,white,happy
+1430,2127,27,white,happy
+1431,2128,28,white,happy
+1432,2129,30,white,happy
+1433,2130,23,white,happy
+1434,2131,28,white,happy
+1435,534,33,white,neutral
+1436,535,27,white,sad
+1437,536,28,white,neutral
+1438,539,31,white,happy
+1439,540,32,white,sad
+1440,541,33,white,sad
+1441,542,28,white,happy
+1442,544,28,white,neutral
+1443,545,28,white,neutral
+1444,547,35,white,happy
+1445,548,33,white,neutral
+1446,1243,31,white,angry
+1447,1244,31,latino hispanic,happy
+1448,1245,29,latino hispanic,happy
+1449,1246,31,latino hispanic,happy
+1450,1247,30,latino hispanic,happy
+1451,1248,28,latino hispanic,happy
+1452,1251,30,latino hispanic,happy
+1453,2310,31,white,happy
+1454,2311,35,white,happy
+1455,2312,33,indian,happy
+1456,2313,35,white,happy
+1457,2314,33,white,happy
+1458,2315,32,white,happy
+1459,2316,29,white,happy
+1460,2317,32,white,happy
+1461,2318,32,white,happy
+1462,2319,33,white,happy
+1463,2320,32,white,happy
+1464,2321,33,white,happy
+1465,2322,33,white,happy
+1466,1644,33,white,happy
+1467,1647,33,white,happy
+1468,1648,41,white,happy
+1469,1649,33,white,happy
+1470,1651,35,white,happy
+1471,1654,40,white,happy
+1472,1656,34,white,happy
+1473,1703,34,white,happy
+1474,1705,37,white,happy
+1475,2379,51,asian,happy
+1476,2381,47,white,happy
+1477,2383,50,white,sad
+1478,2384,46,white,happy
+1479,2385,42,white,happy
+1480,1657,32,white,neutral
+1481,1663,32,asian,happy
+1482,1664,32,white,happy
+1483,1665,31,white,happy
+1484,1666,31,white,neutral
+1485,1672,32,white,happy
+1486,5194,33,white,happy
+1487,5195,34,white,happy
+1488,5196,33,white,happy
+1489,5197,36,white,happy
+1490,5198,31,white,happy
+1491,5199,34,white,happy
+1492,5200,37,latino hispanic,happy
+1493,5201,30,white,happy
+1494,5202,31,white,happy
+1495,5203,33,white,happy
+1496,5204,32,white,happy
+1497,5205,33,white,happy
+1498,5206,31,white,happy
+1499,5207,36,white,happy
+1500,5208,50,white,sad
+1501,306,30,white,happy
+1502,307,39,white,happy
+1503,308,40,white,happy
+1504,309,35,white,happy
+1505,310,29,white,happy
+1506,311,33,white,happy
+1507,312,36,white,happy
+1508,313,30,white,happy
+1509,315,31,white,neutral
+1510,4091,52,white,happy
+1511,4092,56,white,happy
+1512,4093,44,white,happy
+1513,4094,43,white,happy
+1514,4095,39,white,sad
+1515,4096,38,white,happy
+1516,4099,47,white,happy
+1517,4100,35,white,happy
+1518,1709,29,white,happy
+1519,1710,32,white,neutral
+1520,1712,31,white,happy
+1521,1713,29,white,happy
+1522,1714,33,white,neutral
+1523,1715,30,white,happy
+1524,1716,32,white,happy
+1525,1717,33,white,happy
+1526,2386,41,white,happy
+1527,2387,38,white,angry
+1528,2388,42,white,happy
+1529,2389,46,latino hispanic,happy
+1530,2390,47,white,neutral
+1531,2391,39,white,happy
+1532,2392,36,white,happy
+1533,1236,30,white,happy
+1534,1238,30,white,happy
+1535,1240,34,white,happy
+1536,1241,33,white,neutral
+1537,1242,35,white,neutral
+1538,4161,32,white,happy
+1539,4162,33,white,neutral
+1540,4163,39,white,fear
+1541,4164,43,white,happy
+1542,4165,32,white,neutral
+1543,4377,45,white,neutral
+1544,4379,32,white,neutral
+1545,4380,47,white,happy
+1546,4381,32,white,neutral
+1547,4383,39,white,happy
+1548,4384,39,asian,happy
+1549,1143,43,white,happy
+1550,1144,38,white,happy
+1551,1148,32,white,happy
+1552,1149,48,white,happy
+1553,1150,51,white,happy
+1554,1151,34,white,happy
+1555,2490,36,white,happy
+1556,2491,28,asian,happy
+1557,2492,34,white,neutral
+1558,2493,33,white,happy
+1559,2494,33,white,happy
+1560,2496,37,white,happy
+1561,2497,37,white,happy
+1562,2498,40,white,happy
+1563,2499,34,white,happy
+1564,2500,42,white,sad
+1565,2501,33,white,happy
+1566,2502,35,white,happy
+1567,3491,34,white,happy
+1568,3492,39,white,happy
+1569,3494,32,white,happy
+1570,3495,39,white,happy
+1571,3497,34,white,happy
+1572,3498,40,white,happy
+1573,3499,39,white,happy
+1574,3500,36,white,happy
+1575,3501,32,white,happy
+1576,5209,32,white,happy
+1577,5210,33,white,happy
+1578,5211,31,white,happy
+1579,5212,34,white,happy
+1580,5213,32,white,happy
+1581,5214,34,white,happy
+1582,5215,33,white,neutral
+1583,5216,32,white,neutral
+1584,5217,32,white,happy
+1585,5218,31,white,happy
+1586,5219,32,white,happy
+1587,5220,34,white,happy
+1588,3808,34,white,happy
+1589,3810,34,white,happy
+1590,3811,35,white,happy
+1591,1579,51,white,neutral
+1592,1580,53,asian,happy
+1593,1581,53,middle eastern,happy
+1594,1585,46,white,angry
+1595,2933,23,white,happy
+1596,2934,34,asian,happy
+1597,2935,40,white,happy
+1598,2741,28,white,happy
+1599,2742,36,latino hispanic,happy
+1600,5221,32,asian,sad
+1601,5222,39,white,happy
+1602,5223,36,white,sad
+1603,5224,43,white,happy
+1604,5225,41,white,happy
+1605,5226,27,white,happy
+1606,3930,40,white,happy
+1607,3931,37,white,happy
+1608,3932,30,white,disgust
+1609,3934,45,white,happy
+1610,5227,27,latino hispanic,happy
+1611,5228,26,indian,happy
+1612,5229,28,latino hispanic,angry
+1613,5230,36,white,neutral
+1614,5231,23,latino hispanic,neutral
+1615,5232,26,indian,happy
+1616,5233,34,latino hispanic,neutral
+1617,5234,28,latino hispanic,happy
+1618,5235,22,indian,happy
+1619,5236,34,indian,happy
+1620,2201,26,black,happy
+1621,2209,35,latino hispanic,neutral
+1622,2210,25,latino hispanic,happy
+1623,3968,31,white,happy
+1624,3969,26,white,happy
+1625,3970,31,white,happy
+1626,3971,31,white,happy
+1627,3972,27,white,neutral
+1628,3973,29,white,neutral
+1629,3974,29,white,happy
+1630,3975,27,white,happy
+1631,159,42,white,happy
+1632,5237,31,white,happy
+1633,5238,32,white,happy
+1634,5240,32,latino hispanic,happy
+1635,5241,32,white,happy
+1636,5242,41,white,happy
+1637,5243,40,white,happy
+1638,5244,38,white,happy
+1639,5245,33,white,happy
+1640,5246,39,white,happy
+1641,5247,36,white,happy
+1642,5248,34,white,happy
+1643,5249,32,white,happy
+1644,5250,38,white,happy
+1645,5251,37,white,happy
+1646,4206,47,asian,happy
+1647,4208,33,white,happy
+1648,3813,24,white,happy
+1649,3816,22,white,neutral
+1650,3673,32,white,happy
+1651,3674,35,white,happy
+1652,3675,34,latino hispanic,happy
+1653,3676,29,white,happy
+1654,3677,33,white,happy
+1655,3678,33,white,happy
+1656,3679,32,white,happy
+1657,3680,32,white,happy
+1658,3681,33,white,happy
+1659,3682,34,white,happy
+1660,3683,34,white,happy
+1661,3684,31,white,happy
+1662,3685,33,white,happy
+1663,3686,27,white,happy
+1664,3687,34,white,happy
+1665,3688,33,white,happy
+1666,3648,32,white,happy
+1667,3650,39,white,happy
+1668,3651,36,white,happy
+1669,3652,39,white,happy
+1670,3653,32,white,happy
+1671,3654,33,white,happy
+1672,3655,37,white,happy
+1673,3656,42,white,happy
+1674,3657,34,white,happy
+1675,3658,46,white,happy
+1676,3659,42,white,happy
+1677,3660,35,white,happy
+1678,3661,42,white,happy
+1679,3662,37,white,happy
+1680,3663,39,white,happy
+1681,3664,31,white,happy
+1682,3665,37,white,happy
+1683,3666,40,white,happy
+1684,3667,39,white,happy
+1685,3668,34,white,happy
+1686,3669,33,white,happy
+1687,3670,32,white,neutral
+1688,3671,43,white,happy
+1689,3672,33,white,happy
+1690,1134,48,middle eastern,sad
+1691,1135,40,white,happy
+1692,1136,52,white,happy
+1693,1137,46,white,happy
+1694,746,21,white,happy
+1695,747,22,white,happy
+1696,748,23,white,happy
+1697,752,27,white,happy
+1698,5252,34,white,fear
+1699,5253,38,white,neutral
+1700,5254,32,white,neutral
+1701,5255,33,white,happy
+1702,5256,33,white,neutral
+1703,5257,41,white,happy
+1704,5258,32,black,happy
+1705,5259,28,white,neutral
+1706,5260,33,white,neutral
+1707,5261,31,white,happy
+1708,5262,32,white,happy
+1709,903,33,white,happy
+1710,904,32,white,disgust
+1711,906,31,white,happy
+1712,779,43,white,neutral
+1713,782,35,white,happy
+1714,785,33,latino hispanic,happy
+1715,787,35,white,happy
+1716,788,29,latino hispanic,happy
+1717,789,34,white,happy
+1718,790,36,white,happy
+1719,869,36,white,happy
+1720,871,34,white,happy
+1721,872,36,white,happy
+1722,874,33,white,happy
+1723,876,33,white,happy
+1724,879,28,white,happy
+1725,880,34,white,happy
+1726,3992,50,white,happy
+1727,3993,26,white,happy
+1728,3994,34,white,happy
+1729,692,37,white,happy
+1730,693,41,white,happy
+1731,1093,43,white,happy
+1732,1094,40,white,happy
+1733,1096,50,white,happy
+1734,1097,52,white,happy
+1735,3732,31,white,happy
+1736,3733,32,white,happy
+1737,3734,35,white,happy
+1738,3735,32,white,happy
+1739,1605,39,white,angry
+1740,1606,41,white,happy
+1741,1607,40,white,happy
+1742,1608,38,white,happy
+1743,1609,45,white,sad
+1744,5263,34,indian,happy
+1745,5264,40,latino hispanic,happy
+1746,5265,32,latino hispanic,happy
+1747,5266,39,latino hispanic,happy
+1748,5268,31,indian,happy
+1749,5269,42,indian,sad
+1750,5276,39,latino hispanic,happy
+1751,5277,34,indian,happy
+1752,5278,36,indian,happy
+1753,5279,33,latino hispanic,neutral
+1754,5280,33,white,sad
+1755,5281,33,indian,neutral
+1756,5282,37,latino hispanic,happy
+1757,5283,38,white,sad
+1758,5284,29,white,angry
+1759,5285,39,indian,sad
+1760,5286,39,white,happy
+1761,5287,31,white,happy
+1762,5288,37,white,happy
+1763,5289,45,latino hispanic,happy
+1764,5290,46,white,happy
+1765,5291,32,latino hispanic,happy
+1766,5292,45,white,happy
+1767,5293,38,white,happy
+1768,1416,48,white,happy
+1769,1419,42,white,happy
+1770,5294,33,white,happy
+1771,5295,37,white,happy
+1772,5296,38,white,happy
+1773,5297,41,white,happy
+1774,5298,38,white,happy
+1775,5299,45,white,happy
+1776,5300,46,white,happy
+1777,2357,43,white,happy
+1778,2358,36,white,happy
+1779,2359,43,white,happy
+1780,5301,39,indian,sad
+1781,5302,45,indian,fear
+1782,5303,41,latino hispanic,happy
+1783,5304,47,asian,happy
+1784,5305,29,latino hispanic,happy
+1785,5306,36,latino hispanic,happy
+1786,5307,40,latino hispanic,fear
+1787,5308,35,white,happy
+1788,5309,33,latino hispanic,neutral
+1789,5310,30,latino hispanic,happy
+1790,5311,40,indian,happy
+1791,5312,37,white,neutral
+1792,5313,35,latino hispanic,happy
+1793,5314,42,latino hispanic,sad
+1794,5315,38,indian,sad
+1795,5316,35,indian,happy
+1796,5317,35,indian,happy
+1797,5318,44,latino hispanic,happy
+1798,5319,41,indian,happy
+1799,5320,36,latino hispanic,happy
+1800,5321,37,latino hispanic,happy
+1801,5322,33,latino hispanic,happy
+1802,5323,27,latino hispanic,sad
+1803,5324,29,indian,neutral
+1804,5325,27,indian,sad
+1805,5326,32,latino hispanic,sad
+1806,5327,36,white,happy
+1807,5328,39,latino hispanic,happy
+1808,5329,31,white,happy
+1809,5330,39,asian,happy
+1810,5331,42,latino hispanic,happy
+1811,1729,43,white,happy
+1812,1730,32,asian,happy
+1813,1731,43,white,happy
+1814,5332,33,white,happy
+1815,5333,39,white,neutral
+1816,5334,43,white,happy
+1817,3367,30,white,happy
+1818,3368,35,white,happy
+1819,3369,42,white,happy
+1820,1185,31,white,happy
+1821,1189,32,white,happy
+1822,1190,33,white,happy
+1823,1192,32,white,happy
+1824,1193,32,white,happy
+1825,1194,32,white,neutral
+1826,1195,31,white,happy
+1827,1197,33,white,happy
+1828,1198,32,white,neutral
+1829,1199,31,white,neutral
+1830,1200,32,white,happy
+1831,1201,32,white,neutral
+1832,1204,31,white,happy
+1833,3306,37,white,happy
+1834,3307,40,white,happy
+1835,3308,25,white,happy
+1836,3309,37,latino hispanic,happy
+1837,3310,37,white,happy
+1838,3311,48,white,happy
+1839,3312,52,white,happy
+1840,3313,22,white,happy
+1841,3314,25,white,happy
+1842,3315,34,latino hispanic,happy
+1843,4883,33,white,happy
+1844,4884,33,white,happy
+1845,4885,33,white,happy
+1846,4886,28,white,angry
+1847,4887,29,white,happy
+1848,4888,31,white,happy
+1849,4889,34,white,happy
+1850,5335,37,white,happy
+1851,5336,31,white,fear
+1852,5337,37,white,happy
+1853,5338,36,white,happy
+1854,5339,33,white,sad
+1855,5340,35,asian,happy
+1856,5341,42,white,happy
+1857,5342,45,latino hispanic,happy
+1858,5343,32,white,happy
+1859,5344,39,white,happy
+1860,907,33,white,happy
+1861,908,38,white,neutral
+1862,909,32,white,happy
+1863,910,32,white,happy
+1864,911,32,white,neutral
+1865,912,33,white,happy
+1866,913,37,white,happy
+1867,914,32,white,neutral
+1868,915,33,white,sad
+1869,916,34,white,happy
+1870,917,32,white,happy
+1871,918,34,white,happy
+1872,5345,34,white,happy
+1873,5346,34,white,happy
+1874,5347,33,white,happy
+1875,5348,33,white,happy
+1876,5349,33,white,happy
+1877,5350,33,white,happy
+1878,5351,40,white,happy
+1879,5352,35,white,neutral
+1880,2433,34,white,neutral
+1881,2434,33,white,happy
+1882,2436,35,white,sad
+1883,2437,36,white,happy
+1884,2438,36,white,happy
+1885,2439,34,white,neutral
+1886,2440,37,white,happy
+1887,2441,33,white,happy
+1888,2442,40,white,happy
+1889,2443,38,white,happy
+1890,2444,35,white,happy
+1891,2445,35,white,happy
+1892,2446,37,white,happy
+1893,2447,35,white,happy
+1894,2449,36,white,happy
+1895,2450,35,white,happy
+1896,3935,39,white,sad
+1897,3936,39,asian,fear
+1898,3937,38,asian,happy
+1899,3938,39,asian,happy
+1900,3939,36,asian,sad
+1901,1943,37,latino hispanic,happy
+1902,1944,31,latino hispanic,happy
+1903,1945,24,white,happy
+1904,1946,27,white,happy
+1905,1947,24,white,happy
+1906,1948,23,latino hispanic,happy
+1907,1950,23,white,happy
+1908,1951,23,white,happy
+1909,1952,28,white,fear
+1910,1953,24,latino hispanic,happy
+1911,1954,25,white,happy
+1912,1955,34,white,happy
+1913,1956,27,white,neutral
+1914,1957,23,white,happy
+1915,2685,34,white,happy
+1916,5353,40,latino hispanic,happy
+1917,5354,34,latino hispanic,happy
+1918,5355,40,latino hispanic,happy
+1919,5356,38,white,happy
+1920,5357,37,latino hispanic,happy
+1921,5358,26,white,neutral
+1922,5359,28,white,happy
+1923,5360,24,white,neutral
+1924,5361,30,white,happy
+1925,5362,30,white,happy
+1926,5363,30,white,happy
+1927,942,25,white,neutral
+1928,5364,31,white,happy
+1929,5365,31,white,happy
+1930,5366,33,latino hispanic,happy
+1931,5367,29,white,happy
+1932,5368,31,asian,happy
+1933,5369,31,white,happy
+1934,5370,32,white,happy
+1935,5371,39,white,happy
+1936,5372,33,white,happy
+1937,5373,29,white,happy
+1938,5374,30,white,happy
+1939,200,36,white,happy
+1940,4942,45,white,happy
+1941,4943,23,latino hispanic,happy
+1942,4945,45,white,happy
+1943,4947,45,asian,happy
+1944,4950,42,asian,happy
+1945,4951,29,asian,happy
+1946,4952,45,white,happy
+1947,4954,24,white,neutral
+1948,4955,31,asian,happy
+1949,2690,43,white,sad
+1950,2695,47,white,happy
+1951,2697,47,white,neutral
+1952,3087,51,white,happy
+1953,3088,22,white,happy
+1954,3089,25,white,angry
+1955,3090,24,white,happy
+1956,3091,39,white,happy
+1957,3092,27,white,happy
+1958,3093,43,white,happy
+1959,3094,31,white,happy
+1960,3095,23,white,happy
+1961,3096,24,white,happy
+1962,4621,48,white,happy
+1963,4622,53,white,disgust
+1964,4624,41,white,neutral
+1965,3976,33,white,neutral
+1966,3977,35,white,happy
+1967,3978,37,white,happy
+1968,3979,35,white,happy
+1969,3980,37,white,sad
+1970,3981,33,white,happy
+1971,3982,34,white,happy
+1972,3983,36,white,happy
+1973,4089,40,white,neutral
+1974,5375,32,white,happy
+1975,5376,27,white,happy
+1976,5377,33,white,happy
+1977,5378,34,white,happy
+1978,5379,27,white,neutral
+1979,5380,28,white,neutral
+1980,5381,43,white,happy
+1981,5382,39,white,happy
+1982,5383,33,indian,happy
+1983,5384,29,white,happy
+1984,5385,36,white,neutral
+1985,5386,29,white,happy
+1986,5387,38,white,happy
+1987,5388,34,white,happy
+1988,5389,33,white,happy
+1989,5390,32,white,happy
+1990,5391,31,white,happy
+1991,5392,33,white,happy
+1992,5393,34,white,happy
+1993,5394,39,white,happy
+1994,5395,34,white,happy
+1995,5396,36,white,happy
+1996,5397,39,white,happy
+1997,5398,40,white,happy
+1998,5399,37,white,happy
+1999,5400,34,white,happy
+2000,5401,32,white,sad
+2001,5402,32,white,neutral
+2002,5403,36,white,sad
+2003,5404,33,white,sad
+2004,5405,30,white,sad
+2005,5406,31,white,neutral
+2006,5407,33,white,neutral
+2007,5408,34,white,happy
+2008,5409,42,white,happy
+2009,5410,37,white,happy
+2010,5411,33,white,happy
+2011,5419,47,white,happy
+2012,5420,42,white,happy
+2013,5421,43,white,happy
+2014,5422,27,white,happy
+2015,5423,35,white,happy
+2016,5425,38,white,happy
+2017,5426,27,white,happy
+2018,5427,41,white,happy
+2019,5428,41,white,happy
+2020,5429,30,white,happy
+2021,5430,47,white,happy
+2022,5433,48,white,happy
+2023,5437,30,white,happy
+2024,5438,32,white,happy
+2025,5444,39,white,happy
+2026,5446,36,white,happy
+2027,5447,40,white,happy
+2028,5448,33,latino hispanic,happy
+2029,5449,34,white,angry
+2030,5450,34,white,happy
+2031,5451,48,white,happy
+2032,5452,46,white,happy
+2033,5453,30,white,neutral
+2034,5454,51,white,happy
+2035,655,34,white,happy
+2036,378,43,white,neutral
+2037,379,46,white,sad
+2038,381,48,latino hispanic,angry
+2039,1098,32,white,neutral
+2040,1099,32,white,happy
+2041,1100,31,white,neutral
+2042,1101,33,white,neutral
+2043,1102,33,white,neutral
+2044,1103,33,white,happy
+2045,1104,30,white,neutral
+2046,1105,31,white,happy
+2047,1106,33,white,happy
+2048,1107,30,white,happy
+2049,1108,32,white,happy
+2050,1109,30,white,happy
+2051,1110,31,white,neutral
+2052,1111,32,white,happy
+2053,1112,35,white,happy
+2054,4211,28,white,happy
+2055,4212,28,latino hispanic,happy
+2056,4213,32,white,happy
+2057,4214,36,white,happy
+2058,4215,27,white,neutral
+2059,579,31,white,happy
+2060,580,30,white,happy
+2061,581,33,white,happy
+2062,582,29,white,happy
+2063,583,30,white,happy
+2064,584,29,white,sad
+2065,585,33,white,happy
+2066,586,33,white,happy
+2067,587,31,white,neutral
+2068,588,32,latino hispanic,neutral
+2069,589,34,white,angry
+2070,590,29,white,happy
+2071,594,31,white,happy
+2072,595,32,white,neutral
+2073,212,24,white,happy
+2074,213,25,white,happy
+2075,214,25,white,happy
+2076,215,25,white,happy
+2077,216,27,white,happy
+2078,217,26,white,happy
+2079,1837,32,white,happy
+2080,1838,31,white,happy
+2081,1839,32,white,happy
+2082,1840,32,white,happy
+2083,1841,32,white,happy
+2084,1842,33,white,happy
+2085,1844,34,white,happy
+2086,1845,32,white,happy
+2087,4844,23,asian,neutral
+2088,4845,26,asian,happy
+2089,4846,31,asian,happy
+2090,4847,31,asian,neutral
+2091,4848,27,asian,happy
+2092,211,21,latino hispanic,happy
+2093,121,29,white,happy
+2094,124,24,white,neutral
+2095,130,25,white,neutral
+2096,2906,25,white,neutral
+2097,2907,34,latino hispanic,neutral
+2098,2908,31,white,happy
+2099,2909,30,white,neutral
+2100,2910,32,white,neutral
+2101,173,30,white,happy
+2102,175,27,white,happy
+2103,731,26,white,happy
+2104,733,26,white,happy
+2105,371,30,latino hispanic,happy
+2106,372,29,white,happy
+2107,373,30,white,happy
+2108,374,31,white,neutral
+2109,375,32,latino hispanic,happy
+2110,376,32,white,happy
+2111,382,31,latino hispanic,happy
+2112,383,32,latino hispanic,happy
+2113,384,33,latino hispanic,happy
+2114,385,31,white,happy
+2115,386,24,white,neutral
+2116,1994,27,latino hispanic,happy
+2117,1995,25,latino hispanic,neutral
+2118,1996,28,asian,neutral
+2119,1997,28,asian,happy
+2120,1998,26,latino hispanic,happy
+2121,1999,25,latino hispanic,happy
+2122,2000,27,asian,happy
+2123,2611,28,white,neutral
+2124,2612,34,white,happy
+2125,2613,40,white,neutral
+2126,2614,32,white,happy
+2127,2615,31,white,neutral
+2128,2616,30,white,happy
+2129,2617,30,white,neutral
+2130,2618,29,latino hispanic,happy
+2131,2619,29,white,happy
+2132,2620,32,white,happy
+2133,2621,31,white,fear
+2134,2622,31,white,happy
+2135,2624,32,white,happy
+2136,2625,32,white,happy
+2137,2626,32,white,happy
+2138,2627,33,white,happy
+2139,2628,32,white,happy
+2140,2629,32,white,happy
+2141,2630,31,white,happy
+2142,2631,30,white,happy
+2143,2592,32,white,happy
+2144,2593,36,white,happy
+2145,2594,32,white,happy
+2146,2595,27,white,happy
+2147,2597,33,white,happy
+2148,2598,31,white,neutral
+2149,2599,35,white,disgust
+2150,2600,33,white,neutral
+2151,2601,33,white,happy
+2152,2602,32,white,happy
+2153,2604,27,white,happy
+2154,2605,32,white,neutral
+2155,2606,32,white,happy
+2156,2607,33,white,happy
+2157,4352,55,white,happy
+2158,4353,43,white,happy
+2159,4356,56,white,happy
+2160,4013,30,white,happy
+2161,4014,24,white,happy
+2162,4016,31,latino hispanic,happy
+2163,4017,32,white,neutral
+2164,4018,30,white,happy
+2165,4019,31,white,happy
+2166,4020,27,white,happy
+2167,4021,28,white,happy
+2168,4022,31,white,happy
+2169,4023,23,white,happy
+2170,3345,24,white,happy
+2171,3346,30,white,neutral
+2172,3347,29,white,neutral
+2173,3348,24,white,happy
+2174,3349,31,white,neutral
+2175,3350,33,white,neutral
+2176,3351,28,white,happy
+2177,3352,31,white,happy
+2178,3353,31,white,neutral
+2179,3354,25,white,happy
+2180,3356,27,white,angry
+2181,3358,30,white,happy
+2182,3359,28,white,neutral
+2183,3361,34,white,happy
+2184,467,32,white,happy
+2185,469,31,white,happy
+2186,471,31,white,happy
+2187,472,29,white,neutral
+2188,473,33,white,happy
+2189,474,30,white,sad
+2190,475,29,white,happy
+2191,478,30,white,sad
+2192,4425,31,white,happy
+2193,4426,31,white,happy
+2194,4427,30,white,happy
+2195,4428,29,white,happy
+2196,4429,29,white,happy
+2197,2918,24,latino hispanic,fear
+2198,2921,24,white,sad
+2199,2922,30,white,happy
+2200,2399,47,white,happy
+2201,2400,43,middle eastern,happy
+2202,2401,38,latino hispanic,happy
+2203,2402,35,white,happy
+2204,2403,44,middle eastern,fear
+2205,137,26,white,neutral
+2206,4222,31,white,happy
+2207,4223,28,white,happy
+2208,4224,25,white,happy
+2209,4226,34,white,happy
+2210,4228,30,white,happy
+2211,4229,27,white,happy
+2212,4232,30,white,happy
+2213,4233,27,white,happy
+2214,4234,30,white,happy
+2215,4235,28,white,happy
+2216,3032,32,white,happy
+2217,3033,26,white,neutral
+2218,3034,32,asian,happy
+2219,3035,27,white,neutral
+2220,3036,28,white,happy
+2221,3037,26,white,happy
+2222,3038,27,white,neutral
+2223,3039,28,white,neutral
+2224,5455,37,latino hispanic,happy
+2225,5456,42,latino hispanic,happy
+2226,5457,39,latino hispanic,happy
+2227,5458,42,indian,happy
+2228,5459,43,latino hispanic,happy
+2229,5460,36,latino hispanic,neutral
+2230,5461,41,latino hispanic,happy
+2231,5462,34,latino hispanic,happy
+2232,5463,42,white,happy
+2233,5464,30,white,happy
+2234,5465,30,latino hispanic,happy
+2235,5466,34,white,happy
+2236,5467,34,middle eastern,neutral
+2237,5468,30,middle eastern,happy
+2238,5469,34,middle eastern,neutral
+2239,5470,33,middle eastern,neutral
+2240,5471,34,white,neutral
+2241,5472,35,indian,happy
+2242,89,23,asian,neutral
+2243,2805,23,white,fear
+2244,2807,22,white,neutral
+2245,4656,23,white,neutral
+2246,4658,25,white,happy
+2247,2896,25,white,neutral
+2248,2897,28,white,happy
+2249,2898,23,white,sad
+2250,2899,28,white,neutral
+2251,2900,29,white,happy
+2252,2160,33,latino hispanic,fear
+2253,2161,27,white,happy
+2254,2162,25,latino hispanic,happy
+2255,2163,26,white,happy
+2256,2164,27,white,happy
+2257,2165,25,white,happy
+2258,2166,35,latino hispanic,happy
+2259,2167,36,white,happy
+2260,2168,25,latino hispanic,neutral
+2261,2169,24,white,happy
+2262,2170,23,white,happy
+2263,2171,27,white,neutral
+2264,2172,25,latino hispanic,happy
+2265,2173,24,white,neutral
+2266,2174,24,white,neutral
+2267,2175,24,white,happy
+2268,2176,23,white,happy
+2269,2177,25,white,angry
+2270,192,26,indian,angry
+2271,4357,25,white,happy
+2272,4358,32,white,happy
+2273,4359,35,white,happy
+2274,4360,35,white,happy
+2275,4361,32,white,happy
+2276,4362,29,white,angry
+2277,4363,33,white,happy
+2278,4364,33,white,happy
+2279,4365,31,white,happy
+2280,4366,30,white,happy
+2281,4367,31,white,happy
+2282,4368,33,white,happy
+2283,4369,29,white,happy
+2284,4370,23,white,neutral
+2285,4371,29,white,happy
+2286,4372,31,white,happy
+2287,4373,30,white,happy
+2288,4374,32,white,fear
+2289,4376,22,white,happy
+2290,1421,42,latino hispanic,neutral
+2291,1422,32,middle eastern,happy
+2292,1423,33,white,happy
+2293,1424,34,white,happy
+2294,1425,38,white,happy
+2295,2088,26,asian,happy
+2296,2089,31,asian,happy
+2297,2090,28,white,happy
+2298,2091,31,white,neutral
+2299,2092,28,white,fear
+2300,286,32,white,happy
+2301,287,30,white,happy
+2302,288,34,latino hispanic,happy
+2303,289,30,white,neutral
+2304,290,30,white,happy
+2305,2790,26,white,sad
+2306,2791,33,white,happy
+2307,2792,32,white,happy
+2308,2793,27,white,neutral
+2309,2795,30,white,happy
+2310,2796,25,white,happy
+2311,2800,32,white,happy
+2312,2801,27,white,happy
+2313,2802,28,white,happy
+2314,5473,33,white,happy
+2315,5474,32,white,neutral
+2316,5475,33,white,neutral
+2317,5476,40,white,happy
+2318,5477,27,white,neutral
+2319,5478,31,white,happy
+2320,5480,36,white,happy
+2321,642,27,white,neutral
+2322,643,26,white,happy
+2323,644,28,white,happy
+2324,645,25,white,happy
+2325,647,26,white,happy
+2326,648,29,white,fear
+2327,649,29,white,neutral
+2328,1958,26,asian,happy
+2329,1959,28,latino hispanic,neutral
+2330,1960,31,white,happy
+2331,1961,26,asian,happy
+2332,1962,30,asian,neutral
+2333,1963,30,asian,neutral
+2334,1964,28,white,neutral
+2335,1965,29,white,neutral
+2336,1966,31,white,happy
+2337,1967,31,white,neutral
+2338,1968,31,asian,neutral
+2339,1969,31,asian,happy
+2340,1970,30,asian,happy
+2341,1971,24,asian,happy
+2342,1972,32,asian,happy
+2343,1973,32,white,happy
+2344,881,35,white,neutral
+2345,882,47,white,happy
+2346,883,30,white,angry
+2347,885,23,white,happy
+2348,4956,38,white,neutral
+2349,4957,44,white,sad
+2350,4958,51,white,happy
+2351,4959,46,white,neutral
+2352,4960,45,white,fear
+2353,5481,30,white,happy
+2354,5482,33,white,neutral
+2355,5483,27,white,fear
+2356,5484,31,asian,neutral
+2357,5485,31,white,neutral
+2358,5486,28,asian,happy
+2359,5487,30,white,neutral
+2360,5489,30,white,happy
+2361,5490,30,white,neutral
+2362,5491,24,white,happy
+2363,5492,28,white,happy
+2364,5493,26,white,happy
+2365,5494,32,white,happy
+2366,5495,26,white,happy
+2367,5496,23,white,happy
+2368,5497,27,white,neutral
+2369,5498,26,white,happy
+2370,5499,27,white,happy
+2371,5500,25,white,happy
+2372,5501,28,white,happy
+2373,5502,26,white,happy
+2374,5503,24,white,happy
+2375,2093,25,white,neutral
+2376,2095,29,white,neutral
+2377,2096,28,white,happy
+2378,2097,31,white,happy
+2379,5504,32,white,happy
+2380,5505,33,white,neutral
+2381,5506,30,white,happy
+2382,5507,32,white,happy
+2383,5508,32,middle eastern,sad
+2384,5509,32,white,happy
+2385,5510,27,white,happy
+2386,5511,29,white,happy
+2387,5512,31,white,happy
+2388,5513,30,white,happy
+2389,5514,34,white,happy
+2390,5516,32,white,happy
+2391,5517,34,white,happy
+2392,5518,33,white,happy
+2393,5519,32,white,happy
+2394,2830,33,white,happy
+2395,2831,31,white,happy
+2396,2363,31,white,happy
+2397,2365,40,white,sad
+2398,5520,27,white,neutral
+2399,5521,32,white,neutral
+2400,5522,34,white,happy
+2401,5523,25,white,sad
+2402,5524,32,white,happy
+2403,5527,31,white,happy
+2404,5531,30,white,happy
+2405,5533,28,white,happy
+2406,5534,25,white,happy
+2407,5535,28,white,happy
+2408,5536,28,white,happy
+2409,5537,25,white,happy
+2410,5538,23,white,happy
+2411,5539,30,white,happy
+2412,5540,24,white,happy
+2413,3623,38,white,happy
+2414,3627,25,white,happy
+2415,5542,36,indian,happy
+2416,5543,39,indian,neutral
+2417,5544,33,indian,happy
+2418,5545,49,indian,happy
+2419,5546,31,indian,happy
+2420,5547,38,indian,fear
+2421,5548,40,indian,happy
+2422,5549,45,indian,happy
+2423,5550,26,indian,happy
+2424,5551,33,indian,neutral
+2425,5552,45,indian,neutral
+2426,5553,47,middle eastern,angry
+2427,5554,43,indian,happy
+2428,5555,41,indian,happy
+2429,5556,47,indian,happy
+2430,5557,46,indian,neutral
+2431,5558,46,indian,neutral
+2432,5559,45,latino hispanic,neutral
+2433,5560,28,white,happy
+2434,5561,38,middle eastern,happy
+2435,5563,38,middle eastern,happy
+2436,5564,30,white,happy
+2437,5565,25,white,happy
+2438,5566,32,indian,neutral
+2439,2058,29,white,happy
+2440,2059,25,white,happy
+2441,2061,28,white,happy
+2442,2062,31,white,happy
+2443,2064,24,white,happy
+2444,2067,26,asian,happy
+2445,2068,26,white,happy
+2446,2069,27,white,happy
+2447,2070,29,white,happy
+2448,2071,31,asian,happy
+2449,2072,31,white,happy
+2450,4961,37,white,happy
+2451,4963,43,white,neutral
+2452,4964,28,white,happy
+2453,4965,43,white,happy
+2454,4966,39,white,happy
+2455,4967,24,white,happy
+2456,4968,34,white,happy
+2457,5567,41,white,happy
+2458,5568,37,white,happy
+2459,5569,34,latino hispanic,sad
+2460,5570,37,white,happy
+2461,5571,40,white,neutral
+2462,5572,39,white,happy
+2463,5573,45,latino hispanic,happy
+2464,5574,33,white,happy
+2465,5575,37,white,happy
+2466,5576,28,white,neutral
+2467,5577,28,white,neutral
+2468,5578,39,white,happy
+2469,556,22,white,happy
+2470,558,26,white,fear
+2471,559,28,white,happy
+2472,561,23,white,happy
+2473,562,30,white,happy
+2474,564,28,white,neutral
+2475,566,30,white,neutral
+2476,568,30,white,happy
+2477,5579,28,white,neutral
+2478,5580,33,white,happy
+2479,5581,28,white,fear
+2480,5582,30,white,neutral
+2481,5583,32,white,happy
+2482,5584,32,white,neutral
+2483,5585,30,latino hispanic,sad
+2484,5586,31,white,neutral
+2485,4057,23,latino hispanic,happy
+2486,4061,23,white,happy
+2487,4063,26,white,happy
+2488,4064,26,white,happy
+2489,4065,24,white,angry
+2490,4066,29,latino hispanic,neutral
+2491,4067,23,white,happy
+2492,4068,33,white,happy
+2493,4069,44,white,neutral
+2494,4070,31,latino hispanic,happy
+2495,4071,45,white,happy
+2496,4072,34,latino hispanic,happy
+2497,4073,32,white,angry
+2498,2098,29,white,happy
+2499,2099,33,latino hispanic,fear
+2500,2100,33,latino hispanic,sad
+2501,2101,26,latino hispanic,angry
+2502,2102,29,latino hispanic,happy
+2503,2103,31,latino hispanic,happy
+2504,2104,34,white,happy
+2505,2105,26,white,happy
+2506,2106,23,white,happy
+2507,347,31,white,happy
+2508,348,31,white,happy
+2509,349,30,white,happy
+2510,350,32,white,sad
+2511,351,31,white,happy
+2512,352,30,white,neutral
+2513,353,31,white,happy
+2514,354,26,white,neutral
+2515,355,31,white,neutral
+2516,356,30,white,happy
+2517,357,31,white,neutral
+2518,358,29,white,fear
+2519,359,31,white,happy
+2520,360,31,white,neutral
+2521,361,32,white,neutral
+2522,363,29,white,angry
+2523,3543,34,white,happy
+2524,5587,33,white,happy
+2525,5588,38,white,happy
+2526,5589,41,white,happy
+2527,5590,41,white,happy
+2528,5591,45,white,happy
+2529,5592,38,white,happy
+2530,5593,46,white,happy
+2531,5594,38,white,happy
+2532,5595,36,white,neutral
+2533,5596,46,white,happy
+2534,5597,40,white,happy
+2535,5598,39,white,happy
+2536,5599,47,white,happy
+2537,4011,36,latino hispanic,sad
+2538,2475,23,white,neutral
+2539,2476,24,white,neutral
+2540,2477,31,white,happy
+2541,2478,24,middle eastern,happy
+2542,2479,23,white,happy
+2543,2481,25,white,neutral
+2544,2482,28,white,neutral
+2545,2483,27,white,neutral
+2546,2484,23,middle eastern,happy
+2547,2459,25,white,neutral
+2548,2460,24,white,fear
+2549,2462,39,white,neutral
+2550,2463,32,white,sad
+2551,2465,38,white,happy
+2552,2466,35,white,happy
+2553,2467,42,latino hispanic,fear
+2554,2468,44,white,happy
+2555,2471,40,white,happy
+2556,2472,36,white,happy
+2557,2473,36,white,happy
+2558,2474,33,middle eastern,happy
+2559,5600,27,white,happy
+2560,5601,40,white,surprise
+2561,5602,39,white,happy
+2562,5603,36,white,happy
+2563,5604,32,white,happy
+2564,2578,39,latino hispanic,happy
+2565,2579,29,middle eastern,happy
+2566,2580,34,white,happy
+2567,2581,36,latino hispanic,happy
+2568,2582,30,middle eastern,happy
+2569,2583,42,white,happy
+2570,2586,39,white,happy
+2571,2588,43,white,happy
+2572,2589,32,white,happy
+2573,2590,40,white,angry
+2574,2591,44,white,happy
+2575,706,33,white,happy
+2576,708,37,white,happy
+2577,710,30,latino hispanic,happy
+2578,2192,26,white,happy
+2579,2193,24,white,neutral
+2580,2194,24,latino hispanic,neutral
+2581,2195,33,white,neutral
+2582,2196,33,white,happy
+2583,2197,27,white,happy
+2584,2198,33,white,neutral
+2585,2199,33,white,neutral
+2586,2200,33,white,neutral
+2587,5605,44,indian,happy
+2588,5606,48,latino hispanic,fear
+2589,5607,44,white,sad
+2590,5608,34,black,neutral
+2591,5609,47,black,neutral
+2592,5610,34,latino hispanic,surprise
+2593,5611,39,indian,angry
+2594,5612,48,indian,sad
+2595,5613,30,middle eastern,happy
+2596,5614,23,indian,happy
+2597,5615,24,indian,angry
+2598,5616,34,latino hispanic,happy
+2599,5617,30,indian,happy
+2600,5618,47,latino hispanic,happy
+2601,5619,35,indian,neutral
+2602,5620,26,indian,neutral
+2603,5621,41,indian,happy
+2604,5622,27,indian,angry
+2605,5623,21,white,neutral
+2606,5624,31,indian,neutral
+2607,5625,27,latino hispanic,neutral
+2608,5626,23,middle eastern,neutral
+2609,5627,26,middle eastern,neutral
+2610,5628,25,white,happy
+2611,5629,24,middle eastern,neutral
+2612,5630,30,indian,neutral
+2613,5631,25,latino hispanic,neutral
+2614,5632,22,middle eastern,neutral
+2615,5633,33,asian,fear
+2616,5634,51,white,neutral
+2617,5635,39,white,happy
+2618,5636,37,white,happy
+2619,5637,45,white,happy
+2620,5638,47,white,sad
+2621,5639,44,white,sad
+2622,5640,45,black,happy
+2623,2903,37,white,happy
+2624,791,37,white,neutral
+2625,792,41,white,angry
+2626,793,39,white,happy
+2627,795,36,white,happy
+2628,796,38,white,happy
+2629,2115,31,latino hispanic,happy
+2630,2116,28,white,happy
+2631,2117,30,white,happy
+2632,2118,33,white,happy
+2633,2119,25,white,happy
+2634,2120,27,latino hispanic,neutral
+2635,2121,33,white,happy
+2636,2122,26,latino hispanic,happy
+2637,2123,25,white,happy
+2638,5641,30,white,neutral
+2639,5642,32,white,happy
+2640,5647,33,white,neutral
+2641,2504,31,asian,happy
+2642,2505,33,latino hispanic,neutral
+2643,2506,32,asian,happy
+2644,2507,31,asian,happy
+2645,2508,31,asian,neutral
+2646,850,31,white,happy
+2647,851,37,white,neutral
+2648,854,30,white,happy
+2649,3945,36,asian,happy
+2650,3946,45,asian,sad
+2651,3947,42,asian,happy
+2652,3948,48,asian,fear
+2653,3949,39,asian,happy
+2654,4526,28,latino hispanic,neutral
+2655,4527,31,latino hispanic,happy
+2656,4528,32,white,happy
+2657,4530,32,latino hispanic,happy
+2658,4531,31,latino hispanic,happy
+2659,4532,33,black,happy
+2660,4533,33,white,happy
+2661,5648,37,white,angry
+2662,5649,36,white,happy
+2663,5650,33,white,happy
+2664,5651,32,white,happy
+2665,5652,37,white,happy
+2666,5653,33,white,happy
+2667,5654,34,white,happy
+2668,5655,33,white,happy
+2669,5656,32,white,happy
+2670,5657,40,white,happy
+2671,5659,42,white,happy
+2672,5660,39,middle eastern,happy
+2673,5661,35,middle eastern,sad
+2674,951,33,white,fear
+2675,953,31,white,neutral
+2676,954,39,white,neutral
+2677,1332,29,white,happy
+2678,1333,28,white,happy
+2679,1334,25,white,neutral
+2680,1335,24,white,happy
+2681,3561,32,white,neutral
+2682,3562,27,white,happy
+2683,3566,31,white,sad
+2684,3568,26,white,happy
+2685,3571,33,white,happy
+2686,3572,33,white,happy
+2687,2367,28,white,happy
+2688,2368,30,white,happy
+2689,2369,28,white,neutral
+2690,2370,33,white,neutral
+2691,2371,32,white,neutral
+2692,2372,31,white,happy
+2693,2373,20,white,happy
+2694,5662,33,white,happy
+2695,5663,33,white,happy
+2696,5664,33,white,happy
+2697,5665,33,white,happy
+2698,5666,33,white,happy
+2699,5667,33,white,happy
+2700,5668,39,white,happy
+2701,5669,33,white,happy
+2702,5670,32,white,happy
+2703,5671,32,white,happy
+2704,5672,35,white,happy
+2705,5673,33,latino hispanic,happy
+2706,5674,33,white,happy
+2707,4074,34,white,happy
+2708,4075,25,white,happy
+2709,4076,38,white,happy
+2710,4077,26,white,happy
+2711,4078,33,white,happy
+2712,4459,33,white,happy
+2713,4460,34,white,happy
+2714,4461,33,white,happy
+2715,4462,33,white,happy
+2716,4463,33,white,happy
+2717,5675,27,white,happy
+2718,5676,34,white,happy
+2719,5677,39,white,happy
+2720,5678,38,white,happy
+2721,2073,26,white,happy
+2722,2075,28,white,happy
+2723,2076,25,white,happy
+2724,2079,33,white,neutral
+2725,2080,37,white,happy
+2726,5679,31,white,happy
+2727,5680,32,white,happy
+2728,5681,37,white,neutral
+2729,5682,34,white,happy
+2730,5683,38,white,happy
+2731,4969,39,white,happy
+2732,4970,33,white,happy
+2733,4971,37,white,happy
+2734,4972,41,white,happy
+2735,4973,39,white,happy
+2736,4974,25,white,happy
+2737,4505,46,white,neutral
+2738,4506,46,white,sad
+2739,4507,43,white,neutral
+2740,4509,41,white,fear
+2741,4510,35,white,happy
+2742,4511,36,white,fear
+2743,4102,34,middle eastern,fear
+2744,4104,34,white,angry
+2745,3447,27,latino hispanic,happy
+2746,3448,30,latino hispanic,neutral
+2747,3450,30,latino hispanic,happy
+2748,3452,37,latino hispanic,happy
+2749,3453,30,latino hispanic,happy
+2750,3454,29,latino hispanic,happy
+2751,3455,36,latino hispanic,happy
+2752,3456,33,latino hispanic,fear
+2753,3457,31,latino hispanic,happy
+2754,3458,35,latino hispanic,angry
+2755,3459,25,latino hispanic,neutral
+2756,3460,30,latino hispanic,happy
+2757,3461,30,latino hispanic,happy
+2758,3462,24,latino hispanic,neutral
+2759,3463,35,latino hispanic,sad
+2760,3464,41,white,happy
+2761,5684,26,white,happy
+2762,5685,33,white,angry
+2763,5686,33,white,happy
+2764,5687,23,white,happy
+2765,5688,34,white,happy
+2766,5689,26,latino hispanic,happy
+2767,5690,28,white,happy
+2768,5691,31,white,happy
+2769,5692,39,white,happy
+2770,5693,28,white,happy
+2771,3505,26,white,happy
+2772,3506,34,latino hispanic,sad
+2773,3507,29,white,happy
+2774,202,22,asian,fear
+2775,5694,29,white,fear
+2776,5695,32,latino hispanic,angry
+2777,5696,25,white,neutral
+2778,5697,33,white,sad
+2779,5698,25,white,sad
+2780,5699,28,white,neutral
+2781,5700,26,white,neutral
+2782,5701,27,white,neutral
+2783,5702,27,white,sad
+2784,5703,31,white,sad
+2785,5704,26,white,neutral
+2786,5705,31,white,happy
+2787,5706,26,white,neutral
+2788,5707,26,white,happy
+2789,5708,28,white,sad
+2790,5709,25,white,happy
+2791,4435,39,white,happy
+2792,4436,41,white,happy
+2793,4437,38,white,happy
+2794,4438,39,white,happy
+2795,4439,43,white,happy
+2796,5710,32,white,happy
+2797,5711,24,white,happy
+2798,5712,25,white,neutral
+2799,5713,30,latino hispanic,happy
+2800,5714,25,white,happy
+2801,5715,44,white,happy
+2802,5716,24,latino hispanic,happy
+2803,5717,24,latino hispanic,happy
+2804,5718,24,white,happy
+2805,5719,23,latino hispanic,happy
+2806,5720,23,latino hispanic,happy
+2807,5721,31,white,angry
+2808,5722,28,latino hispanic,happy
+2809,5723,25,latino hispanic,happy
+2810,5724,23,latino hispanic,happy
+2811,4584,27,white,happy
+2812,4587,34,white,happy
+2813,4594,29,latino hispanic,angry
+2814,4595,24,white,happy
+2815,4596,26,white,happy
+2816,4597,26,latino hispanic,happy
+2817,4598,25,latino hispanic,happy
+2818,4599,24,white,happy
+2819,4600,25,white,happy
+2820,4601,24,latino hispanic,happy
+2821,4602,31,white,neutral
+2822,4603,32,white,sad
+2823,4604,24,latino hispanic,neutral
+2824,5725,32,white,happy
+2825,5726,36,white,happy
+2826,5727,26,white,happy
+2827,5728,26,white,happy
+2828,5729,35,white,happy
+2829,5730,31,white,happy
+2830,5731,36,white,neutral
+2831,5732,36,white,neutral
+2832,5733,28,latino hispanic,happy
+2833,5734,37,white,happy
+2834,5735,28,white,happy
+2835,5736,35,white,neutral
+2836,5737,35,middle eastern,happy
+2837,5738,33,white,neutral
+2838,1924,46,latino hispanic,happy
+2839,1925,40,latino hispanic,sad
+2840,1926,39,latino hispanic,happy
+2841,1928,26,middle eastern,happy
+2842,1929,45,latino hispanic,happy
+2843,1931,40,middle eastern,happy
+2844,1933,51,white,happy
+2845,1934,44,latino hispanic,neutral
+2846,1935,43,white,neutral
+2847,1936,38,latino hispanic,happy
+2848,1937,40,middle eastern,happy
+2849,5739,25,white,happy
+2850,5740,26,white,neutral
+2851,5741,26,white,happy
+2852,5742,28,white,happy
+2853,5743,31,white,fear
+2854,5744,39,white,happy
+2855,5745,29,white,happy
+2856,5746,35,white,happy
+2857,5747,34,white,happy
+2858,5748,25,white,happy
+2859,5749,29,white,happy
+2860,5750,24,white,neutral
+2861,5751,24,white,neutral
+2862,5752,23,white,neutral
+2863,5753,33,white,happy
+2864,5754,23,white,neutral
+2865,5755,29,white,happy
+2866,5756,27,white,neutral
+2867,5757,23,white,happy
+2868,5758,27,white,neutral
+2869,5759,31,white,happy
+2870,5760,27,white,happy
+2871,5761,26,white,neutral
+2872,5762,30,white,happy
+2873,1862,29,white,happy
+2874,1863,31,white,happy
+2875,1865,22,white,happy
+2876,1866,31,white,neutral
+2877,2664,36,white,happy
+2878,1543,38,white,fear
+2879,1544,34,asian,surprise
+2880,1545,34,white,neutral
+2881,1546,34,white,neutral
+2882,1547,39,white,happy
+2883,1549,41,latino hispanic,surprise
+2884,1552,39,white,happy
+2885,1554,36,white,happy
+2886,1556,44,white,happy
+2887,5763,46,white,sad
+2888,5764,38,asian,sad
+2889,5765,30,white,happy
+2890,5766,31,latino hispanic,happy
+2891,5767,29,asian,happy
+2892,5768,28,asian,happy
+2893,5769,35,asian,happy
+2894,5770,22,asian,happy
+2895,5771,26,asian,happy
+2896,5772,34,asian,neutral
+2897,5773,46,white,happy
+2898,5774,36,white,angry
+2899,857,49,white,angry
+2900,860,27,white,happy
+2901,862,48,white,neutral
+2902,1900,32,latino hispanic,neutral
+2903,1903,27,black,neutral
+2904,2810,29,white,neutral
+2905,2811,27,white,neutral
+2906,2813,30,latino hispanic,neutral
+2907,2814,30,latino hispanic,happy
+2908,2815,28,latino hispanic,sad
+2909,2816,29,white,neutral
+2910,5775,25,white,neutral
+2911,5776,21,white,happy
+2912,5777,27,white,neutral
+2913,5778,25,white,neutral
+2914,5779,23,white,happy
+2915,5780,28,white,neutral
+2916,5781,24,white,neutral
+2917,3692,33,white,sad
+2918,3694,37,middle eastern,happy
+2919,3695,46,white,angry
+2920,3697,39,white,neutral
+2921,3700,47,indian,happy
+2922,190,48,middle eastern,neutral
+2923,4976,32,asian,neutral
+2924,4977,37,white,happy
+2925,4978,44,white,sad
+2926,4979,44,white,neutral
+2927,4153,38,white,neutral
+2928,1120,41,white,happy
+2929,1121,40,white,neutral
+2930,1122,42,white,happy
+2931,1123,50,white,happy
+2932,1125,45,white,neutral
+2933,1126,38,white,happy
+2934,1127,34,indian,happy
+2935,1128,42,white,neutral
+2936,1129,39,white,happy
+2937,1130,33,white,happy
+2938,1131,45,white,neutral
+2939,1132,44,white,happy
+2940,3613,36,white,happy
+2941,3614,39,white,happy
+2942,3615,37,white,happy
+2943,3616,39,white,happy
+2944,3617,35,white,happy
+2945,2954,34,white,happy
+2946,2955,29,white,happy
+2947,2956,28,white,happy
+2948,2957,30,white,happy
+2949,2958,31,white,happy
+2950,5782,27,white,happy
+2951,5783,25,latino hispanic,happy
+2952,5784,28,latino hispanic,happy
+2953,5785,29,indian,neutral
+2954,5786,30,latino hispanic,happy
+2955,5787,34,white,happy
+2956,5788,39,asian,happy
+2957,5789,33,white,neutral
+2958,5790,37,white,neutral
+2959,5791,36,white,happy
+2960,5792,33,white,happy
+2961,5793,33,white,happy
+2962,5794,35,white,happy
+2963,5795,32,white,happy
+2964,5796,31,white,happy
+2965,5797,33,white,happy
+2966,5798,32,white,happy
+2967,5800,35,white,happy
+2968,5801,30,white,happy
+2969,5802,25,white,neutral
+2970,5803,29,white,happy
+2971,4980,44,white,fear
+2972,4981,28,asian,happy
+2973,4982,35,white,happy
+2974,4983,33,white,neutral
+2975,4984,38,white,fear
+2976,4985,40,white,neutral
+2977,4986,34,white,happy
+2978,4987,28,white,happy
+2979,4988,33,white,happy
+2980,4989,34,white,neutral
+2981,4129,32,asian,neutral
+2982,4130,28,latino hispanic,happy
+2983,4132,32,asian,happy
+2984,4133,33,asian,angry
+2985,4134,28,asian,happy
+2986,3272,32,asian,happy
+2987,3274,28,black,angry
+2988,3275,34,latino hispanic,happy
+2989,3276,24,latino hispanic,fear
+2990,3277,38,black,happy
+2991,3278,40,latino hispanic,neutral
+2992,3279,25,latino hispanic,happy
+2993,3280,38,latino hispanic,happy
+2994,3281,35,latino hispanic,angry
+2995,3282,31,black,happy
+2996,3283,28,latino hispanic,neutral
+2997,3284,37,black,happy
+2998,3285,32,black,neutral
+2999,3286,31,latino hispanic,happy
+3000,3287,41,latino hispanic,fear
+3001,3288,27,black,happy
+3002,3289,31,latino hispanic,happy
+3003,3290,30,black,happy
+3004,3291,28,black,sad
+3005,3292,31,black,sad
+3006,3293,26,black,happy
+3007,3295,31,black,happy
+3008,3296,35,black,happy
+3009,1991,31,black,happy
+3010,1992,39,black,happy
+3011,61,37,latino hispanic,sad
+3012,62,30,latino hispanic,neutral
+3013,64,32,latino hispanic,fear
+3014,65,27,latino hispanic,neutral
+3015,67,30,asian,neutral
+3016,68,31,white,neutral
+3017,69,43,latino hispanic,angry
+3018,70,29,asian,neutral
+3019,71,35,latino hispanic,angry
+3020,72,30,latino hispanic,happy
+3021,5804,26,white,neutral
+3022,5805,37,white,sad
+3023,5806,43,white,happy
+3024,5807,38,white,neutral
+3025,5808,35,white,happy
+3026,5809,30,white,happy
+3027,5810,49,white,happy
+3028,5811,48,white,happy
+3029,2649,31,black,happy
+3030,2650,24,black,happy
+3031,2651,24,black,happy
+3032,2652,28,white,sad
+3033,2653,32,black,happy
+3034,2634,32,black,happy
+3035,2635,26,black,happy
+3036,2636,27,black,neutral
+3037,2637,26,black,neutral
+3038,3514,43,white,happy
+3039,3515,50,white,neutral
+3040,3516,39,white,happy
+3041,3517,39,white,happy
+3042,3518,43,white,happy
+3043,3519,43,white,happy
+3044,3520,44,white,happy
+3045,3521,38,asian,sad
+3046,3522,47,white,sad
+3047,3523,43,latino hispanic,neutral
+3048,3524,24,white,happy
+3049,3527,42,white,happy
+3050,3528,44,white,neutral
+3051,3529,28,white,happy
+3052,3530,39,white,happy
+3053,5820,32,white,happy
+3054,5821,27,white,neutral
+3055,5822,23,white,neutral
+3056,5823,22,white,neutral
+3057,5824,21,white,neutral
+3058,5825,29,white,neutral
+3059,5826,21,white,neutral
+3060,5827,22,latino hispanic,neutral
+3061,5828,26,white,happy
+3062,5829,30,white,happy
+3063,5830,23,white,happy
+3064,5831,25,white,happy
+3065,5832,27,latino hispanic,happy
+3066,5833,24,white,neutral
+3067,5834,27,white,happy
+3068,5835,26,white,happy
+3069,5836,28,white,neutral
+3070,5837,25,white,happy
+3071,4409,28,white,neutral
+3072,4410,38,white,neutral
+3073,4411,33,white,angry
+3074,4412,32,white,neutral
+3075,4413,37,white,neutral
+3076,4414,33,white,neutral
+3077,4415,35,white,angry
+3078,4416,36,white,happy
+3079,4417,26,white,sad
+3080,4418,30,white,neutral
+3081,4419,33,white,happy
+3082,4421,35,white,happy
+3083,4422,41,white,happy
+3084,4423,34,white,happy
+3085,4424,42,white,angry
+3086,5838,24,white,happy
+3087,5839,25,white,happy
+3088,5840,24,white,neutral
+3089,5841,28,white,neutral
+3090,5842,25,white,neutral
+3091,5843,23,white,neutral
+3092,5844,25,white,happy
+3093,5845,31,white,neutral
+3094,5846,27,white,happy
+3095,5847,34,white,neutral
+3096,5848,26,white,happy
+3097,736,25,latino hispanic,happy
+3098,737,27,white,happy
+3099,738,27,latino hispanic,happy
+3100,739,34,latino hispanic,sad
+3101,740,24,indian,happy
+3102,5856,33,white,neutral
+3103,5858,31,white,neutral
+3104,5859,31,white,happy
+3105,5860,38,white,sad
+3106,5861,34,white,neutral
+3107,5862,37,white,neutral
+3108,5864,34,white,neutral
+3109,5865,40,white,neutral
+3110,5866,34,middle eastern,happy
+3111,5867,29,latino hispanic,happy
+3112,5868,23,indian,happy
+3113,5869,33,latino hispanic,neutral
+3114,5870,35,indian,sad
+3115,5871,23,indian,happy
+3116,182,30,white,neutral
+3117,183,34,white,happy
+3118,186,33,white,happy
+3119,1274,32,white,happy
+3120,1278,30,white,happy
+3121,5872,28,white,happy
+3122,5873,26,white,happy
+3123,5874,28,white,happy
+3124,5875,31,white,happy
+3125,5876,31,white,happy
+3126,3097,27,white,happy
+3127,3098,21,asian,happy
+3128,3099,27,white,happy
+3129,3100,27,white,neutral
+3130,3101,31,white,neutral
+3131,3102,25,white,happy
+3132,3103,30,white,neutral
+3133,3104,31,white,sad
+3134,3105,31,white,happy
+3135,3106,26,white,happy
+3136,3107,29,white,happy
+3137,3108,25,white,neutral
+3138,2949,29,white,happy
+3139,2950,29,white,happy
+3140,2952,30,white,happy
+3141,2953,28,white,happy
+3142,5877,39,white,neutral
+3143,5879,43,white,fear
+3144,5880,42,white,neutral
+3145,5881,45,white,angry
+3146,1379,35,white,happy
+3147,1380,30,white,neutral
+3148,1382,43,white,happy
+3149,4386,35,white,neutral
+3150,4390,31,white,angry
+3151,4990,49,asian,fear
+3152,4991,35,asian,neutral
+3153,4992,56,asian,neutral
+3154,4993,36,asian,neutral
+3155,4994,37,asian,sad
+3156,4995,50,white,happy
+3157,4996,45,white,sad
+3158,4997,34,asian,sad
+3159,4998,38,white,angry
+3160,1938,29,latino hispanic,neutral
+3161,1939,25,white,happy
+3162,1940,31,latino hispanic,neutral
+3163,1941,27,white,neutral
+3164,1942,28,white,happy
+3165,798,30,white,happy
+3166,799,27,white,happy
+3167,800,24,white,happy
+3168,801,26,white,happy
+3169,802,32,white,happy
+3170,803,29,white,happy
+3171,804,30,middle eastern,happy
+3172,805,33,white,happy
+3173,806,25,middle eastern,happy
+3174,807,25,white,neutral
+3175,809,29,white,happy
+3176,810,32,white,happy
+3177,5882,31,white,happy
+3178,5883,27,latino hispanic,neutral
+3179,5884,34,middle eastern,happy
+3180,5885,28,white,happy
+3181,5886,27,middle eastern,happy
+3182,5887,36,latino hispanic,happy
+3183,5888,28,middle eastern,happy
+3184,5889,33,white,happy
+3185,5890,37,white,happy
+3186,5892,35,white,happy
+3187,5893,32,white,neutral
+3188,5894,32,white,sad
+3189,5895,33,white,happy
+3190,5896,33,white,happy
+3191,5897,34,white,happy
+3192,5901,39,white,happy
+3193,5902,30,white,happy
+3194,5906,36,white,happy
+3195,479,33,white,happy
+3196,480,41,white,happy
+3197,481,32,white,happy
+3198,482,34,white,happy
+3199,483,35,white,happy
+3200,484,36,white,happy
+3201,1263,31,white,happy
+3202,1264,31,white,happy
+3203,1265,33,white,happy
+3204,1266,32,white,happy
+3205,1267,27,white,happy
+3206,2872,33,white,happy
+3207,2873,28,white,happy
+3208,2875,34,white,surprise
+3209,2876,36,white,happy
+3210,1312,49,white,happy
+3211,1313,35,white,happy
+3212,1315,35,white,happy
+3213,13,29,white,happy
+3214,14,26,latino hispanic,neutral
+3215,15,34,white,happy
+3216,17,31,white,happy
+3217,741,49,white,happy
+3218,742,32,white,happy
+3219,743,27,white,happy
+3220,745,36,white,happy
+3221,301,38,white,happy
+3222,305,43,latino hispanic,happy
+3223,5910,33,white,happy
+3224,5911,31,white,happy
+3225,5912,36,white,happy
+3226,5913,36,white,fear
+3227,5914,31,white,happy
+3228,5915,33,white,happy
+3229,5916,36,white,happy
+3230,5917,34,white,happy
+3231,5918,34,white,happy
+3232,5919,32,white,happy
+3233,5920,33,white,neutral
+3234,5921,33,white,happy
+3235,5922,34,white,happy
+3236,5923,32,white,happy
+3237,5924,33,white,happy
+3238,4166,36,black,happy
+3239,1348,42,white,happy
+3240,1349,32,white,happy
+3241,1350,39,white,happy
+3242,1353,31,white,happy
+3243,1354,29,white,happy
+3244,4081,40,white,happy
+3245,4083,32,middle eastern,happy
+3246,4084,39,white,fear
+3247,4085,23,white,surprise
+3248,3176,31,white,happy
+3249,3177,32,white,happy
+3250,3179,40,white,happy
+3251,5926,39,latino hispanic,happy
+3252,5927,38,latino hispanic,happy
+3253,5928,33,white,happy
+3254,5929,34,white,happy
+3255,1453,31,white,happy
+3256,1454,32,white,neutral
+3257,1455,31,white,fear
+3258,1456,33,latino hispanic,happy
+3259,5930,23,white,happy
+3260,5931,24,white,neutral
+3261,5932,29,white,happy
+3262,5933,28,white,happy
+3263,5934,25,white,happy
+3264,5935,25,white,happy
+3265,5936,27,white,happy
+3266,5937,27,white,happy
+3267,5938,28,white,neutral
+3268,5939,29,white,happy
+3269,5940,24,white,happy
+3270,5941,27,white,happy
+3271,5942,28,white,happy
+3272,4469,22,latino hispanic,neutral
+3273,4470,28,black,happy
+3274,4474,25,asian,neutral
+3275,4475,28,latino hispanic,neutral
+3276,4486,31,latino hispanic,neutral
+3277,4487,29,asian,sad
+3278,4488,25,white,neutral
+3279,4489,31,white,neutral
+3280,4490,30,latino hispanic,neutral
+3281,4491,23,asian,neutral
+3282,4492,24,white,neutral
+3283,3218,25,asian,neutral
+3284,5943,23,white,fear
+3285,5944,25,white,happy
+3286,5945,33,white,happy
+3287,5946,29,white,neutral
+3288,5947,24,white,happy
+3289,5948,26,white,happy
+3290,5949,24,white,happy
+3291,5950,29,white,happy
+3292,5951,33,asian,happy
+3293,5952,29,asian,happy
+3294,5953,29,white,happy
+3295,2,27,white,happy
+3296,3,25,white,happy
+3297,4,26,white,neutral
+3298,4999,43,white,neutral
+3299,5001,40,white,happy
+3300,5002,39,white,happy
+3301,5003,42,white,happy
+3302,5004,35,white,neutral
+3303,5954,31,white,happy
+3304,5955,31,white,happy
+3305,5956,31,white,happy
+3306,5957,31,white,happy
+3307,5958,31,white,happy
+3308,5959,31,white,happy
+3309,5960,33,white,happy
+3310,5961,31,white,happy
+3311,5962,32,white,happy
+3312,5963,32,white,happy
+3313,817,34,white,happy
+3314,818,29,white,happy
+3315,819,25,white,happy
+3316,820,32,white,happy
+3317,821,26,white,happy
+3318,822,27,white,happy
+3319,823,35,white,happy
+3320,824,21,white,happy
+3321,825,31,white,happy
+3322,826,25,white,happy
+3323,827,33,white,sad
+3324,828,28,white,happy
+3325,829,30,white,happy
+3326,830,22,white,happy
+3327,831,29,white,happy
+3328,832,25,white,neutral
+3329,833,29,white,sad
+3330,5964,35,black,happy
+3331,5965,39,indian,happy
+3332,5966,25,black,happy
+3333,5967,32,indian,happy
+3334,5968,39,black,fear
+3335,5969,26,latino hispanic,happy
+3336,5970,33,black,happy
+3337,570,30,white,happy
+3338,572,33,white,happy
+3339,5971,30,latino hispanic,happy
+3340,5972,31,latino hispanic,neutral
+3341,5973,29,latino hispanic,sad
+3342,5974,32,white,happy
+3343,5975,32,asian,happy
+3344,5976,30,white,happy
+3345,5977,32,latino hispanic,neutral
+3346,5978,32,white,happy
+3347,5979,32,latino hispanic,happy
+3348,5980,29,black,happy
+3349,5981,31,latino hispanic,neutral
+3350,5982,30,latino hispanic,happy
+3351,4191,30,asian,happy
+3352,4192,35,white,happy
+3353,4193,31,white,happy
+3354,4194,28,white,happy
+3355,4196,32,latino hispanic,happy
+3356,4197,28,asian,neutral
+3357,4198,28,latino hispanic,happy
+3358,4199,27,latino hispanic,happy
+3359,4200,29,middle eastern,neutral
+3360,2819,36,white,happy
+3361,2820,49,white,happy
+3362,2821,44,white,neutral
+3363,2822,42,white,happy
+3364,2823,36,white,happy
+3365,2003,30,white,happy
+3366,2004,29,white,neutral
+3367,2005,28,white,neutral
+3368,2006,29,white,neutral
+3369,2007,28,white,happy
+3370,5983,27,white,neutral
+3371,5984,31,white,happy
+3372,5985,23,white,fear
+3373,5986,31,white,neutral
+3374,5987,32,white,happy
+3375,5988,32,white,happy
+3376,5989,32,white,happy
+3377,5990,30,white,happy
+3378,5991,31,white,happy
+3379,5992,28,white,happy
+3380,5993,29,white,neutral
+3381,5994,28,white,happy
+3382,5995,28,white,happy
+3383,5996,27,white,happy
+3384,5997,27,white,neutral
+3385,5998,32,white,happy
+3386,5999,26,white,happy
+3387,6000,31,white,neutral
+3388,6001,27,white,happy
+3389,6002,33,white,happy
+3390,6003,32,white,happy
+3391,6004,27,latino hispanic,happy
+3392,6005,27,white,angry
+3393,6006,25,white,happy
+3394,4403,24,white,happy
+3395,4404,23,white,neutral
+3396,4407,24,white,neutral
+3397,6007,34,white,happy
+3398,6008,36,white,happy
+3399,6009,44,white,happy
+3400,6010,45,white,angry
+3401,6011,35,white,neutral
+3402,6012,31,white,angry
+3403,2081,38,white,neutral
+3404,2082,34,latino hispanic,happy
+3405,2083,39,white,angry
+3406,2084,43,white,sad
+3407,2085,34,white,sad
+3408,2086,45,asian,neutral
+3409,2087,42,white,sad
+3410,1360,35,latino hispanic,happy
+3411,1361,32,middle eastern,happy
+3412,1362,37,white,happy
+3413,1363,30,white,happy
+3414,1365,37,white,happy
+3415,1366,39,middle eastern,happy
+3416,1367,34,white,happy
+3417,6013,40,white,happy
+3418,6014,32,latino hispanic,happy
+3419,6015,34,white,happy
+3420,6016,37,indian,happy
+3421,6017,29,middle eastern,neutral
+3422,6018,23,white,happy
+3423,6019,23,latino hispanic,neutral
+3424,6020,30,latino hispanic,happy
+3425,6021,24,white,neutral
+3426,6022,24,latino hispanic,happy
+3427,6023,28,white,happy
+3428,6024,28,latino hispanic,neutral
+3429,6025,31,white,angry
+3430,6026,28,latino hispanic,fear
+3431,6027,25,white,neutral
+3432,6028,25,latino hispanic,happy
+3433,6029,22,latino hispanic,neutral
+3434,6030,21,latino hispanic,neutral
+3435,6031,26,white,surprise
+3436,1446,34,white,neutral
+3437,1447,36,white,neutral
+3438,1449,42,latino hispanic,happy
+3439,1450,30,latino hispanic,sad
+3440,6032,26,white,neutral
+3441,6033,30,white,neutral
+3442,6034,26,latino hispanic,happy
+3443,6035,29,white,happy
+3444,6036,26,white,neutral
+3445,6037,28,white,neutral
+3446,6038,22,white,neutral
+3447,6039,29,white,neutral
+3448,6040,25,white,neutral
+3449,6041,30,white,neutral
+3450,6042,28,white,neutral
+3451,6043,24,white,neutral
+3452,3755,24,white,happy
+3453,3758,29,white,happy
+3454,3759,28,white,happy
+3455,3760,32,white,happy
+3456,3761,45,indian,happy
+3457,3762,41,white,happy
+3458,1755,26,asian,sad
+3459,1756,27,white,happy
+3460,1757,28,white,sad
+3461,1758,26,asian,happy
+3462,6044,26,white,happy
+3463,6045,29,white,neutral
+3464,6046,25,white,neutral
+3465,6047,29,white,angry
+3466,6048,30,white,neutral
+3467,6049,26,white,neutral
+3468,6050,28,white,fear
+3469,6051,25,white,neutral
+3470,6052,26,white,happy
+3471,6053,28,white,happy
+3472,6054,27,latino hispanic,happy
+3473,6055,22,white,angry
+3474,6056,25,white,happy
+3475,6057,31,white,happy
+3476,6058,25,white,angry
+3477,6059,29,latino hispanic,happy
+3478,6060,29,white,happy
+3479,6061,21,white,neutral
+3480,6062,29,latino hispanic,happy
+3481,6063,30,white,happy
+3482,6064,27,white,neutral
+3483,4391,21,white,neutral
+3484,4392,31,white,neutral
+3485,4393,33,white,neutral
+3486,4394,32,white,neutral
+3487,4395,31,white,happy
+3488,4396,28,white,happy
+3489,4397,26,white,neutral
+3490,4398,30,white,happy
+3491,4399,25,white,neutral
+3492,4400,27,white,neutral
+3493,4401,25,white,happy
+3494,4402,25,white,happy
+3495,3643,29,white,angry
+3496,3644,25,white,fear
+3497,3647,27,asian,neutral
+3498,3745,26,white,neutral
+3499,3747,27,white,neutral
+3500,3749,26,white,fear
+3501,3751,27,white,happy
+3502,3752,26,white,neutral
+3503,3382,32,latino hispanic,neutral
+3504,3383,30,latino hispanic,happy
+3505,3384,32,latino hispanic,neutral
+3506,3385,32,white,happy
+3507,3386,29,white,happy
+3508,3389,31,white,happy
+3509,3392,30,white,neutral
+3510,3393,31,white,happy
+3511,3396,33,white,neutral
+3512,3397,31,white,neutral
+3513,3399,31,white,neutral
+3514,3401,31,white,happy
+3515,3402,31,white,neutral
+3516,3403,31,white,happy
+3517,3404,31,white,neutral
+3518,3405,33,white,happy
+3519,3406,33,white,neutral
+3520,3407,34,white,happy
+3521,3408,33,white,happy
+3522,3409,31,white,happy
+3523,3410,31,latino hispanic,sad
+3524,3411,32,white,neutral
+3525,3412,32,indian,happy
+3526,3413,33,white,happy
+3527,3414,32,latino hispanic,happy
+3528,3415,33,latino hispanic,happy
+3529,3416,31,white,neutral
+3530,3417,32,white,happy
+3531,3419,32,white,neutral
+3532,3421,31,white,happy
+3533,3422,32,white,happy
+3534,3423,32,white,happy
+3535,3424,30,white,neutral
+3536,3425,32,latino hispanic,happy
+3537,3426,31,asian,neutral
+3538,3427,32,white,neutral
+3539,3428,32,white,happy
+3540,5006,39,latino hispanic,happy
+3541,5007,37,white,happy
+3542,5008,36,white,happy
+3543,5009,45,white,happy
+3544,5010,31,white,sad
+3545,5011,42,white,happy
+3546,5012,38,white,happy
+3547,5013,32,white,happy
+3548,4560,22,white,happy
+3549,4566,25,white,happy
+3550,4567,22,white,happy
+3551,4568,27,white,happy
+3552,4569,24,white,happy
+3553,4570,23,white,neutral
+3554,4571,24,white,neutral
+3555,4572,23,white,neutral
+3556,4573,21,white,happy
+3557,4574,23,white,happy
+3558,4575,22,white,happy
+3559,4576,24,white,happy
+3560,4577,22,white,happy
+3561,6065,24,white,happy
+3562,6066,23,white,neutral
+3563,6067,25,white,happy
+3564,6068,29,white,neutral
+3565,6069,26,white,neutral
+3566,6070,25,white,neutral
+3567,6071,28,white,happy
+3568,6072,25,white,neutral
+3569,6073,28,white,happy
+3570,6074,24,white,happy
+3571,6075,26,white,happy
+3572,6076,27,white,happy
+3573,6077,39,white,happy
+3574,6078,40,white,happy
+3575,6080,40,white,happy
+3576,6081,23,white,happy
+3577,6082,31,white,happy
+3578,6083,35,latino hispanic,happy
+3579,6084,32,white,happy
+3580,6085,31,white,happy
+3581,6086,29,white,fear
+3582,6088,44,white,happy
+3583,6089,46,white,happy
+3584,6090,36,white,happy
+3585,6091,35,white,happy
+3586,6092,36,white,happy
+3587,6093,43,white,happy
+3588,6094,38,white,happy
+3589,2893,31,asian,happy
+3590,2894,43,white,happy
+3591,4176,29,white,happy
+3592,4177,32,white,neutral
+3593,4180,30,white,happy
+3594,4670,41,white,happy
+3595,4671,32,white,happy
+3596,4672,47,white,angry
+3597,4673,46,white,happy
+3598,2140,26,white,happy
+3599,2141,38,white,happy
+3600,2142,35,white,happy
+3601,2143,24,white,happy
+3602,2144,31,white,happy
+3603,2146,28,white,happy
+3604,2147,30,white,happy
+3605,2148,32,white,happy
+3606,2150,24,white,happy
+3607,2151,32,white,happy
+3608,2152,25,white,happy
+3609,2153,33,white,neutral
+3610,2154,32,white,happy
+3611,2155,40,white,happy
+3612,2156,30,white,happy
+3613,2157,29,white,happy
+3614,2158,25,white,happy
+3615,2159,35,white,happy
+3616,6095,27,white,happy
+3617,6096,26,white,fear
+3618,6097,28,white,happy
+3619,6098,40,white,happy
+3620,6099,24,white,happy
+3621,6100,26,white,happy
+3622,6101,23,white,happy
+3623,6102,29,white,happy
+3624,6103,26,white,happy
+3625,6104,33,white,happy
+3626,6105,25,white,happy
+3627,4181,33,white,happy
+3628,4183,37,white,happy
+3629,4184,33,white,happy
+3630,4185,33,white,happy
+3631,886,23,white,neutral
+3632,887,29,white,happy
+3633,888,24,white,neutral
+3634,889,28,white,happy
+3635,890,23,white,happy
+3636,6107,35,white,happy
+3637,6108,32,white,neutral
+3638,6109,32,white,happy
+3639,6110,32,white,happy
+3640,6111,31,white,happy
+3641,6113,27,white,neutral
+3642,6114,33,white,happy
+3643,6115,31,white,happy
+3644,6116,26,white,happy
+3645,6117,33,white,happy
+3646,6118,30,white,happy
+3647,6119,25,white,happy
+3648,6120,46,white,happy
+3649,6121,31,white,neutral
+3650,6122,26,white,neutral
+3651,6123,32,white,neutral
+3652,6124,30,white,neutral
+3653,6125,32,white,happy
+3654,6126,32,white,neutral
+3655,6127,31,white,neutral
+3656,6128,31,white,happy
+3657,6129,33,white,sad
+3658,6130,32,white,happy
+3659,6131,26,white,happy
+3660,6132,32,white,happy
+3661,6133,31,white,neutral
+3662,4024,28,white,happy
+3663,4026,29,white,happy
+3664,4027,29,white,happy
+3665,4030,36,white,happy
+3666,4031,34,latino hispanic,fear
+3667,4032,29,white,happy
+3668,4033,33,white,neutral
+3669,4034,32,white,happy
+3670,4035,43,white,neutral
+3671,4036,29,white,happy
+3672,4037,27,white,happy
+3673,4039,32,white,neutral
+3674,4040,28,white,angry
+3675,4041,28,white,happy
+3676,4042,40,white,happy
+3677,4043,35,white,happy
+3678,4044,25,white,angry
+3679,4045,23,white,happy
+3680,4046,33,white,happy
+3681,4047,27,white,happy
+3682,4048,28,white,happy
+3683,4049,24,white,happy
+3684,4051,24,white,neutral
+3685,4052,24,white,happy
+3686,4053,23,white,happy
+3687,4054,25,white,happy
+3688,4055,23,white,angry
+3689,6134,29,asian,happy
+3690,6135,30,asian,happy
+3691,6136,25,asian,happy
+3692,6137,32,asian,fear
+3693,6138,30,latino hispanic,happy
+3694,6139,27,asian,happy
+3695,6140,30,asian,happy
+3696,2534,30,asian,happy
+3697,4135,23,asian,happy
+3698,4136,21,asian,happy
+3699,4137,23,asian,happy
+3700,4139,21,asian,happy
+3701,4140,24,asian,happy
+3702,6141,22,black,happy
+3703,6142,22,black,happy
+3704,6143,26,black,happy
+3705,6144,22,black,neutral
+3706,6145,22,latino hispanic,happy
+3707,6146,23,black,happy
+3708,6147,23,black,happy
+3709,3363,34,white,fear
+3710,3364,24,latino hispanic,happy
+3711,3365,30,white,happy
+3712,665,45,white,happy
+3713,667,49,white,neutral
+3714,668,41,white,angry
+3715,6148,39,white,happy
+3716,6149,33,white,angry
+3717,6150,33,white,sad
+3718,6151,39,white,happy
+3719,6152,37,white,happy
+3720,6153,42,white,happy
+3721,6154,45,white,happy
+3722,6155,30,white,neutral
+3723,6156,47,white,sad
+3724,6157,38,white,fear
+3725,2451,25,white,happy
+3726,2452,23,white,neutral
+3727,2453,23,white,happy
+3728,2454,25,white,happy
+3729,2455,36,white,happy
+3730,2456,29,white,happy
+3731,2457,25,white,happy
+3732,2458,23,white,happy
+3733,1283,30,white,happy
+3734,1286,33,white,happy
+3735,1287,34,white,happy
+3736,864,31,white,happy
+3737,3110,30,white,happy
+3738,3111,29,white,happy
+3739,3112,24,white,happy
+3740,3113,27,white,happy
+3741,3114,24,white,angry
+3742,3118,33,white,neutral
+3743,6158,30,white,neutral
+3744,6159,33,middle eastern,happy
+3745,6160,31,white,neutral
+3746,6161,32,white,neutral
+3747,6162,28,latino hispanic,neutral
+3748,6163,31,latino hispanic,happy
+3749,6165,32,indian,neutral
+3750,6166,29,white,neutral
+3751,6167,31,white,happy
+3752,6168,32,middle eastern,happy
+3753,675,50,white,sad
+3754,676,34,white,happy
+3755,677,44,white,angry
+3756,3077,26,white,neutral
+3757,3078,23,white,neutral
+3758,3079,26,white,happy
+3759,3080,26,white,happy
+3760,3081,27,white,happy
+3761,3082,25,white,sad
+3762,3083,23,white,angry
+3763,3084,25,white,happy
+3764,3085,24,white,neutral
+3765,3086,24,white,neutral
+3766,3052,25,white,happy
+3767,3053,25,middle eastern,sad
+3768,3054,25,white,happy
+3769,3055,25,white,happy
+3770,3056,31,white,happy
+3771,3057,23,white,angry
+3772,3059,31,white,neutral
+3773,3060,26,white,angry
+3774,3061,26,white,happy
+3775,3062,28,white,happy
+3776,3063,27,white,neutral
+3777,3064,25,white,neutral
+3778,3065,29,white,neutral
+3779,3066,24,white,neutral
+3780,3067,27,white,angry
+3781,3068,23,white,angry
+3782,3069,29,white,happy
+3783,3070,33,white,neutral
+3784,3071,28,white,happy
+3785,3072,24,white,happy
+3786,3073,29,white,happy
+3787,3074,28,white,angry
+3788,3075,26,white,neutral
+3789,3076,29,white,happy
+3790,6169,28,latino hispanic,happy
+3791,6170,24,latino hispanic,happy
+3792,6171,32,white,sad
+3793,6172,27,white,happy
+3794,6173,31,white,neutral
+3795,6174,27,white,happy
+3796,6175,27,latino hispanic,happy
+3797,1511,24,white,happy
+3798,1512,23,white,happy
+3799,1513,27,white,happy
+3800,1514,26,white,happy
+3801,1515,25,white,angry
+3802,1516,23,white,happy
+3803,1517,23,white,happy
+3804,1518,22,white,happy
+3805,1519,24,white,neutral
+3806,1522,23,latino hispanic,happy
+3807,1524,25,middle eastern,neutral
+3808,1525,24,white,happy
+3809,1526,22,white,neutral
+3810,1815,39,white,happy
+3811,1816,33,asian,neutral
+3812,1817,28,white,neutral
+3813,1818,27,white,happy
+3814,1819,26,white,happy
+3815,1820,24,white,happy
+3816,1821,24,white,happy
+3817,1822,26,white,happy
+3818,1823,32,white,happy
+3819,3210,29,white,happy
+3820,3211,25,white,happy
+3821,3212,32,white,fear
+3822,3215,30,white,neutral
+3823,3217,33,white,happy
+3824,6176,27,white,happy
+3825,6177,30,white,happy
+3826,6178,29,white,happy
+3827,6179,29,white,happy
+3828,6180,29,white,neutral
+3829,6181,30,white,neutral
+3830,6182,30,white,happy
+3831,6183,28,white,happy
+3832,6184,29,white,happy
+3833,6185,31,white,happy
+3834,1636,32,white,neutral
+3835,1637,33,white,happy
+3836,1638,28,white,happy
+3837,1639,32,white,happy
+3838,1640,28,white,neutral
+3839,1641,31,white,happy
+3840,1642,27,white,happy
+3841,1643,25,white,happy
+3842,4114,26,white,neutral
+3843,4116,28,white,happy
+3844,4118,28,white,neutral
+3845,6186,31,white,neutral
+3846,6187,23,white,angry
+3847,6188,28,white,neutral
+3848,6189,25,white,neutral
+3849,6190,29,white,neutral
+3850,6191,32,white,neutral
+3851,6192,28,white,neutral
+3852,281,31,white,sad
+3853,283,46,white,neutral
+3854,284,41,white,neutral
+3855,285,41,indian,neutral
+3856,2974,38,white,neutral
+3857,2975,35,white,happy
+3858,1014,35,middle eastern,sad
+3859,1015,30,latino hispanic,neutral
+3860,1016,33,white,sad
+3861,1017,29,white,happy
+3862,1019,31,latino hispanic,neutral
+3863,1020,29,white,neutral
+3864,1022,25,white,neutral
+3865,1023,34,white,happy
+3866,1024,36,white,happy
+3867,1025,31,white,neutral
+3868,1026,34,white,neutral
+3869,1832,35,white,happy
+3870,1834,33,white,happy
+3871,1835,35,white,angry
+3872,6193,48,white,sad
+3873,6194,31,asian,fear
+3874,6195,50,white,happy
+3875,6196,31,white,neutral
+3876,6197,35,asian,angry
+3877,6198,45,white,happy
+3878,6199,53,white,sad
+3879,6200,44,white,happy
+3880,6201,49,middle eastern,neutral
+3881,6202,45,white,happy
+3882,6203,50,white,happy
+3883,4155,32,white,happy
+3884,4156,34,latino hispanic,happy
+3885,4157,34,white,happy
+3886,4158,25,white,angry
+3887,2959,32,white,happy
+3888,2960,29,white,happy
+3889,2961,26,white,happy
+3890,2962,31,white,happy
+3891,2963,31,white,happy
+3892,3531,33,white,happy
+3893,3532,29,white,happy
+3894,3533,32,white,happy
+3895,3534,32,white,happy
+3896,3535,31,white,happy
+3897,6204,32,white,happy
+3898,6207,33,white,happy
+3899,6208,29,white,happy
+3900,6209,32,white,angry
+3901,6211,30,white,happy
+3902,266,32,white,surprise
+3903,267,30,asian,happy
+3904,268,31,white,neutral
+3905,269,31,white,happy
+3906,270,36,white,happy
+3907,6212,34,white,happy
+3908,6213,36,white,happy
+3909,6214,34,white,happy
+3910,6215,42,white,happy
+3911,6216,34,white,happy
+3912,6217,39,white,happy
+3913,108,28,white,neutral
+3914,109,33,white,neutral
+3915,110,29,white,neutral
+3916,111,27,white,happy
+3917,112,31,white,happy
+3918,113,32,white,sad
+3919,114,33,white,happy
+3920,115,32,white,happy
+3921,116,33,white,neutral
+3922,117,29,white,angry
+3923,119,32,white,sad
+3924,120,26,white,neutral
+3925,1627,32,white,happy
+3926,1628,33,white,happy
+3927,1629,27,white,happy
+3928,4685,27,white,happy
+3929,4686,26,white,sad
+3930,4689,23,white,neutral
+3931,4690,28,latino hispanic,happy
+3932,4691,28,white,happy
+3933,4693,26,white,happy
+3934,4694,25,white,neutral
+3935,4697,27,white,happy
+3936,4698,27,white,happy
+3937,4699,28,white,happy
+3938,4700,24,white,happy
+3939,4701,30,white,happy
+3940,4703,25,white,neutral
+3941,4704,24,white,neutral
+3942,4705,27,white,neutral
+3943,4706,25,white,neutral
+3944,4707,28,white,sad
+3945,6218,32,white,neutral
+3946,6219,33,asian,happy
+3947,6220,32,white,happy
+3948,6221,32,white,neutral
+3949,6222,31,white,neutral
+3950,6223,31,asian,neutral
+3951,6224,31,asian,neutral
+3952,6225,29,white,happy
+3953,6226,32,asian,neutral
+3954,6227,32,asian,neutral
+3955,6228,31,asian,neutral
+3956,6229,31,asian,happy
+3957,486,25,white,sad
+3958,6230,35,white,neutral
+3959,6231,25,white,happy
+3960,6232,23,white,happy
+3961,6233,31,white,happy
+3962,6234,39,white,happy
+3963,6235,23,white,happy
+3964,6236,33,white,happy
+3965,6237,40,white,happy
+3966,6238,23,white,happy
+3967,3297,20,white,happy
+3968,3300,23,latino hispanic,neutral
+3969,3301,21,white,neutral
+3970,3302,24,latino hispanic,neutral
+3971,3303,31,white,neutral
+3972,3304,26,white,neutral
+3973,1229,34,latino hispanic,happy
+3974,1230,27,latino hispanic,happy
+3975,1231,33,black,happy
+3976,1232,30,latino hispanic,happy
+3977,2048,37,asian,happy
+3978,2050,31,asian,happy
+3979,2053,31,white,happy
+3980,2055,27,white,happy
+3981,324,32,asian,happy
+3982,325,26,asian,happy
+3983,326,29,asian,happy
+3984,2744,34,asian,neutral
+3985,2745,25,asian,fear
+3986,2746,36,asian,happy
+3987,2747,30,asian,happy
+3988,2748,34,asian,happy
+3989,2749,38,asian,fear
+3990,2750,39,asian,happy
+3991,4632,30,asian,happy
+3992,4633,26,asian,sad
+3993,4634,28,asian,angry
+3994,4635,27,asian,sad
+3995,4636,26,asian,happy
+3996,4648,24,asian,happy
+3997,4649,29,asian,happy
+3998,4650,29,asian,happy
+3999,4651,28,asian,happy
+4000,4652,25,asian,happy
+4001,3536,31,indian,happy
+4002,3537,34,black,neutral
+4003,3538,29,black,happy
+4004,3539,27,black,happy
+4005,3540,26,black,happy
+4006,762,32,asian,happy
+4007,763,33,asian,happy
+4008,764,32,asian,happy
+4009,765,30,asian,happy
+4010,3223,24,white,happy
+4011,3224,27,white,neutral
+4012,3225,22,white,happy
+4013,3226,23,white,neutral
+4014,3227,28,white,happy
+4015,2994,30,white,happy
+4016,2995,36,white,neutral
+4017,3001,45,white,happy
+4018,3002,32,white,sad
+4019,3008,36,white,happy
+4020,321,23,white,happy
+4021,2559,25,white,neutral
+4022,2561,25,white,neutral
+4023,2562,22,white,neutral
+4024,2563,23,white,neutral
+4025,2566,24,white,fear
+4026,2567,23,white,neutral
+4027,6239,22,white,angry
+4028,6240,22,white,neutral
+4029,6241,25,white,happy
+4030,6242,25,white,neutral
+4031,6243,25,white,happy
+4032,6244,25,white,happy
+4033,6245,27,white,happy
+4034,6246,24,white,happy
+4035,6247,23,white,neutral
+4036,6248,25,white,neutral
+4037,6249,27,white,neutral
+4038,6250,29,white,happy
+4039,6251,25,white,angry
+4040,6252,27,white,happy
+4041,291,28,white,angry
+4042,292,21,white,happy
+4043,293,23,white,neutral
+4044,294,27,white,happy
+4045,295,25,latino hispanic,happy
+4046,1011,26,white,sad
+4047,1012,27,white,neutral
+4048,1013,31,white,neutral
+4049,6253,30,white,happy
+4050,6254,32,white,surprise
+4051,6255,30,white,happy
+4052,6256,30,white,happy
+4053,6257,32,white,happy
+4054,6258,31,white,happy
+4055,6259,31,white,happy
+4056,6260,33,white,happy
+4057,6264,30,white,happy
+4058,6267,32,white,happy
+4059,3765,33,white,happy
+4060,3766,33,white,happy
+4061,3768,33,white,happy
+4062,3769,29,white,happy
+4063,3770,41,white,happy
+4064,2757,27,white,happy
+4065,2758,28,white,happy
+4066,139,30,white,happy
+4067,140,31,asian,happy
+4068,141,27,white,happy
+4069,144,25,white,sad
+4070,145,24,white,neutral
+4071,146,24,white,happy
+4072,4866,31,white,happy
+4073,4867,25,white,neutral
+4074,4869,32,white,neutral
+4075,2676,34,white,happy
+4076,2677,31,indian,happy
+4077,2678,39,white,happy
+4078,2679,32,white,happy
+4079,2680,33,latino hispanic,happy
+4080,1558,38,white,happy
+4081,1559,42,white,happy
+4082,1560,23,white,happy
+4083,1561,42,white,happy
+4084,1564,41,white,happy
+4085,1565,41,white,happy
+4086,1567,45,white,happy
+4087,1568,42,white,happy
+4088,1569,40,white,happy
+4089,5014,39,latino hispanic,neutral
+4090,5015,37,latino hispanic,happy
+4091,5016,45,latino hispanic,happy
+4092,5017,37,latino hispanic,happy
+4093,5018,33,indian,fear
+4094,5019,47,indian,fear
+4095,5020,48,latino hispanic,sad
+4096,5021,44,indian,happy
+4097,5022,41,latino hispanic,sad
+4098,5023,38,latino hispanic,happy
+4099,4674,26,white,neutral
+4100,4675,41,white,fear
+4101,4677,32,white,neutral
+4102,2395,35,white,sad
+4103,2396,40,white,happy
+4104,2397,44,white,happy
+4105,6268,39,white,happy
+4106,6269,37,white,happy
+4107,6270,37,white,angry
+4108,6271,39,white,angry
+4109,6272,45,black,fear
+4110,6273,42,white,happy
+4111,6274,34,latino hispanic,happy
+4112,6275,38,latino hispanic,happy
+4113,6276,38,white,happy
+4114,6277,43,white,angry
+4115,6278,31,white,happy
+4116,6279,39,white,happy
+4117,6280,40,latino hispanic,happy
+4118,6281,43,latino hispanic,neutral
+4119,6282,34,latino hispanic,happy
+4120,6283,37,latino hispanic,surprise
+4121,6284,33,latino hispanic,happy
+4122,6285,35,latino hispanic,sad
+4123,1044,42,white,angry
+4124,1047,35,white,happy
+4125,6286,33,white,happy
+4126,6287,42,white,neutral
+4127,6288,27,white,happy
+4128,6289,27,white,neutral
+4129,6290,44,white,angry
+4130,6291,39,white,happy
+4131,6292,32,white,neutral
+4132,6293,43,white,angry
+4133,6294,30,indian,happy
+4134,6295,27,indian,happy
+4135,6296,32,white,happy
+4136,6297,36,white,happy
+4137,4171,39,indian,happy
+4138,4172,34,asian,sad
+4139,4173,38,white,happy
+4140,4174,30,latino hispanic,happy
+4141,4175,47,latino hispanic,angry
+4142,4432,32,white,happy
+4143,894,30,white,angry
+4144,895,29,white,happy
+4145,897,32,white,happy
+4146,899,30,white,happy
+4147,900,30,white,happy
+4148,726,31,white,neutral
+4149,727,32,white,happy
+4150,728,30,white,happy
+4151,729,24,white,happy
+4152,730,28,latino hispanic,happy
+4153,1375,34,latino hispanic,happy
+4154,1680,30,white,happy
+4155,1681,38,white,happy
+4156,1682,35,white,happy
+4157,1683,34,white,happy
+4158,1684,34,white,happy
+4159,1685,33,white,neutral
+4160,5024,26,black,happy
+4161,5025,33,black,happy
+4162,5026,42,black,happy
+4163,5027,26,black,happy
+4164,5028,31,black,angry
+4165,5029,24,black,surprise
+4166,5030,32,black,happy
+4167,6298,28,white,happy
+4168,6299,28,white,happy
+4169,6300,28,white,happy
+4170,6301,30,white,happy
+4171,6302,31,white,happy
+4172,6303,30,white,happy
+4173,6304,28,white,happy
+4174,6305,30,white,happy
+4175,6306,31,white,happy
+4176,6307,28,white,happy
+4177,6308,23,white,happy
+4178,6309,31,white,happy
+4179,6310,29,white,happy
+4180,6311,30,white,sad
+4181,6312,30,white,happy
+4182,6313,30,white,sad
+4183,6314,29,latino hispanic,sad
+4184,6315,30,white,sad
+4185,6316,26,white,neutral
+4186,6317,26,white,happy
+4187,6318,21,white,happy
+4188,6319,30,white,happy
+4189,3618,41,white,happy
+4190,3619,49,white,happy
+4191,3621,44,white,neutral
+4192,3622,50,white,happy
+4193,1060,33,white,happy
+4194,1065,31,white,happy
+4195,1066,30,white,happy
+4196,1892,28,white,neutral
+4197,1893,24,white,happy
+4198,1895,24,white,neutral
+4199,1898,35,white,happy
+4200,1899,31,white,sad
+4201,6320,28,indian,happy
+4202,6321,24,latino hispanic,happy
+4203,6322,24,indian,neutral
+4204,6323,23,indian,neutral
+4205,6324,28,indian,happy
+4206,6325,24,indian,neutral
+4207,6326,24,latino hispanic,happy
+4208,6327,31,indian,neutral
+4209,6328,29,indian,happy
+4210,6329,32,latino hispanic,neutral
+4211,6330,35,indian,happy
+4212,6331,35,indian,happy
+4213,6332,46,indian,neutral
+4214,6333,45,indian,happy
+4215,6334,33,latino hispanic,neutral
+4216,6335,44,latino hispanic,happy
+4217,6336,32,latino hispanic,neutral
+4218,6337,35,white,neutral
+4219,6338,47,white,happy
+4220,6339,28,white,happy
+4221,261,31,white,happy
+4222,3790,29,black,happy
+4223,3792,28,black,neutral
+4224,3793,29,black,neutral
+4225,3794,27,black,happy
+4226,3795,31,black,neutral
+4227,218,34,white,happy
+4228,3599,26,white,happy
+4229,3600,28,white,happy
+4230,3601,23,white,neutral
+4231,3602,24,white,neutral
+4232,3603,24,white,happy
+4233,3604,26,white,happy
+4234,3605,26,white,happy
+4235,3606,26,white,happy
+4236,3607,26,white,neutral
+4237,3608,27,white,happy
+4238,3609,28,white,happy
+4239,3610,25,white,happy
+4240,3611,32,white,happy
+4241,3612,28,asian,neutral
+4242,4440,25,white,happy
+4243,4443,28,latino hispanic,happy
+4244,4444,23,white,fear
+4245,6340,23,white,neutral
+4246,6341,23,white,happy
+4247,6342,23,white,sad
+4248,6343,26,white,happy
+4249,6344,25,white,happy
+4250,6345,27,white,happy
+4251,6346,24,white,neutral
+4252,6347,23,white,happy
+4253,6348,23,white,neutral
+4254,6349,24,white,neutral
+4255,6350,23,white,neutral
+4256,6351,23,white,angry
+4257,6352,33,white,neutral
+4258,6353,25,white,happy
+4259,6354,32,white,sad
+4260,6355,24,white,happy
+4261,4839,29,white,happy
+4262,6356,23,white,happy
+4263,6357,24,white,happy
+4264,6358,23,white,happy
+4265,6359,23,white,happy
+4266,6360,24,white,happy
+4267,6361,23,white,happy
+4268,6362,27,white,fear
+4269,6363,23,white,happy
+4270,6364,23,middle eastern,sad
+4271,6365,23,white,neutral
+4272,6366,23,white,neutral
+4273,6367,25,white,neutral
+4274,35,45,white,angry
+4275,36,44,asian,surprise
+4276,37,36,indian,neutral
+4277,40,38,asian,fear
+4278,41,39,indian,sad
+4279,45,31,asian,neutral
+4280,46,46,indian,neutral
+4281,48,29,white,neutral
+4282,50,31,asian,sad
+4283,51,32,indian,angry
+4284,53,38,indian,neutral
+4285,54,34,white,neutral
+4286,55,32,asian,happy
+4287,3633,55,indian,neutral
+4288,3634,56,white,neutral
+4289,3635,42,indian,neutral
+4290,3636,45,white,neutral
+4291,3637,37,indian,angry
+4292,3639,50,white,fear
+4293,3640,28,asian,sad
+4294,3641,51,white,sad
+4295,3642,41,white,sad
+4296,6368,28,white,happy
+4297,6369,28,white,neutral
+4298,6370,27,white,neutral
+4299,6371,30,white,neutral
+4300,6372,31,white,happy
+4301,6374,30,white,sad
+4302,6375,30,white,happy
+4303,6376,30,white,happy
+4304,6377,32,white,neutral
+4305,6378,31,white,happy
+4306,4187,26,latino hispanic,happy
+4307,4190,25,white,happy
+4308,1474,32,asian,happy
+4309,1476,33,latino hispanic,sad
+4310,1906,22,asian,neutral
+4311,1907,27,latino hispanic,happy
+4312,1908,32,white,neutral
+4313,1909,25,white,happy
+4314,1911,22,white,neutral
+4315,1913,31,white,happy
+4316,1915,29,white,angry
+4317,3202,28,latino hispanic,neutral
+4318,3203,26,latino hispanic,happy
+4319,3206,31,latino hispanic,happy
+4320,3207,28,latino hispanic,happy
+4321,3208,30,white,happy
+4322,3209,31,white,happy
+4323,6379,22,white,happy
+4324,6380,29,white,neutral
+4325,6381,29,white,neutral
+4326,6382,28,white,fear
+4327,6383,27,white,happy
+4328,6384,28,white,neutral
+4329,6385,29,white,happy
+4330,6386,26,white,happy
+4331,6387,28,white,happy
+4332,6388,27,white,happy
+4333,6389,33,white,happy
+4334,6390,32,white,happy
+4335,6394,36,black,happy
+4336,6395,40,latino hispanic,happy
+4337,6396,26,black,happy
+4338,6397,29,white,happy
+4339,6398,42,black,happy
+4340,6399,32,white,happy
+4341,6402,32,white,happy
+4342,6403,30,latino hispanic,happy
+4343,6404,35,white,happy
+4344,6408,32,white,happy
+4345,6409,33,latino hispanic,neutral
+4346,6410,34,black,happy
+4347,6411,32,black,neutral
+4348,6414,33,white,happy
+4349,1437,23,white,happy
+4350,1438,28,white,happy
+4351,1439,23,white,neutral
+4352,1440,23,white,happy
+4353,6416,42,indian,happy
+4354,6417,33,asian,happy
+4355,6418,26,indian,angry
+4356,6419,36,white,neutral
+4357,6420,31,asian,angry
+4358,6421,33,indian,happy
+4359,6422,37,asian,happy
+4360,6423,37,white,happy
+4361,1253,34,white,happy
+4362,1254,36,white,happy
+4363,6424,24,asian,sad
+4364,6427,32,white,sad
+4365,6430,30,white,sad
+4366,4642,31,asian,happy
+4367,4643,33,asian,happy
+4368,4644,33,asian,neutral
+4369,4645,31,asian,neutral
+4370,4646,31,asian,neutral
+4371,4647,28,asian,happy
+4372,1781,23,black,neutral
+4373,1782,32,black,neutral
+4374,1786,26,black,neutral
+4375,1794,32,black,happy
+4376,2785,38,white,happy
+4377,2788,42,white,happy
+4378,6431,43,white,happy
+4379,6432,36,white,sad
+4380,6433,38,white,happy
+4381,6434,33,latino hispanic,neutral
+4382,6435,34,white,sad
+4383,6436,48,white,sad
+4384,6437,34,white,happy
+4385,6438,32,white,sad
+4386,6439,35,white,angry
+4387,6440,33,white,angry
+4388,6441,35,white,fear
+4389,6442,24,white,neutral
+4390,6443,25,white,fear
+4391,6444,27,white,sad
+4392,6445,34,white,neutral
+4393,6446,31,white,sad
+4394,2768,24,white,happy
+4395,2769,25,white,happy
+4396,2770,26,white,neutral
+4397,2771,36,white,sad
+4398,2772,26,white,happy
+4399,147,28,white,angry
+4400,148,28,white,neutral
+4401,149,24,white,happy
+4402,150,30,white,fear
+4403,151,30,white,neutral
+4404,152,28,white,neutral
+4405,1000,27,black,neutral
+4406,1001,34,black,neutral
+4407,989,26,black,angry
+4408,990,27,black,happy
+4409,991,25,black,happy
+4410,992,30,black,sad
+4411,994,32,black,sad
+4412,995,32,black,angry
+4413,996,25,black,fear
+4414,998,32,black,angry
+4415,999,27,black,angry
+4416,6447,33,white,happy
+4417,6448,33,latino hispanic,happy
+4418,6449,32,latino hispanic,neutral
+4419,6450,32,white,neutral
+4420,6451,32,white,happy
+4421,6452,32,latino hispanic,sad
+4422,6453,32,white,neutral
+4423,6454,32,white,fear
+4424,3026,24,white,neutral
+4425,3028,24,white,neutral
+4426,3029,23,white,happy
+4427,3030,27,white,neutral
+4428,3031,24,white,neutral
+4429,6455,34,white,happy
+4430,6456,46,white,happy
+4431,6457,35,white,happy
+4432,6458,37,white,happy
+4433,6459,26,white,happy
+4434,6460,25,white,happy
+4435,6461,38,white,happy
+4436,6462,24,white,happy
+4437,6463,28,white,happy
+4438,6464,27,white,happy
+4439,6465,30,white,neutral
+4440,6466,29,white,happy
+4441,6467,27,white,happy
+4442,6468,30,white,happy
+4443,6469,50,asian,happy
+4444,6470,50,asian,happy
+4445,6471,43,white,happy
+4446,6472,44,white,happy
+4447,3997,26,middle eastern,happy
+4448,6473,43,indian,fear
+4449,6474,46,indian,angry
+4450,6475,44,white,happy
+4451,6476,40,latino hispanic,neutral
+4452,6477,37,indian,neutral
+4453,6478,41,indian,happy
+4454,6479,36,indian,neutral
+4455,6480,32,latino hispanic,happy
+4456,6481,35,indian,neutral
+4457,6482,35,indian,neutral
+4458,6483,30,indian,happy
+4459,6484,35,indian,neutral
+4460,6485,33,latino hispanic,neutral
+4461,6486,31,indian,neutral
+4462,6487,37,indian,sad
+4463,6488,34,indian,neutral
+4464,1877,32,asian,happy
+4465,1879,36,white,sad
+4466,1881,33,asian,happy
+4467,4297,30,latino hispanic,neutral
+4468,4301,29,black,happy
+4469,4302,32,black,happy
+4470,4306,30,black,happy
+4471,4307,31,white,happy
+4472,4308,31,asian,neutral
+4473,4309,32,asian,happy
+4474,4310,32,black,happy
+4475,4311,34,black,happy
+4476,4312,32,black,happy
+4477,4313,32,indian,happy
+4478,4314,35,black,happy
+4479,4315,32,indian,happy
+4480,4316,32,asian,happy
+4481,4317,32,asian,happy
+4482,4318,33,asian,happy
+4483,4319,32,asian,neutral
+4484,4320,32,black,happy
+4485,4321,31,black,happy
+4486,4322,32,asian,happy
+4487,4323,32,black,happy
+4488,4324,32,latino hispanic,happy
+4489,4325,33,latino hispanic,happy
+4490,4326,32,black,happy
+4491,4855,42,white,happy
+4492,4856,25,white,neutral
+4493,4857,33,white,happy
+4494,4858,36,white,happy
+4495,4859,34,white,happy
+4496,3184,31,white,happy
+4497,3185,33,white,happy
+4498,3186,38,white,neutral
+4499,3187,31,white,happy
+4500,3188,40,white,happy
+4501,3189,44,white,happy
+4502,3190,34,white,happy
+4503,3191,39,white,happy
+4504,3192,43,white,happy
+4505,1372,45,asian,neutral
+4506,2374,31,white,happy
+4507,2378,32,white,neutral
+4508,3581,29,white,happy
+4509,3582,30,white,neutral
+4510,3590,30,white,happy
+4511,242,23,white,neutral
+4512,243,26,white,happy
+4513,244,27,white,happy
+4514,3897,28,white,happy
+4515,3898,27,white,happy
+4516,6489,24,white,neutral
+4517,6490,22,white,angry
+4518,6491,26,white,angry
+4519,6492,30,white,happy
+4520,6493,22,latino hispanic,happy
+4521,6494,25,white,happy
+4522,6495,23,white,happy
+4523,6496,27,white,happy
+4524,6497,23,white,happy
+4525,6498,33,white,neutral
+4526,6500,32,indian,happy
+4527,6501,32,white,happy
+4528,6503,31,white,neutral
+4529,6504,31,white,sad
+4530,6505,32,white,neutral
+4531,6506,31,white,angry
+4532,6507,33,white,neutral
+4533,6508,31,white,neutral
+4534,6509,30,latino hispanic,neutral
+4535,6510,31,white,happy
+4536,6511,30,white,happy
+4537,6512,26,white,happy
+4538,6513,32,white,happy
+4539,6514,32,white,neutral
+4540,6515,22,white,sad
+4541,6516,27,latino hispanic,neutral
+4542,6517,22,white,sad
+4543,6518,25,latino hispanic,neutral
+4544,6519,23,white,neutral
+4545,6520,26,white,neutral
+4546,6522,45,latino hispanic,happy
+4547,6523,47,latino hispanic,fear
+4548,6524,43,latino hispanic,happy
+4549,6525,50,middle eastern,fear
+4550,6526,41,indian,neutral
+4551,2944,33,white,neutral
+4552,2945,32,white,happy
+4553,2947,27,latino hispanic,neutral
+4554,6527,44,white,neutral
+4555,6528,25,middle eastern,happy
+4556,6529,26,white,neutral
+4557,6530,43,white,angry
+4558,6531,28,white,happy
+4559,6532,27,white,happy
+4560,6533,37,white,fear
+4561,6534,25,white,happy
+4562,6535,45,white,happy
+4563,6536,23,white,happy
+4564,6537,45,latino hispanic,sad
+4565,3150,23,white,neutral
+4566,3151,23,white,neutral
+4567,3152,25,white,sad
+4568,3153,27,white,happy
+4569,3154,24,white,neutral
+4570,3155,25,white,happy
+4571,3156,25,white,sad
+4572,3157,26,white,happy
+4573,3158,24,white,neutral
+4574,3159,26,white,neutral
+4575,3160,22,white,happy
+4576,3161,26,white,happy
+4577,3162,26,white,neutral
+4578,3163,24,white,fear
+4579,3164,23,white,neutral
+4580,3166,25,white,neutral
+4581,3168,25,white,happy
+4582,3170,24,white,happy
+4583,3172,29,white,happy
+4584,3174,24,latino hispanic,neutral
+4585,919,27,white,neutral
+4586,920,23,white,happy
+4587,921,25,white,sad
+4588,922,24,white,happy
+4589,923,24,white,happy
+4590,924,31,white,neutral
+4591,925,24,white,happy
+4592,926,24,white,happy
+4593,927,28,white,happy
+4594,928,24,white,happy
+4595,929,22,white,neutral
+4596,930,27,white,happy
+4597,1468,30,latino hispanic,neutral
+4598,1469,26,white,happy
+4599,1473,27,white,happy
+4600,1441,33,white,neutral
+4601,1442,30,white,angry
+4602,1443,28,latino hispanic,happy
+4603,1444,32,latino hispanic,neutral
+4604,3377,24,white,happy
+4605,3378,34,white,happy
+4606,3380,24,white,happy
+4607,3381,24,white,happy
+4608,3372,27,white,happy
+4609,3373,23,white,happy
+4610,3374,24,white,happy
+4611,3375,23,white,happy
+4612,3376,33,white,happy
+4613,1480,25,latino hispanic,neutral
+4614,1481,33,latino hispanic,neutral
+4615,1485,26,indian,happy
+4616,1486,23,indian,neutral
+4617,1487,32,latino hispanic,happy
+4618,1489,31,latino hispanic,neutral
+4619,1490,27,latino hispanic,neutral
+4620,3180,24,white,happy
+4621,491,31,white,angry
+4622,4726,30,white,happy
+4623,4728,32,white,happy
+4624,4729,25,white,happy
+4625,4730,42,white,happy
+4626,4731,33,white,happy
+4627,3856,34,black,sad
+4628,3857,29,black,fear
+4629,3859,24,black,neutral
+4630,3860,27,black,happy
+4631,3862,23,asian,angry
+4632,3863,29,black,happy
+4633,2550,26,white,neutral
+4634,2551,29,white,neutral
+4635,2552,24,white,happy
+4636,2554,31,white,neutral
+4637,2556,32,white,happy
+4638,2557,29,white,neutral
+4639,2558,31,white,happy
+4640,1748,28,white,happy
+4641,1749,21,white,sad
+4642,1750,26,white,sad
+4643,1751,23,white,sad
+4644,1719,22,white,neutral
+4645,1720,22,white,neutral
+4646,1721,28,latino hispanic,neutral
+4647,2700,23,white,neutral
+4648,2702,23,white,neutral
+4649,2703,24,white,happy
+4650,2706,25,white,neutral
+4651,2707,29,white,happy
+4652,2708,30,white,happy
+4653,2709,24,white,neutral
+4654,2711,29,white,angry
+4655,2712,25,white,neutral
+4656,2964,33,white,neutral
+4657,2965,35,white,happy
+4658,2966,28,white,happy
+4659,2967,28,white,happy
+4660,2968,24,white,happy
+4661,2713,24,white,neutral
+4662,2714,28,white,happy
+4663,2716,24,white,fear
+4664,2717,26,white,neutral
+4665,2718,33,white,happy
+4666,2719,21,white,neutral
+4667,2720,24,white,neutral
+4668,2721,24,white,neutral
+4669,2722,21,white,neutral
+4670,2723,24,white,happy
+4671,576,33,white,happy
+4672,6538,44,latino hispanic,fear
+4673,6539,37,latino hispanic,angry
+4674,6542,31,white,sad
+4675,6543,33,white,neutral
+4676,6544,36,white,neutral
+4677,6546,33,latino hispanic,happy
+4678,6547,46,white,neutral
+4679,6548,25,white,neutral
+4680,6552,32,white,angry
+4681,6554,38,middle eastern,happy
+4682,4141,24,middle eastern,happy
+4683,4143,31,latino hispanic,happy
+4684,247,36,white,happy
+4685,248,40,white,happy
+4686,249,41,white,happy
+4687,250,39,white,happy
+4688,3776,21,black,happy
+4689,3781,31,black,angry
+4690,6555,46,white,happy
+4691,6556,37,white,sad
+4692,6557,27,middle eastern,happy
+4693,6558,50,white,fear
+4694,6559,48,white,happy
+4695,6560,43,white,happy
+4696,6563,47,latino hispanic,happy
+4697,6564,44,latino hispanic,fear
+4698,6565,46,latino hispanic,neutral
+4699,6566,49,latino hispanic,happy
+4700,6567,48,white,sad
+4701,6568,41,latino hispanic,happy
+4702,6569,43,white,happy
+4703,6570,49,middle eastern,fear
+4704,6571,45,white,happy
+4705,6572,54,middle eastern,happy
+4706,6573,51,white,happy
+4707,6574,46,latino hispanic,fear
+4708,3919,21,middle eastern,neutral
+4709,3921,23,latino hispanic,neutral
+4710,2132,50,middle eastern,neutral
+4711,2133,46,white,neutral
+4712,2134,51,latino hispanic,sad
+4713,2135,48,white,happy
+4714,2136,51,latino hispanic,neutral
+4715,2137,50,middle eastern,sad
+4716,2138,52,indian,happy
+4717,2139,34,indian,happy
+4718,700,37,white,happy
+4719,6575,31,white,happy
+4720,6576,32,white,happy
+4721,6577,32,white,happy
+4722,6578,32,white,happy
+4723,6579,32,white,happy
+4724,6580,33,white,happy
+4725,6581,33,white,happy
+4726,6582,31,white,happy
+4727,6583,31,latino hispanic,happy
+4728,6584,31,white,happy
+4729,6585,31,white,happy
+4730,6586,29,white,happy
+4731,6587,30,white,happy
+4732,6588,31,latino hispanic,happy
+4733,6589,31,white,happy
+4734,6590,30,white,happy
+4735,6591,32,white,neutral
+4736,6592,29,latino hispanic,happy
+4737,6593,24,white,neutral
+4738,6594,30,latino hispanic,happy
+4739,6595,32,white,neutral
+4740,6596,33,white,happy
+4741,6597,31,latino hispanic,happy
+4742,6598,28,white,sad
+4743,6599,28,latino hispanic,neutral
+4744,6600,29,white,happy
+4745,6601,30,white,happy
+4746,6602,29,latino hispanic,neutral
+4747,6603,26,asian,neutral
+4748,6604,25,white,happy
+4749,6605,30,white,neutral
+4750,6606,27,white,neutral
+4751,6607,30,white,fear
+4752,256,33,white,happy
+4753,257,28,asian,angry
+4754,6608,41,white,happy
+4755,6609,33,white,neutral
+4756,6610,38,white,happy
+4757,6611,33,white,neutral
+4758,6612,35,indian,angry
+4759,6613,43,white,happy
+4760,6614,40,white,happy
+4761,6615,46,white,neutral
+4762,393,31,white,happy
+4763,397,28,black,neutral
+4764,398,30,latino hispanic,happy
+4765,399,31,latino hispanic,happy
+4766,400,32,latino hispanic,happy
+4767,401,32,indian,happy
+4768,4120,32,asian,angry
+4769,4121,34,white,happy
+4770,4122,30,latino hispanic,happy
+4771,4123,32,white,happy
+4772,3546,25,white,happy
+4773,4445,24,white,happy
+4774,4446,30,white,happy
+4775,4447,25,white,happy
+4776,4448,26,white,happy
+4777,4449,26,white,neutral
+4778,6616,26,white,neutral
+4779,6619,29,white,happy
+4780,6621,34,middle eastern,neutral
+4781,6622,35,white,happy
+4782,6623,42,middle eastern,happy
+4783,6624,35,white,neutral
+4784,364,32,latino hispanic,happy
+4785,366,47,white,neutral
+4786,368,39,latino hispanic,neutral
+4787,370,33,latino hispanic,happy
+4788,387,45,indian,happy
+4789,390,39,latino hispanic,neutral
+4790,1492,49,latino hispanic,happy
+4791,1493,47,latino hispanic,neutral
+4792,1494,42,white,sad
+4793,1495,46,latino hispanic,happy
+4794,3827,23,black,sad
+4795,3828,30,black,happy
+4796,3829,32,black,happy
+4797,3831,25,black,neutral
+4798,3835,23,indian,fear
+4799,3836,32,latino hispanic,neutral
+4800,3837,29,asian,happy
+4801,2860,34,white,neutral
+4802,2864,25,white,happy
+4803,2865,35,latino hispanic,happy
+4804,2866,28,white,happy
+4805,2867,38,latino hispanic,angry
+4806,2868,29,asian,sad
+4807,2869,24,latino hispanic,happy
+4808,2870,23,white,happy
+4809,6625,32,latino hispanic,happy
+4810,6626,35,latino hispanic,sad
+4811,6627,32,latino hispanic,happy
+4812,6628,42,latino hispanic,happy
+4813,6629,31,latino hispanic,happy
+4814,6630,42,middle eastern,happy
+4815,6631,43,white,fear
+4816,6632,51,white,happy
+4817,6633,48,latino hispanic,neutral
+4818,6634,47,white,happy
+4819,6635,36,latino hispanic,fear
+4820,6636,50,white,happy
+4821,6637,49,latino hispanic,neutral
+4822,6638,39,white,neutral
+4823,6639,44,white,happy
+4824,6640,37,white,happy
+4825,6641,31,white,happy
+4826,6642,48,white,happy
+4827,6643,40,white,sad
+4828,6644,28,white,happy
+4829,6645,42,white,happy
+4830,6646,32,latino hispanic,angry
+4831,4450,25,white,neutral
+4832,4451,25,latino hispanic,happy
+4833,4452,30,white,happy
+4834,4453,31,white,neutral
+4835,4454,36,white,sad
+4836,4455,32,white,happy
+4837,4456,30,latino hispanic,happy
+4838,4457,25,white,neutral
+4839,4458,31,white,happy
+4840,6647,27,white,happy
+4841,6648,31,middle eastern,happy
+4842,6649,25,white,neutral
+4843,6650,24,white,happy
+4844,6651,23,white,happy
+4845,6652,32,white,neutral
+4846,6653,25,white,neutral
+4847,6654,28,white,angry
+4848,6655,23,white,neutral
+4849,6656,26,white,happy
+4850,6657,28,white,happy
+4851,6658,29,white,happy
+4852,6659,27,white,happy
+4853,3551,31,middle eastern,happy
+4854,3552,28,middle eastern,happy
+4855,3553,32,middle eastern,neutral
+4856,3554,33,white,happy
+4857,4710,22,white,happy
+4858,2485,32,white,happy
+4859,2486,32,white,fear
+4860,2487,32,white,fear
+4861,2488,32,white,fear
+4862,2489,32,white,angry
+4863,5031,29,black,happy
+4864,5032,27,black,neutral
+4865,5033,32,black,happy
+4866,5034,31,black,happy
+4867,5035,32,black,happy
+4868,5036,27,black,happy
+4869,5037,29,indian,happy
+4870,5038,28,black,angry
+4871,5039,25,black,neutral
+4872,5040,23,black,happy
+4873,6660,24,middle eastern,happy
+4874,6661,24,white,happy
+4875,6662,23,middle eastern,neutral
+4876,6663,22,white,neutral
+4877,6664,23,white,happy
+4878,6665,26,middle eastern,happy
+4879,6666,28,middle eastern,happy
+4880,6667,23,latino hispanic,sad
+4881,6668,22,middle eastern,neutral
+4882,1882,24,white,happy
+4883,1883,23,asian,happy
+4884,1884,25,white,happy
+4885,1886,26,white,happy
+4886,6669,50,white,sad
+4887,6670,47,white,happy
+4888,6671,28,white,happy
+4889,6672,44,latino hispanic,angry
+4890,6673,46,white,angry
+4891,6674,41,white,happy
+4892,6675,42,white,neutral
+4893,6676,39,white,happy
+4894,6677,48,white,happy
+4895,6678,52,white,happy
+4896,6679,33,white,happy
+4897,1115,26,white,happy
+4898,1116,30,white,happy
+4899,1117,29,white,neutral
+4900,1610,28,white,happy
+4901,1611,28,white,neutral
+4902,1612,23,white,happy
+4903,1613,25,white,happy
+4904,1614,28,white,happy
+4905,3821,26,white,happy
+4906,1727,25,white,neutral
+4907,6680,29,white,neutral
+4908,6681,33,middle eastern,happy
+4909,6682,29,white,happy
+4910,6683,31,middle eastern,happy
+4911,6684,30,white,happy
+4912,6685,29,middle eastern,happy
+4913,6686,32,middle eastern,happy
+4914,6687,26,white,happy
+4915,6688,25,middle eastern,happy
+4916,6689,22,white,neutral
+4917,6690,23,white,neutral
+4918,6691,24,white,neutral
+4919,6692,24,white,happy
+4920,6693,24,white,neutral
+4921,6694,22,latino hispanic,happy
+4922,6695,28,white,happy
+4923,6696,23,white,sad
+4924,6697,49,white,sad
+4925,6698,44,white,happy
+4926,6699,47,white,happy
+4927,6700,39,white,happy
+4928,6701,42,latino hispanic,happy
+4929,3134,34,white,happy
+4930,3135,31,white,happy
+4931,3136,27,white,happy
+4932,3137,27,white,happy
+4933,3138,31,white,happy
+4934,3139,29,white,happy
+4935,3140,33,white,happy
+4936,3141,32,white,happy
+4937,3142,32,white,happy
+4938,3145,31,white,happy
+4939,3146,34,white,happy
+4940,3147,31,white,happy
+4941,6702,38,asian,angry
+4942,6704,48,asian,neutral
+4943,6705,45,white,sad
+4944,6706,40,black,neutral
+4945,6708,43,asian,neutral
+4946,6709,34,white,neutral
+4947,1268,24,white,happy
+4948,1269,31,white,happy
+4949,1270,39,white,happy
+4950,1271,32,latino hispanic,happy
+4951,2178,29,white,happy
+4952,2179,23,latino hispanic,sad
+4953,2180,36,latino hispanic,happy
+4954,2181,22,latino hispanic,happy
+4955,2182,41,middle eastern,angry
+4956,2183,27,latino hispanic,happy
+4957,2184,40,white,neutral
+4958,2185,23,white,happy
+4959,2186,30,middle eastern,happy
+4960,2187,22,middle eastern,neutral
+4961,2188,37,white,happy
+4962,2189,22,middle eastern,angry
+4963,2190,25,middle eastern,happy
+4964,2191,24,latino hispanic,happy
+4965,459,40,white,happy
+4966,460,27,white,happy
+4967,461,30,white,angry
+4968,462,44,white,angry
+4969,463,32,white,neutral
+4970,464,43,white,happy
+4971,465,34,white,happy
+4972,466,42,white,neutral
+4973,1917,45,white,neutral
+4974,1918,34,white,sad
+4975,1922,38,indian,happy
+4976,1923,39,indian,happy
+4977,6710,30,indian,neutral
+4978,6711,31,indian,happy
+4979,6712,31,indian,fear
+4980,6713,30,indian,angry
+4981,6714,30,indian,neutral
+4982,6715,28,indian,neutral
+4983,6716,34,indian,happy
+4984,6717,27,indian,neutral
+4985,6718,25,indian,happy
+4986,6719,30,indian,angry
+4987,2924,37,white,happy
+4988,2926,31,white,happy
+4989,6720,27,white,neutral
+4990,6721,28,white,neutral
+4991,6723,30,latino hispanic,neutral
+4992,6724,24,latino hispanic,neutral
+4993,6725,30,indian,neutral
+4994,1586,36,white,happy
+4995,1587,40,white,happy
+4996,1588,38,white,happy
+4997,1589,32,white,happy
+4998,1591,33,white,happy
+4999,1592,36,white,happy
+5000,1593,31,white,happy
+5001,1594,29,white,happy
+5002,1595,26,white,happy
+5003,1596,31,white,neutral
+5004,1597,22,white,happy
+5005,1458,30,latino hispanic,neutral
+5006,1459,38,latino hispanic,angry
+5007,1460,29,middle eastern,sad
+5008,1461,33,middle eastern,neutral
+5009,753,25,black,happy
+5010,754,26,black,happy
+5011,755,32,black,happy
+5012,756,31,black,happy
+5013,757,25,black,neutral
+5014,758,33,black,happy
+5015,759,25,black,happy
+5016,760,29,black,happy

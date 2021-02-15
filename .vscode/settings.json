@@ -12,5 +12,22 @@
     "**/.hg/store/**": true,
     "datasets/*/**": true,
   },
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#b997d0",
+    "activityBar.activeBorder": "#84673c",
+    "activityBar.background": "#b997d0",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#84673c",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#a174c0",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#8951b0",
+    "titleBar.activeBackground": "#a174c0",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#a174c099",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.remoteColor": "#a174c0"
 }

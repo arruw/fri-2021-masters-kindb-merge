@@ -4,18 +4,27 @@ import pandas as pd
 import math
 from textwrap import wrap
 from pprint import pprint
+from glob import glob
+import numpy as np
+
+OUT_ROOT = "/mnt/d/matja/dev/kindb-merge"
 
 COLOR_MALE = "#34aeeb"
 COLOR_FEMALE = "#de3e7e"
 
 persons_df = pd.read_csv("./annotations/kin-persons.csv")
-images_df = pd.read_csv("./annotations/kin-images.csv")
+# images_df = pd.read_csv("./annotations/kin-images.csv")
 
-image_count_df = images_df.groupby("pid")["path"].agg("count").reset_index()
-image_count_df = image_count_df.rename(columns={"path": "count"})
-image_count_df = image_count_df.set_index("pid")
+# image_count_df = images_df.groupby("pid")["path"].agg("count").reset_index()
+# image_count_df = image_count_df.rename(columns={"path": "count"})
+# image_count_df = image_count_df.set_index("pid")
 
-counts = image_count_df.to_dict()["count"]
+# counts = image_count_df.to_dict()["count"]
+
+counts = dict()
+for p in glob(f"{OUT_ROOT}/*"):
+  pid = int(p.split("/")[-1])
+  counts[pid] = len(glob(f"{OUT_ROOT}/{pid}/*.png"))
 
 G = nx.DiGraph()
 
@@ -62,11 +71,17 @@ for n, nd in G.nodes(data=True):
     n_triplets_s += 1
   else:
     n_triplets_d += 1
-  n_triplets_i += counts[n] * counts[ie[0][0]] * counts[ie[1][0]]
+
+  # print(f"{n}: {counts[n]} * {counts[ie[0][0]]} * {counts[ie[1][0]]} = {counts[n] * counts[ie[0][0]] * counts[ie[1][0]]}")
+  # exit()
+  n_triplets_i += (counts[n] * counts[ie[0][0]] * counts[ie[1][0]])
 
 print(f"# father/mother/son triplets: {n_triplets_s}")
 print(f"# father/mother/daughter triplets: {n_triplets_d}")
 print(f"# number of positive sample combinations: {n_triplets_i}")
+print(f"# number of images per person: {np.average(list(counts.values())):.2f}+/-{np.std(list(counts.values())):.2f}")
+print(f"# total number of images: {sum(list(counts.values()))}")
+print(f"# total number of persons: {len(list(G.nodes()))}")
 
 node_colors = [COLOR_MALE if n[1]["sex"] == "M" else COLOR_FEMALE for n in G.nodes(data=True)]
 node_border_colors = ["g" if counts.get(int(n), None) else "r" for n in G.nodes()]
@@ -82,3 +97,5 @@ nx.draw_networkx_labels(G, pos=pos, labels=labels1, font_size=2)
 # nx.draw_networkx_labels(G, pos={k:(v[0], v[1]-5) for k,v in pos.items()}, labels=labels2, font_size=1.5, font_color="#5a5a5a", verticalalignment="top")
 
 plt.savefig("./annotations/kin-trees.pdf", format="pdf", orientation="landscape")
+
+nx.write_gpickle(G, "./annotations/kin-trees.gpickle")
