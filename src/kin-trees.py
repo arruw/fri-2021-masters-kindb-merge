@@ -12,7 +12,7 @@ OUT_ROOT = "/mnt/d/matja/dev/kindb-merge"
 COLOR_MALE = "#34aeeb"
 COLOR_FEMALE = "#de3e7e"
 
-persons_df = pd.read_csv("./annotations/kin-persons.csv")
+persons_df = pd.read_csv("./annotations/kindb-persons.csv")
 # images_df = pd.read_csv("./annotations/kin-images.csv")
 
 # image_count_df = images_df.groupby("pid")["path"].agg("count").reset_index()
@@ -23,8 +23,11 @@ persons_df = pd.read_csv("./annotations/kin-persons.csv")
 
 counts = dict()
 for p in glob(f"{OUT_ROOT}/*"):
-  pid = int(p.split("/")[-1])
-  counts[pid] = len(glob(f"{OUT_ROOT}/{pid}/*.png"))
+  try:
+    pid = int(p.split("/")[-1])
+    counts[pid] = len(glob(f"{OUT_ROOT}/{pid}/*.png"))
+  except:
+    pass
 
 G = nx.DiGraph()
 
