@@ -1,618 +1,408 @@
 pid,name,family_name,sex,father_pid,mother_pid,race
-669,Pearl,ADAY.MICHAEL,F,1066,,white
-1066,Michael,ADAY.MICHAEL,M,,,white
-650,Amanda,ADAY.MICHAEL,F,1066,,white
-166,Chulabhorn,ADULYADEJ.BHUMIBOL,F,859,143,latino hispanic
+166,Chulabhorn,ADULYADEJ.BHUMIBOL,F,859.0,143.0,latino hispanic
 143,Sirikit,ADULYADEJ.BHUMIBOL,F,,,asian
-859,Adulyadej Bhumibol,ADULYADEJ.BHUMIBOL,M,,142,indian
-201,Stringhorn,ADULYADEJ.BHUMIBOL,F,859,143,asian
-615,Maha,ADULYADEJ.BHUMIBOL,M,859,143,latino hispanic
-164,Ubolratana,ADULYADEJ.BHUMIBOL,F,859,143,asian
-142,Srinagarindra,ADULYADEJ.BHUMIBOL,F,,,asian
-141,Galyani,ADULYADEJ.BHUMIBOL,F,,142,latino hispanic
-478,Ananda,ADULYADEJ.BHUMIBOL,M,,142,asian
+859,Adulyadej Bhumibol,ADULYADEJ.BHUMIBOL,M,,142.0,indian
+201,Stringhorn,ADULYADEJ.BHUMIBOL,F,859.0,143.0,asian
+615,Maha,ADULYADEJ.BHUMIBOL,M,859.0,143.0,latino hispanic
+164,Ubolratana,ADULYADEJ.BHUMIBOL,F,859.0,143.0,asian
 1022,Phoenix,AFFLECK.BEN,F,,,white
-266,Violet,AFFLECK.BEN,F,78,813,white
-78,Ben,AFFLECK.BEN,M,36,,white
-447,Seraphina,AFFLECK.BEN,F,78,813,white
-470,Atticus,AFFLECK.BEN,M,888,1022,white
+266,Violet,AFFLECK.BEN,F,78.0,813.0,white
+78,Ben,AFFLECK.BEN,M,36.0,,white
+447,Seraphina,AFFLECK.BEN,F,78.0,813.0,white
+470,Atticus,AFFLECK.BEN,M,888.0,1022.0,white
 813,Jennifer,AFFLECK.BEN,F,,,white
-888,Casey,AFFLECK.BEN,M,36,,white
-36,Timothy,AFFLECK.BEN,M,,,white
-449,Zahwa,ARAFAT.YASSER,F,25,632,white
-26,Fathi,ARAFAT.YASSER,M,,,white
-632,Suha,ARAFAT.YASSER,F,,,white
+888,Casey,AFFLECK.BEN,M,36.0,,white
 6,Andres,ARANGO.ANDRES.PASTRANA,M,,,middle eastern
-487,Laura,ARANGO.ANDRES.PASTRANA,F,6,419,indian
+487,Laura,ARANGO.ANDRES.PASTRANA,F,6.0,419.0,indian
 419,Nohra,ARANGO.ANDRES.PASTRANA,F,,,white
-578,Santiago,ARANGO.ANDRES.PASTRANA,M,6,419,asian
-446,Valentina,ARANGO.ANDRES.PASTRANA,F,6,419,latino hispanic
-443,Roberta,ARMANI.GIORGIO,F,219,,white
-850,Silvana,ARMANI.GIORGIO,F,219,,white
-219,Sergio,ARMANI.GIORGIO,M,,1094,white
-32,Giorgio,ARMANI.GIORGIO,M,,1094,white
-1094,Maria,ARMANI.GIORGIO,F,,,white
-905,Andrea,ARMANI.GIORGIO,M,,,white
-939,Rosanna,ARMANI.GIORGIO,F,,,white
-948,Grace,ARMSTRONG.LANCE,F,766,778,white
-849,Isabelle,ARMSTRONG.LANCE,F,766,778,white
+578,Santiago,ARANGO.ANDRES.PASTRANA,M,6.0,419.0,asian
+446,Valentina,ARANGO.ANDRES.PASTRANA,F,6.0,419.0,latino hispanic
+948,Grace,ARMSTRONG.LANCE,F,766.0,778.0,white
+849,Isabelle,ARMSTRONG.LANCE,F,766.0,778.0,white
 778,Kristin,ARMSTRONG.LANCE,F,,,white
-249,Olivia,ARMSTRONG.LANCE,F,766,286,white
+249,Olivia,ARMSTRONG.LANCE,F,766.0,286.0,white
 286,Anna,ARMSTRONG.LANCE,F,,,white
 766,Lance,ARMSTRONG.LANCE,M,,,white
-493,Delphine,ARNAULT.BERNARD,F,652,,white
-804,Frederic,ARNAULT.BERNARD,M,652,335,white
-1000,Antoine,ARNAULT.BERNARD,M,652,,white
+804,Frederic,ARNAULT.BERNARD,M,652.0,335.0,white
 652,Bernard,ARNAULT.BERNARD,M,,,latino hispanic
 335,Helene,ARNAULT.BERNARD,F,,,white
-800,Alex,ARNAULT.BERNARD,M,652,335,white
-792,Jose,ARROYO.GLORIA,M,,,asian
-138,Gloria,ARROYO.GLORIA,F,,,asian
+800,Alex,ARNAULT.BERNARD,M,652.0,335.0,white
 276,Baranski Christine,BARANSKI.CHRISTINE,F,,,white
-529,Lily Cowles,BARANSKI.CHRISTINE,F,984,276,white
-957,Javier,BARDEM-CRUZ.JAVIER&PENELOPE,M,,436,latino hispanic
-451,Penelope,BARDEM-CRUZ.JAVIER&PENELOPE,F,,,white
-436,Pilar,BARDEM-CRUZ.JAVIER&PENELOPE,F,,,white
-452,Monica,BARDEM-CRUZ.JAVIER&PENELOPE,F,,,latino hispanic
-958,Carlos,BARDEM-CRUZ.JAVIER&PENELOPE,M,,436,latino hispanic
+529,Lily Cowles,BARANSKI.CHRISTINE,F,984.0,276.0,white
 950,Gloria,BARNES.MATT,F,,,latino hispanic
-172,Carter,BARNES.MATT,M,311,950,black
-171,Isiah,BARNES.MATT,M,311,950,black
+172,Carter,BARNES.MATT,M,311.0,950.0,black
+171,Isiah,BARNES.MATT,M,311.0,950.0,black
 311,Barnes Matt,BARNES.MATT,M,,,black
-261,Claudine,BARRETTO.CLAUDINE,F,,,asian
 989,Sean,BEAN.SEAN,M,,,white
-465,Molly,BEAN.SEAN,F,989,646,white
-466,Lorna,BEAN.SEAN,F,989,646,white
+465,Molly,BEAN.SEAN,F,989.0,646.0,white
+466,Lorna,BEAN.SEAN,F,989.0,646.0,white
 646,Melanie,BEAN.SEAN,F,,,white
-786,Madeline,BEAVER.CECILY,F,20,927,white
+786,Madeline,BEAVER.CECILY,F,20.0,927.0,white
 927,Cecily,BEAVER.CECILY,F,,,white
 20,Jim,BEAVER.CECILY,M,,,white
-303,Romeo Beckham,BECKHAM.DAVID,M,1070,322,white
-254,Cruz,BECKHAM.DAVID,M,1070,322,white
+303,Romeo Beckham,BECKHAM.DAVID,M,1070.0,322.0,white
+254,Cruz,BECKHAM.DAVID,M,1070.0,322.0,white
 1070,David,BECKHAM.DAVID,M,,,white
-241,Harper,BECKHAM.DAVID,F,1070,322,white
+241,Harper,BECKHAM.DAVID,F,1070.0,322.0,white
 322,Victoria,BECKHAM.DAVID,F,,,white
-308,Brooklyn,BECKHAM.DAVID,M,1070,322,white
-521,Lily Mo Sheen,BECKINSDALE.KATE,F,4,441,white
+308,Brooklyn,BECKHAM.DAVID,M,1070.0,322.0,white
+521,Lily Mo Sheen,BECKINSDALE.KATE,F,4.0,441.0,white
 675,Judy,BECKINSDALE.KATE,F,,,white
 936,Richard,BECKINSDALE.KATE,M,,,white
-441,Beckinsale Kate,BECKINSDALE.KATE,F,936,675,white
-176,Trinity,BOSH.CHRIS,F,147,889,black
-177,Jackson,BOSH.CHRIS,M,147,889,black
-147,Chris,BOSH.CHRIS,M,189,,black
-189,Noel,BOSH.CHRIS,M,,,black
-291,John,BRADY-BUNDCHEN,M,1097,498,white
+441,Beckinsale Kate,BECKINSDALE.KATE,F,936.0,675.0,white
+291,John,BRADY-BUNDCHEN,M,1097.0,498.0,white
 498,Gisele,BRADY-BUNDCHEN,F,,,white
 434,Galynn,BRADY-BUNDCHEN,F,,,white
-1097,Brady,BRADY-BUNDCHEN,M,744,434,white
+1097,Brady,BRADY-BUNDCHEN,M,744.0,434.0,white
 744,Tom Sr.,BRADY-BUNDCHEN,M,,,white
-257,Benjamin,BRADY-BUNDCHEN,M,1097,498,white
+257,Benjamin,BRADY-BUNDCHEN,M,1097.0,498.0,white
 755,Harold,BRAFF.ZACH,M,,,white
-1112,Zach,BRAFF.ZACH,M,755,377,white
-1064,Adam,BRAFF.ZACH,M,755,377,white
+1112,Zach,BRAFF.ZACH,M,755.0,377.0,white
+1064,Adam,BRAFF.ZACH,M,755.0,377.0,white
 377,Anne,BRAFF.ZACH,F,,,white
-944,Joshua,BRAFF.ZACH,M,755,377,white
-541,Steve,BULLOCK.STEVE,M,,,white
-836,Beatriz,Bonner.William,F,628,651,white
-450,Laura,Bonner.William,F,628,651,white
+944,Joshua,BRAFF.ZACH,M,755.0,377.0,white
+836,Beatriz,Bonner.William,F,628.0,651.0,white
+450,Laura,Bonner.William,F,628.0,651.0,white
 628,William,Bonner.William,M,,,latino hispanic
 651,Fatima,Bonner.William,F,,,white
-371,Vinicius,Bonner.William,M,628,651,white
+371,Vinicius,Bonner.William,M,628.0,651.0,white
 997,Wayne,Brady.Wayne,M,,,black
 797,Mandie,Brady.Wayne,F,,,asian
-114,Maile,Brady.Wayne,F,997,797,asian
-1100,Scott,CAAN.JAMES,M,55,,white
-374,Linda,CAAN.JAMES,F,,,white
-55,James,CAAN.JAMES,M,,,white
+114,Maile,Brady.Wayne,F,997.0,797.0,asian
 641,Christopher Gavigan,CAPSHAW-GAVIGAN,M,,,white
-216,Kate,CAPSHAW-GAVIGAN,F,,,white
-672,Jessica Capshaw,CAPSHAW-GAVIGAN,F,,216,white
-207,Luke,CAPSHAW-GAVIGAN,M,641,672,white
-215,Poppy,CAPSHAW-GAVIGAN,F,641,672,white
-217,Eve,CAPSHAW-GAVIGAN,F,641,672,white
-314,Joseph,CASH.JOHNNY,M,594,,white
-554,June,CASH.JOHNNY,F,,,white
-594,John,CASH.JOHNNY,M,,554,white
-752,Cynthia,CLEESE.JOHN,F,5,,white
-375,Alyce,CLEESE.JOHN,F,,,white
+672,Jessica Capshaw,CAPSHAW-GAVIGAN,F,,216.0,white
+207,Luke,CAPSHAW-GAVIGAN,M,641.0,672.0,white
+215,Poppy,CAPSHAW-GAVIGAN,F,641.0,672.0,white
+217,Eve,CAPSHAW-GAVIGAN,F,641.0,672.0,white
 5,John,CLEESE.JOHN,M,,,white
-725,Camila,CLEESE.JOHN,F,5,834,white
+725,Camila,CLEESE.JOHN,F,5.0,834.0,white
 834,Barbara,CLEESE.JOHN,F,,,white
-373,Jennifer,CLEESE.JOHN,F,,,white
-405,Courtney Love (wife),Cobain.Kurt,F,,,white
-919,Frances (daughter),Cobain.Kurt,F,,,white
-1037,Kurt,Cobain.Kurt,M,,,white
 417,Mary,DESCHANEL.ZOOEY,F,,,white
-203,Emily,DESCHANEL.ZOOEY,F,56,417,white
+203,Emily,DESCHANEL.ZOOEY,F,56.0,417.0,white
 56,Caleb,DESCHANEL.ZOOEY,M,,,white
-1063,Zooey,DESCHANEL.ZOOEY,F,56,417,white
-117,Wanda,DURANT.KEVIN,F,,118,black
+1063,Zooey,DESCHANEL.ZOOEY,F,56.0,417.0,white
+117,Wanda,DURANT.KEVIN,F,,118.0,black
 188,Wayne,DURANT.KEVIN,M,,,black
-118,Barbara,DURANT.KEVIN,F,,,black
-150,Tony,DURANT.KEVIN,M,188,117,black
-89,Kevin,DURANT.KEVIN,M,188,117,black
-1021,Jesse,DYLAN.BOB,M,806,,white
-806,Robert,DYLAN.BOB,M,,,white
-768,Jakob Dylan,DYLAN.BOB,M,806,,white
-1028,Drena (daughter),De Niro. Drena,F,,,latino hispanic
-1087,Robert,De Niro. Robert,M,,,white
-827,Robert Sr. (father),De Niro. Robert Sr.,M,,,white
-293,Charli (daughter),Dixie D'Amelio,F,,,white
-843,Heidi (mother),Dixie D'Amelio,F,,,white
-294,Dixie (daughter),Dixie D'Amelio,F,,,white
-1082,Marc (father),Dixie D'Amelio,M,,,white
-378,Diana (mother),Douglas.Michael,F,,,white
+150,Tony,DURANT.KEVIN,M,188.0,117.0,black
+89,Kevin,DURANT.KEVIN,M,188.0,117.0,black
+768,Jakob Dylan,DYLAN.BOB,M,806.0,,white
 438,Catherine Zeta Jones,Douglas.Michael,F,,,white
-973,Cameron (son),Douglas.Michael,M,,,white
 602,Michael Douglas,Douglas.Michael,M,,,white
-37,Kirk (father),Douglas.Michael,M,,,white
-306,Dylan Michael (son),Douglas.Michael,M,,,white
 343,Maggie,EASTWOOD-JOHNSON,F,,,white
 28,Eastwood Clint,EASTWOOD-JOHNSON,M,,,white
-396,Allison,EASTWOOD-JOHNSON,F,28,343,white
-1083,Kyle,EASTWOOD-JOHNSON,M,28,343,white
+396,Allison,EASTWOOD-JOHNSON,F,28.0,343.0,white
+1083,Kyle,EASTWOOD-JOHNSON,M,28.0,343.0,white
 790,Dina,Eastwood.Clint,F,,,latino hispanic
-340,Sandra,Eastwood.Clint,F,,,white
-325,Morgan,Eastwood.Clint,F,28,790,latino hispanic
+325,Morgan,Eastwood.Clint,F,28.0,790.0,latino hispanic
 875,Gail,Engvall.Bill,F,,,white
-318,Travis,Engvall.Bill,M,985,875,middle eastern
-647,Emily,Engvall.Bill,F,985,875,white
+318,Travis,Engvall.Bill,M,985.0,875.0,middle eastern
+647,Emily,Engvall.Bill,F,985.0,875.0,white
 985,Bill,Engvall.Bill,M,,,white
-633,Addie,Esten.Charles,F,1010,751,white
+633,Addie,Esten.Charles,F,1010.0,751.0,white
 751,Patty,Esten.Charles,F,,,white
-274,Cynthia,Esten.Charles,F,,,white
-1010,Charles,Esten.Charles,M,,274,white
+1010,Charles,Esten.Charles,M,,274.0,white
 65,Willem,FERDINAND.WILLEM-ALEXANDER,M,,,white
 290,Maxima,FERDINAND.WILLEM-ALEXANDER,F,,,white
-2,Alexia,FERDINAND.WILLEM-ALEXANDER,F,65,290,white
-223,Ariane,FERDINAND.WILLEM-ALEXANDER,F,65,290,white
-561,Amalia,FERDINAND.WILLEM-ALEXANDER,F,65,290,white
-206,Mattias (second Son Of Will),FERREL.WILL,M,689,658,white
-226,Axel (third Child Of Will),FERREL.WILL,M,689,658,white
+2,Alexia,FERDINAND.WILLEM-ALEXANDER,F,65.0,290.0,white
+223,Ariane,FERDINAND.WILLEM-ALEXANDER,F,65.0,290.0,white
+561,Amalia,FERDINAND.WILLEM-ALEXANDER,F,65.0,290.0,white
+206,Mattias (second Son Of Will),FERREL.WILL,M,689.0,658.0,white
+226,Axel (third Child Of Will),FERREL.WILL,M,689.0,658.0,white
 658,Viveca (wife Of Will),FERREL.WILL,F,,,white
-228,Magnus (son Of Will),FERREL.WILL,M,689,658,white
+228,Magnus (son Of Will),FERREL.WILL,M,689.0,658.0,white
 689,Will Ferrell,FERREL.WILL,M,,,white
 902,Clara,FORD.HENRY,F,,,asian
-838,Edsel,FORD.HENRY,M,638,902,latino hispanic
+838,Edsel,FORD.HENRY,M,638.0,902.0,latino hispanic
 638,Henry,FORD.HENRY,M,,,white
 284,Myrna,FREEMAN.MORGAN,F,,,latino hispanic
-199,Morgana,FREEMAN.MORGAN,F,191,284,black
+199,Morgana,FREEMAN.MORGAN,F,191.0,284.0,black
 191,Morgan Freeman,FREEMAN.MORGAN,M,,,black
-134,Deena Adair,FREEMAN.MORGAN,F,191,284,indian
-384,Rose,FRIEDMAN.MILTON,F,,,white
-49,Milton,FRIEDMAN.MILTON,M,,,white
-18,Ron Howard,GABEL.SETH,M,,,white
-269,Bryce,GABEL.SETH,F,18,,white
-873,Seth,GABEL.SETH,M,,,white
-922,Hannibal,GADDAFI.MUAMMAR,M,959,695,latino hispanic
+134,Deena Adair,FREEMAN.MORGAN,F,191.0,284.0,indian
+922,Hannibal,GADDAFI.MUAMMAR,M,959.0,695.0,latino hispanic
 695,Safiya,GADDAFI.MUAMMAR,F,,,latino hispanic
-661,Aisha,GADDAFI.MUAMMAR,F,959,695,white
-996,Saif,GADDAFI.MUAMMAR,M,959,695,latino hispanic
-921,Mutassim,GADDAFI.MUAMMAR,M,959,695,white
-866,Mohammed,GADDAFI.MUAMMAR,M,959,695,latino hispanic
-925,Al-saadi,GADDAFI.MUAMMAR,M,959,695,latino hispanic
+661,Aisha,GADDAFI.MUAMMAR,F,959.0,695.0,white
+996,Saif,GADDAFI.MUAMMAR,M,959.0,695.0,latino hispanic
+921,Mutassim,GADDAFI.MUAMMAR,M,959.0,695.0,white
+866,Mohammed,GADDAFI.MUAMMAR,M,959.0,695.0,latino hispanic
+925,Al-saadi,GADDAFI.MUAMMAR,M,959.0,695.0,latino hispanic
 959,Muammar,GADDAFI.MUAMMAR,M,,,latino hispanic
 1080,Radamel,GARCIA.RADAMEL,M,,,latino hispanic
-227,Desiree,GARCIA.RADAMEL,F,1080,1018,white
+227,Desiree,GARCIA.RADAMEL,F,1080.0,1018.0,white
 1018,Lorelei,GARCIA.RADAMEL,F,,,white
-759,Andrew,GARFIELD.ANDREW,M,,,white
-1047,Marc,GASOL.PAU,M,,,white
-1005,Pau,GASOL.PAU,M,,,white
-590,Bill Gates,GATES.BILL,M,35,,white
+590,Bill Gates,GATES.BILL,M,35.0,,white
 817,Melinda Gates,GATES.BILL,F,,,white
-35,Bill Sr,GATES.BILL,M,,,white
-994,Jennifer Katharine Gates,GATES.BILL,F,590,817,white
+994,Jennifer Katharine Gates,GATES.BILL,F,590.0,817.0,white
 38,Carl,GUSTAF.KING.CARL.XVI,M,,,white
-974,Carl Philip,GUSTAF.KING.CARL.XVI,M,38,299,white
+974,Carl Philip,GUSTAF.KING.CARL.XVI,M,38.0,299.0,white
 299,Silva,GUSTAF.KING.CARL.XVI,F,,,white
-297,Victoria,GUSTAF.KING.CARL.XVI,F,38,299,white
-781,Madeleine,GUSTAF.KING.CARL.XVI,F,38,299,white
-247,Apple,GWYNETH.PALTROW,F,762,330,white
+297,Victoria,GUSTAF.KING.CARL.XVI,F,38.0,299.0,white
+781,Madeleine,GUSTAF.KING.CARL.XVI,F,38.0,299.0,white
+247,Apple,GWYNETH.PALTROW,F,762.0,330.0,white
 762,Chris,GWYNETH.PALTROW,M,,,white
-327,Blythe,GWYNETH.PALTROW,F,,,white
-330,Gwyneth,GWYNETH.PALTROW,F,,327,white
-250,Moses,GWYNETH.PALTROW,M,762,330,white
-839,Peter,GYLLENHAAL.JAKE,M,,,white
+330,Gwyneth,GWYNETH.PALTROW,F,,327.0,white
+250,Moses,GWYNETH.PALTROW,M,762.0,330.0,white
 1109,Stephen,GYLLENHAAL.JAKE,M,,,white
-1118,Jake,GYLLENHAAL.JAKE,M,1109,329,middle eastern
+1118,Jake,GYLLENHAAL.JAKE,M,1109.0,329.0,middle eastern
 329,Naomi,GYLLENHAAL.JAKE,F,,,white
-339,Maggie,GYLLENHAAL.JAKE,F,1109,329,white
-932,Chris,Gronkowski.Rob,M,1061,393,white
-977,Dan,Gronkowski.Rob,M,1061,393,white
+339,Maggie,GYLLENHAAL.JAKE,F,1109.0,329.0,white
+932,Chris,Gronkowski.Rob,M,1061.0,393.0,white
+977,Dan,Gronkowski.Rob,M,1061.0,393.0,white
 393,Diane,Gronkowski.Rob,F,,,white
 1061,Gord,Gronkowski.Rob,M,,,white
-1106,Rob,Gronkowski.Rob,M,1061,393,white
-931,Glenn,Gronkowski.Rob,M,1061,393,white
-70,Gordie,Gronkowski.Rob,M,1061,393,white
-128,Haven,HART.KEVIN,F,88,127,black
+1106,Rob,Gronkowski.Rob,M,1061.0,393.0,white
+931,Glenn,Gronkowski.Rob,M,1061.0,393.0,white
+70,Gordie,Gronkowski.Rob,M,1061.0,393.0,white
+128,Haven,HART.KEVIN,F,88.0,127.0,black
 88,Kevin,HART.KEVIN,M,,,black
 127,Torrei,HART.KEVIN,F,,,black
-175,Hendrix,HART.KEVIN,M,88,127,black
-76,Tim,HASSELBECK.MATT&TIM,M,77,444,white
-1026,Matt,HASSELBECK.MATT&TIM,M,77,444,white
+175,Hendrix,HART.KEVIN,M,88.0,127.0,black
+76,Tim,HASSELBECK.MATT&TIM,M,77.0,444.0,white
+1026,Matt,HASSELBECK.MATT&TIM,M,77.0,444.0,white
 77,Don,HASSELBECK.MATT&TIM,M,,,white
 444,Mary,HASSELBECK.MATT&TIM,F,,,white
 1050,Maria Teresa Mestre,HENRI.GRAND.DUKE.OF.LUXEMBOURG,F,,,latino hispanic
-24,Jean,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,,,latino hispanic
-589,Stephanie,HENRI.GRAND.DUKE.OF.LUXEMBOURG,F,,,white
-9,Henri,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,24,,asian
-971,Guillaume,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,9,1050,white
-1015,Felix,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,9,1050,white
-844,Luca,HEPBURN.AUDREY,M,,867,white
+9,Henri,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,24.0,,asian
+971,Guillaume,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,9.0,1050.0,white
+1015,Felix,HENRI.GRAND.DUKE.OF.LUXEMBOURG,M,9.0,1050.0,white
 595,Mel,HEPBURN.AUDREY,M,,,latino hispanic
 867,Audrey,HEPBURN.AUDREY,F,,,white
-990,Sean,HEPBURN.AUDREY,M,595,867,white
+990,Sean,HEPBURN.AUDREY,M,595.0,867.0,white
 585,Mohamed (father),Hadid.Bella,M,,,latino hispanic
-640,Bella,Hadid.Bella,F,,,white
 411,Yolanda (mother),Hadid.Bella,F,,,white
-499,Gigi (sister),Hadid.Bella,F,585,411,asian
-130,Ata,JOHNSON.DWAYNE,F,,,asian
+499,Gigi (sister),Hadid.Bella,F,585.0,411.0,asian
 1069,Dany Garcia,JOHNSON.DWAYNE,F,,,latino hispanic
-613,Dwayne,JOHNSON.DWAYNE,M,,130,black
-454,Simone,JOHNSON.DWAYNE,F,613,1069,latino hispanic
-680,Kendall (sister),Jenner.Kylie,F,,,white
-1036,Kylie,Jenner.Kylie,F,,,latino hispanic
-135,Kris (mother),Jenner.Kylie,F,,,asian
-791,Bruce (father),Jenner.Kylie,M,,,white
-518,Reese,KASICH.JOHN,F,688,568,white
-519,Emma,KASICH.JOHN,F,688,568,white
+613,Dwayne,JOHNSON.DWAYNE,M,,130.0,black
+454,Simone,JOHNSON.DWAYNE,F,613.0,1069.0,latino hispanic
+518,Reese,KASICH.JOHN,F,688.0,568.0,white
+519,Emma,KASICH.JOHN,F,688.0,568.0,white
 568,Karen,KASICH.JOHN,F,,,white
 688,John,KASICH.JOHN,M,,,white
-491,Kate,KATE.MOSS,F,,,white
-504,Lila Grace,KATE.MOSS,F,,491,white
-528,Svetlana Medvedeva,KING.JUAN.CARLOS.I,F,,,latino hispanic
-319,Sofia (infant),KING.JUAN.CARLOS.I,F,986,720,white
+319,Sofia (infant),KING.JUAN.CARLOS.I,F,986.0,720.0,white
 550,Sofia,KING.JUAN.CARLOS.I,F,,,white
-321,Leonor,KING.JUAN.CARLOS.I,F,986,720,white
+321,Leonor,KING.JUAN.CARLOS.I,F,986.0,720.0,white
 943,Juan Carlos,KING.JUAN.CARLOS.I,M,,,middle eastern
 720,Letizia Ortiz,KING.JUAN.CARLOS.I,F,,,white
-485,Elena,KING.JUAN.CARLOS.I,F,943,550,white
-486,Cristina,KING.JUAN.CARLOS.I,F,943,550,white
-986,Felipe Vi,KING.JUAN.CARLOS.I,M,943,550,latino hispanic
-542,Dmitry Medvedev,KING.JUAN.CARLOS.I,M,,,white
-356,Dexter,KING.MARTIN.LUTHER,M,184,125,latino hispanic
-185,Mlk Iii,KING.MARTIN.LUTHER,M,184,125,black
-184,Mlk Jr.,KING.MARTIN.LUTHER,M,123,181,black
+485,Elena,KING.JUAN.CARLOS.I,F,943.0,550.0,white
+486,Cristina,KING.JUAN.CARLOS.I,F,943.0,550.0,white
+986,Felipe Vi,KING.JUAN.CARLOS.I,M,943.0,550.0,latino hispanic
+356,Dexter,KING.MARTIN.LUTHER,M,184.0,125.0,latino hispanic
+185,Mlk Iii,KING.MARTIN.LUTHER,M,184.0,125.0,black
+184,Mlk Jr.,KING.MARTIN.LUTHER,M,123.0,181.0,black
 123,Mlk Sr.,KING.MARTIN.LUTHER,M,,,black
-115,Bernice,KING.MARTIN.LUTHER,F,184,125,black
-119,Alveda,KING.MARTIN.LUTHER,F,,,black
+115,Bernice,KING.MARTIN.LUTHER,F,184.0,125.0,black
 181,Alberta,KING.MARTIN.LUTHER,F,,,latino hispanic
-121,Yolanda,KING.MARTIN.LUTHER,F,184,125,asian
+121,Yolanda,KING.MARTIN.LUTHER,F,184.0,125.0,asian
 125,Coretta,KING.MARTIN.LUTHER,F,,,latino hispanic
-169,Johan,KLUM-SAMUEL,M,281,326,black
-170,Henry,KLUM-SAMUEL,M,281,326,indian
-239,Leni,KLUM-SAMUEL,F,,326,white
+169,Johan,KLUM-SAMUEL,M,281.0,326.0,black
+170,Henry,KLUM-SAMUEL,M,281.0,326.0,indian
 326,Heidi,KLUM-SAMUEL,F,,,white
-179,Lou,KLUM-SAMUEL,F,281,326,black
+179,Lou,KLUM-SAMUEL,F,281.0,326.0,black
 281,Seal,KLUM-SAMUEL,M,,,black
-27,Phil Knight,KNIGHT.PHIL,M,,,white
 386,Sharman,KNIGHTLEY.KEIRA,F,,,white
 51,Will,KNIGHTLEY.KEIRA,M,,,white
-563,Keira,KNIGHTLEY.KEIRA,F,51,386,white
-903,Caleb,KNIGHTLEY.KEIRA,M,51,386,white
-33,William Koch,KOCH.FRED,M,,,white
-34,David Koch,KOCH.FRED,M,,,white
-823,Fred Koch,KOCH.FRED,M,,,white
-47,Charles Koch,KOCH.FRED,M,,,middle eastern
-1096,Wyatt (son),Kurt.Russell,F,,,white
+563,Keira,KNIGHTLEY.KEIRA,F,51.0,386.0,white
+903,Caleb,KNIGHTLEY.KEIRA,M,51.0,386.0,white
 408,Goldie Hawn (mother),Kurt.Russell,M,,,white
-749,Kurt,Kurt.Russell,M,,,white
-536,Julian,LENNON.JOHN,M,534,344,white
+536,Julian,LENNON.JOHN,M,534.0,344.0,white
 534,John,LENNON.JOHN,M,,,white
-969,Sean,LENNON.JOHN,M,534,552,white
+969,Sean,LENNON.JOHN,M,534.0,552.0,white
 344,Cynthia,LENNON.JOHN,F,,,white
 552,Yoko,LENNON.JOHN,F,,,asian
-11,Charles,LINDBERGH.CHARLES,M,698,,white
-167,Lucy Liu,LIU.LUCY,F,,137,asian
-738,John,LIU.LUCY,M,,137,asian
-137,Cecilia,LIU.LUCY,F,,,asian
-930,Ali,LOHAN.LINDSAY,F,539,459,white
-802,Cody,LOHAN.LINDSAY,M,539,459,white
-1113,Michael Jr.,LOHAN.LINDSAY,M,539,459,white
+930,Ali,LOHAN.LINDSAY,F,539.0,459.0,white
+802,Cody,LOHAN.LINDSAY,M,539.0,459.0,white
+1113,Michael Jr.,LOHAN.LINDSAY,M,539.0,459.0,white
 539,Michael Lohan,LOHAN.LINDSAY,M,,,white
 459,Dina Lohan,LOHAN.LINDSAY,F,,,white
-456,Lohan Lindsay,LOHAN.LINDSAY,F,539,459,white
-619,Satchel,Lee.Spike,F,156,618,black
-157,Jackson,Lee.Spike,M,156,618,black
+456,Lohan Lindsay,LOHAN.LINDSAY,F,539.0,459.0,white
+619,Satchel,Lee.Spike,F,156.0,618.0,black
+157,Jackson,Lee.Spike,M,156.0,618.0,black
 156,Spike,Lee.Spike,M,,,black
 618,Tonya,Lee.Spike,F,,,black
 1004,Marcio,Leitte.Claudia,M,,,white
-222,Davi,Leitte.Claudia,M,1004,816,white
+222,Davi,Leitte.Claudia,M,1004.0,816.0,white
 59,Claudio,Leitte.Claudia,M,,,white
-208,Rafael,Leitte.Claudia,M,1004,816,white
-816,Claudia,Leitte.Claudia,F,59,413,white
+208,Rafael,Leitte.Claudia,M,1004.0,816.0,white
+816,Claudia,Leitte.Claudia,F,59.0,413.0,white
 413,Ilna,Leitte.Claudia,F,,,white
-420,Pam (mother),Logan Paul,F,,,white
-933,Logan (son),Logan Paul,M,,,white
-935,Jake (son),Logan Paul,M,,,white
-22,Greg (father),Logan Paul,M,,,white
-351,Jill,MA.YO-YO,F,,,latino hispanic
-793,Yo-yo,MA.YO-YO,M,,,asian
-229,Kaito,MACHIDA.LYOTO,M,,812,asian
-812,Fabyola,MACHIDA.LYOTO,F,,,white
-259,Taiyo,MACHIDA.LYOTO,M,,812,latino hispanic
 887,Pasquale,MADISON.HOLLY,M,,,white
-220,Rainbow,MADISON.HOLLY,F,887,1099,white
+220,Rainbow,MADISON.HOLLY,F,887.0,1099.0,white
 1099,Holly,MADISON.HOLLY,F,,,white
 880,Guy,MADONNA,M,,,white
 494,Madonna,MADONNA,F,,,white
-479,Rocco,MADONNA,M,880,494,white
-596,Lourdes Leon,MADONNA,F,1009,494,latino hispanic
-68,Archie,MANNING.PEYTON,M,,,white
-1104,Eli,MANNING.PEYTON,M,68,,white
+479,Rocco,MADONNA,M,880.0,494.0,white
+596,Lourdes Leon,MADONNA,F,1009.0,494.0,latino hispanic
 508,Ashley,MANNING.PEYTON,F,,,white
-1025,Peyton,MANNING.PEYTON,M,68,,white
-225,Marshall,MANNING.PEYTON,M,1025,508,white
+1025,Peyton,MANNING.PEYTON,M,68.0,,white
+225,Marshall,MANNING.PEYTON,M,1025.0,508.0,white
 139,Vilma,MANZANO.LUIS,F,,,asian
-1101,Luis,MANZANO.LUIS,M,960,139,white
+1101,Luis,MANZANO.LUIS,M,960.0,139.0,white
 960,Luis,MANZANO.LUIS,M,,,white
-648,Kathleen,MARA.ROONEY,F,,,white
-285,Kate,MARA.ROONEY,F,,648,white
-1068,Rooney,MARA.ROONEY,F,,648,white
 717,Ellen,MARANO.LAURA&VANESSA,F,,,white
-483,Vanessa,MARANO.LAURA&VANESSA,F,549,717,white
+483,Vanessa,MARANO.LAURA&VANESSA,F,549.0,717.0,white
 549,Damiano,MARANO.LAURA&VANESSA,M,,,white
-448,Laura,MARANO.LAURA&VANESSA,F,549,717,white
+448,Laura,MARANO.LAURA&VANESSA,F,549.0,717.0,white
 1076,W,MESSI.LIONEL,F,,,white
-469,S1,MESSI.LIONEL,M,1040,1076,white
-992,F,MESSI.LIONEL,M,,,white
-1114,B2,MESSI.LIONEL,M,992,,white
-350,Sis,MESSI.LIONEL,F,992,,white
-1040,Lionel,MESSI.LIONEL,M,992,,white
-913,B1,MESSI.LIONEL,M,992,,white
-636,Ariel,MEYERS.SETH,F,,,white
-606,Seth,MEYERS.SETH,M,,,white
-775,W,MEYERS.SETH,F,,,white
-934,Josh,MEYERS.SETH,M,,,white
-767,Lars,MIKKELSEN.MADS,M,,,white
-1054,Carl,MIKKELSEN.MADS,M,80,1073,white
-1058,Viola,MIKKELSEN.MADS,F,80,1073,white
+469,S1,MESSI.LIONEL,M,1040.0,1076.0,white
+1040,Lionel,MESSI.LIONEL,M,992.0,,white
+1054,Carl,MIKKELSEN.MADS,M,80.0,1073.0,white
+1058,Viola,MIKKELSEN.MADS,F,80.0,1073.0,white
 80,Mads,MIKKELSEN.MADS,M,,,white
 1073,Hanne,MIKKELSEN.MADS,F,,,white
 893,Tom,MILLER.SIENNA,M,,,white
 474,Siena,MILLER.SIENNA,F,,,white
-268,Marlowe,MILLER.SIENNA,F,893,474,white
+268,Marlowe,MILLER.SIENNA,F,893.0,474.0,white
 1108,William Murray,MURRAY.ANDY,M,,,white
-757,Andy Murray,MURRAY.ANDY,M,1108,421,white
-756,James,MURRAY.ANDY,M,1108,421,white
+757,Andy Murray,MURRAY.ANDY,M,1108.0,421.0,white
+756,James,MURRAY.ANDY,M,1108.0,421.0,white
 421,Judy,MURRAY.ANDY,F,,,white
-635,Talulah,MUSK.ELON,F,,,white
-753,Justine,MUSK.ELON,F,,,white
-1029,Elon,MUSK.ELON,M,,,white
 982,Macdowell Andie,McDowell.Andie,F,,,white
-916,Rainey Qualley,McDowell.Andie,F,629,982,white
-918,Sarah,McDowell.Andie,F,,982,white
+916,Rainey Qualley,McDowell.Andie,F,629.0,982.0,white
 66,Brian,Miller.Brian,M,,,white
-926,Sadie,Miller.Brian,F,66,901,white
+926,Sadie,Miller.Brian,F,66.0,901.0,white
 901,Elizabeth,Miller.Brian,F,,,white
 1043,Besnik,ORA.RITA,M,,,white
 870,Vera,ORA.RITA,F,,,latino hispanic
-760,Elena,ORA.RITA,F,1043,870,white
-666,Rita,ORA.RITA,F,1043,870,asian
-799,Don,ORA.RITA,M,1043,870,white
-100,Malia (daughter),Obama.Barack,F,611,103,black
-102,Sasha (daughter),Obama.Barack,F,,,black
+760,Elena,ORA.RITA,F,1043.0,870.0,white
+666,Rita,ORA.RITA,F,1043.0,870.0,asian
+799,Don,ORA.RITA,M,1043.0,870.0,white
+100,Malia (daughter),Obama.Barack,F,611.0,103.0,black
 103,Michelle (wife),Obama.Barack,F,,,black
 611,Barack Obama,Obama.Barack,M,,,black
-789,Aimee (daughter,Osbourne.Ozzy,F,,,white
 399,Sharon Osbourne,Osbourne.Ozzy,F,,,white
-317,Jack (son),Osbourne.Ozzy,M,,,white
 287,Ozzy Osbourne,Osbourne.Ozzy,M,,,white
-463,Kelly (daughter),Osbourne.Ozzy,F,287,399,white
-741,Stefan,PERSSON.STEFAN,M,,,white
-395,Denise,PERSSON.STEFAN,F,,,white
-924,James,PHELP.JAMES&OLIVER,M,,,white
-923,Oliver,PHELP.JAMES&OLIVER,M,,,white
-706,Angelina Jolie,PITT-JOLIE,F,62,715,white
-236,Knox,PITT-JOLIE,M,572,706,white
-234,Shiloh,PITT-JOLIE,F,572,706,white
-572,Brad Pitt,PITT-JOLIE,M,748,346,latino hispanic
+463,Kelly (daughter),Osbourne.Ozzy,F,287.0,399.0,white
+706,Angelina Jolie,PITT-JOLIE,F,62.0,715.0,white
+236,Knox,PITT-JOLIE,M,572.0,706.0,white
+234,Shiloh,PITT-JOLIE,F,572.0,706.0,white
+572,Brad Pitt,PITT-JOLIE,M,748.0,346.0,latino hispanic
 346,Jane Etta,PITT-JOLIE,M,,,white
-577,Doug,PITT-JOLIE,M,346,,white
-252,Vivienne,PITT-JOLIE,F,572,706,white
+252,Vivienne,PITT-JOLIE,F,572.0,706.0,white
 62,Jon Voight,PITT-JOLIE,M,,,white
-776,Ellen,POMPEO.ELLEN,F,,,white
-796,Chris,POMPEO.ELLEN,M,,,black
 53,Avner,PORTMAN.NATALIE,M,,,white
 954,Shelley,PORTMAN.NATALIE,F,,,white
 967,Ben,PORTMAN.NATALIE,M,,,middle eastern
-209,Aleph,PORTMAN.NATALIE,M,967,562,white
-562,Natalie,PORTMAN.NATALIE,F,53,954,white
+209,Aleph,PORTMAN.NATALIE,M,967.0,562.0,white
+562,Natalie,PORTMAN.NATALIE,F,53.0,954.0,white
 183,Kannika,PULVER.JENS,F,,,black
 904,Jens,PULVER.JENS,M,,,white
-258,Karson,PULVER.JENS,M,904,183,asian
-851,Jonah (brother),Platt.Ben,M,,,white
-852,Ben,Platt.Ben,M,,,white
-605,Marc (father),Platt.Ben,M,,,white
-842,Julie (mother),Platt.Ben,F,,,white
-513,Yekaterina,Putin.Vladimir,F,862,1032,white
+258,Karson,PULVER.JENS,M,904.0,183.0,asian
+513,Yekaterina,Putin.Vladimir,F,862.0,1032.0,white
 1032,Lyudmila,Putin.Vladimir,F,,,white
 862,Putin,Putin.Vladimir,M,,,white
-704,Mariya,Putin.Vladimir,F,862,1032,white
+704,Mariya,Putin.Vladimir,F,862.0,1032.0,white
 369,Rivers Joan,RIVERS.JOAN,F,,,white
-367,Melissa Rivers,RIVERS.JOAN,F,599,369,white
-599,Edgar Rosenberg,RIVERS.JOAN,M,,367,white
+367,Melissa Rivers,RIVERS.JOAN,F,599.0,369.0,white
+599,Edgar Rosenberg,RIVERS.JOAN,M,,367.0,white
 1023,Arjen,ROBBEN.ARJEN,M,,,white
-221,Kai,ROBBEN.ARJEN,M,1023,1030,white
+221,Kai,ROBBEN.ARJEN,M,1023.0,1030.0,white
 1030,Bernadien,ROBBEN.ARJEN,F,,,white
-218,Lynn,ROBBEN.ARJEN,F,1023,1030,white
-210,Luka,ROBBEN.ARJEN,M,1023,1030,white
-379,Betty,ROBERTS.JULIA,F,,,white
-263,Phinnaeus,ROBERTS.JULIA,M,,811,white
-705,Emma,ROBERTS.JULIA,F,697,,white
-697,Eric,ROBERTS.JULIA,M,,379,white
-811,Julia,ROBERTS.JULIA,F,,379,white
-238,Hazel,ROBERTS.JULIA,F,,,white
-94,Zahra,ROCK.CHRIS,F,85,136,black
+218,Lynn,ROBBEN.ARJEN,F,1023.0,1030.0,white
+210,Luka,ROBBEN.ARJEN,M,1023.0,1030.0,white
+94,Zahra,ROCK.CHRIS,F,85.0,136.0,black
 85,Chris,ROCK.CHRIS,M,,,black
-193,Tony,ROCK.CHRIS,M,,,black
 136,Malaak,ROCK.CHRIS,F,,,black
 349,Julie,RUDD.PAUL,F,,,white
-366,Jack,RUDD.PAUL,M,,,white
 976,Paul,RUDD.PAUL,M,,,white
-240,Darby,RUDD.PAUL,F,976,349,white
-96,Violet,Ripken.Cal,F,,,black
-126,Rachel,Ripken.Cal,F,200,,black
-200,Cal,Ripken.Cal,M,,96,black
-93,Bill,Ripken.Cal,M,,96,black
-1086,Maya,Rudolph.Maya,F,584,133,white
-1115,Paul,Rudolph.Maya,M,,,white
-133,Minnie Sr.,Rudolph.Maya,F,,,latino hispanic
+240,Darby,RUDD.PAUL,F,976.0,349.0,white
 906,Johnathan,SACCONE-JOLY.ANNA,M,,,white
 1017,Jolyanna,SACCONE-JOLY.ANNA,F,,,white
-213,Eduardo,SACCONE-JOLY.ANNA,M,906,1017,asian
-214,Emilia,SACCONE-JOLY.ANNA,F,906,1017,asian
-942,J.d,SALINGER..J.D,M,,,middle eastern
-264,Ella,SANDERS.BERNIE,F,1048,,white
-354,Jane,SANDERS.BERNIE,F,,,white
-41,Bernie,SANDERS.BERNIE,M,,,asian
-1048,Levi,SANDERS.BERNIE,M,41,,white
-556,Larry,SANDERS.BERNIE,M,,,asian
-253,Dylan,SANDERS.BERNIE,M,1048,,white
+213,Eduardo,SACCONE-JOLY.ANNA,M,906.0,1017.0,asian
+214,Emilia,SACCONE-JOLY.ANNA,F,906.0,1017.0,asian
 1085,Jackie,SANDLER.ADAM,F,,,white
 1049,Adam,SANDLER.ADAM,M,,,white
-358,Sunny,SANDLER.ADAM,F,1049,1085,white
-359,Sadie,SANDLER.ADAM,F,1049,1085,white
-424,Maria,SCHAEFFLER.GEORG,F,,,white
-1075,Georg,SCHAEFFLER.GEORG,M,,424,white
-376,Joan,SCHRIVER.EUNICE,F,,,white
-897,Sargent,SCHRIVER.EUNICE,M,,,middle eastern
-533,Ethel,SCHRIVER.EUNICE,F,,,latino hispanic
-461,Gina Maria Schumacher,SCHUMACHER.MICHAEL,F,729,525,white
+358,Sunny,SANDLER.ADAM,F,1049.0,1085.0,white
+359,Sadie,SANDLER.ADAM,F,1049.0,1085.0,white
+461,Gina Maria Schumacher,SCHUMACHER.MICHAEL,F,729.0,525.0,white
 729,Schumacher Michael,SCHUMACHER.MICHAEL,M,,,white
-732,Mick,SCHUMACHER.MICHAEL,M,729,525,white
+732,Mick,SCHUMACHER.MICHAEL,M,729.0,525.0,white
 525,Corinna Betsch,SCHUMACHER.MICHAEL,F,,,white
 565,Jaclyn,SMITH.JACLYN,F,,,white
 659,Anthony,SMITH.JACLYN,M,,,white
-425,Margaret,SMITH.JACLYN,F,659,565,white
+425,Margaret,SMITH.JACLYN,F,659.0,565.0,white
 338,Maggie,SMITH.MAGGIE,F,,,white
 571,Robert,SMITH.MAGGIE,M,,,middle eastern
-19,Chris,SMITH.MAGGIE,M,571,338,white
-764,Toby Stephen,SMITH.MAGGIE,M,571,338,white
-953,Laura,SMITH.MATT,F,,,white
-1014,Matt,SMITH.MATT,M,,,white
-610,Fivel,STEWART.BOOBOO,F,938,,asian
-739,Booboo,STEWART.BOOBOO,M,938,,asian
-938,Nils Allen,STEWART.BOOBOO,M,,,middle eastern
-1020,Nathan,STEWART.JON,M,601,774,white
+19,Chris,SMITH.MAGGIE,M,571.0,338.0,white
+764,Toby Stephen,SMITH.MAGGIE,M,571.0,338.0,white
+1020,Nathan,STEWART.JON,M,601.0,774.0,white
 601,Jon,STEWART.JON,M,,,white
 774,Tracey,STEWART.JON,F,,,white
 341,Jehan,Sadat.Anwar,F,,,white
-657,Camelia,Sadat.Anwar,F,83,341,black
+657,Camelia,Sadat.Anwar,F,83.0,341.0,black
 83,Anwar,Sadat.Anwar,M,,,latino hispanic
-719,Marcelo,Sangalo.Ivete,M,865,724,white
+719,Marcelo,Sangalo.Ivete,M,865.0,724.0,white
 724,Ivete,Sangalo.Ivete,F,,,white
 865,Daniel,Sangalo.Ivete,M,,,latino hispanic
-679,Patricia,Santos.Silvio,F,1105,362,white
+679,Patricia,Santos.Silvio,F,1105.0,362.0,white
 362,Iris,Santos.Silvio,F,,,white
-440,Daniela,Santos.Silvio,F,1105,362,white
+440,Daniela,Santos.Silvio,F,1105.0,362.0,white
 1105,Silvio,Santos.Silvio,M,,,latino hispanic
-471,Renata,Santos.Silvio,F,1105,362,white
-472,Rebeca,Santos.Silvio,F,1105,362,white
-154,Jaden (son),Smith.Will,M,158,90,black
-158,Will Smith,Smith.Will,M,192,124,black
+471,Renata,Santos.Silvio,F,1105.0,362.0,white
+472,Rebeca,Santos.Silvio,F,1105.0,362.0,white
+154,Jaden (son),Smith.Will,M,158.0,90.0,black
+158,Will Smith,Smith.Will,M,192.0,124.0,black
 90,Jada Pinkett Smith,Smith.Will,F,,,black
-109,Willow (daughter),Smith.Will,F,158,90,black
-305,Levon,THURMAN.UMA,M,625,488,white
+109,Willow (daughter),Smith.Will,F,158.0,90.0,black
+305,Levon,THURMAN.UMA,M,625.0,488.0,white
 46,Rob,THURMAN.UMA,M,,,white
-488,Uma Thurman,THURMAN.UMA,F,46,342,white
+488,Uma Thurman,THURMAN.UMA,F,46.0,342.0,white
 342,Nena,THURMAN.UMA,F,,,white
-639,Dechen,THURMAN.UMA,M,46,342,white
-702,Maya,THURMAN.UMA,F,625,488,white
-686,Nipam,THURMAN.UMA,M,46,342,white
+639,Dechen,THURMAN.UMA,M,46.0,342.0,white
+702,Maya,THURMAN.UMA,F,625.0,488.0,white
+686,Nipam,THURMAN.UMA,M,46.0,342.0,white
 625,Ethan Hawke,THURMAN.UMA,M,,,white
-467,Meghan Trainor,TRAINOR.MEGHAN,F,58,,white
-830,Justin Trainor,TRAINOR.MEGHAN,M,,,white
-58,Gary Trainor,TRAINOR.MEGHAN,M,,,white
-853,Jett,TRAVOLTA.JOHN,M,965,566,white
-955,Ella,TRAVOLTA.JOHN,F,965,566,white
+853,Jett,TRAVOLTA.JOHN,M,965.0,566.0,white
+955,Ella,TRAVOLTA.JOHN,F,965.0,566.0,white
 965,John,TRAVOLTA.JOHN,M,,,white
 566,Kelly,TRAVOLTA.JOHN,F,,,white
-256,Benjamin,TRAVOLTA.JOHN,M,965,566,white
-664,Lottie (half Sister),Tomilson.Louis,F,,,latino hispanic
-233,Daisy (half Sister),Tomilson.Louis,F,,,white
-665,Felicite (half Sister),Tomilson.Louis,F,,,white
-212,Freddie (son),Tomilson.Louis,M,,,white
-570,Troy (father),Tomilson.Louis,M,,,white
-232,Phoebe (half Sister),Tomilson.Louis,F,,,white
-1034,Louis,Tomilson.Louis,M,,,white
-557,Johannah (mother),Tomilson.Louis,F,,,latino hispanic
-243,Ella,WAHLBERG.MARK,F,581,710,white
-244,Michael,WAHLBERG.MARK,M,581,710,white
+256,Benjamin,TRAVOLTA.JOHN,M,965.0,566.0,white
+243,Ella,WAHLBERG.MARK,F,581.0,710.0,white
+244,Michael,WAHLBERG.MARK,M,581.0,710.0,white
 710,Rhea,WAHLBERG.MARK,F,,,white
 581,Wahlberg Mark,WAHLBERG.MARK,M,,,white
-265,Maisie,WALTERS.JULIE,F,1019,422,asian
-422,Julie,WALTERS.JULIE,F,,,white
-794,Jigme Singye,WANGCHUCK.JIGME.KHESAR.NAMGYEL,M,,878,asian
-878,Kesang Choeden,WANGCHUCK.JIGME.KHESAR.NAMGYEL,F,,,asian
-879,Jetsun Pema,WANGCHUCK.JIGME.KHESAR.NAMGYEL,F,,,asian
-795,Jigme Khesar,WANGCHUCK.JIGME.KHESAR.NAMGYEL,M,794,,asian
-482,Emma Watson,WATSON.EMMA,F,72,649,white
-307,Alex Watson (brother Of Emma),WATSON.EMMA,M,,,white
-72,Chris Watson,WATSON.EMMA,M,,,white
-821,Woodrow,WILSON.WOODROW,M,822,,white
-783,Amy,WINEHOUSE.AMY,F,1091,929,white
-968,Alex,WINEHOUSE.AMY,M,1091,929,white
+783,Amy,WINEHOUSE.AMY,F,1091.0,929.0,white
+968,Alex,WINEHOUSE.AMY,M,1091.0,929.0,white
 1091,Mitch,WINEHOUSE.AMY,M,,,middle eastern
 929,Janis,WINEHOUSE.AMY,F,,,white
-129,Chrishaunda,WINFREY.OPRAH,F,,113,black
-292,Stedman,WINFREY.OPRAH,M,,,latino hispanic
-116,Ophrah,WINFREY.OPRAH,F,190,112,black
-113,Patricia,WINFREY.OPRAH,F,190,112,asian
-120,Barbara,WINFREY.OPRAH,F,,,latino hispanic
-112,Vernita,WINFREY.OPRAH,F,,,black
-282,Vanna,White.Vanna,F,,,white
-856,Nicholas,White.Vanna,M,1117,282,white
-445,Yuexuan,Zhang.Liang,M,1088,,asian
-1088,Liang,Zhang.Liang,M,,,asian
 900,Rodger,Zoe.Rachel,M,,,white
-230,Kaius,Zoe.Rachel,M,900,815,white
+230,Kaius,Zoe.Rachel,M,900.0,815.0,white
 815,Rachel,Zoe.Rachel,F,,,white
-231,Skyler,Zoe.Rachel,F,900,815,latino hispanic
-1,Sofia Coppola,,F,772,385,white
+231,Skyler,Zoe.Rachel,F,900.0,815.0,latino hispanic
+1,Sofia Coppola,,F,772.0,385.0,white
 4,Michael Sheen,,M,,,white
 13,Richard Hilton,,M,,,white
-14,David Armstrong Jones 2nd Earl Of Snowdon,,M,15,608,white
+14,David Armstrong Jones 2nd Earl Of Snowdon,,M,15.0,608.0,white
 15,Antony Armstrong Jones 1st Earl Of Snowdon,,M,,,white
-16,Craig Hemsworth,,M,,,white
 21,Kevin Smith,,M,,,white
-23,Branson Richard,,M,,,white
 42,Arnold Schwarzenegger,,M,,,white
 50,Timothy Carlton,,M,,,white
-52,Edward De Wessex,,M,,,white
 57,Philippe De Belgique,,M,,,white
 60,Franco Amurri,,M,,,white
 61,Bill Clinton,,M,,,white
-64,Donald Trump,,M,,,asian
 67,Don Gummer,,M,,,white
 71,Bruce Willis,,M,,,white
 82,Suresh Oberoi,,M,,,latino hispanic
 84,Kenny Anderson,,M,,,black
-97,Reginae Carter,,F,,,black
-106,Jazz Anderson,,F,84,107,black
+106,Jazz Anderson,,F,84.0,107.0,black
 107,Tami Roman,,F,,,black
 124,Caroline Bright,,F,,,black
-146,Peng Liyuan,,F,,,asian
 151,Clifford Joseph Harris Jr,,M,,,black
-153,Messiah Ya Majesty Harris,,M,151,197,black
+153,Messiah Ya Majesty Harris,,M,151.0,197.0,black
 168,Kris Jenner,,F,,,white
 182,Pamela Chopra,,F,,,latino hispanic
 192,Willard Carroll Smith Sr,,M,,,black
 197,Lashon Dixon,,F,,,black
-202,Tallulah Belle Willis,,F,71,426,white
-204,Julia Restoin Roitfeld,,F,637,289,white
-205,Luke Hudson Gavigan,,M,641,672,white
-224,Collin Thomas Gosselin,,M,737,807,white
-255,Ella Stiller,,F,,,white
+202,Tallulah Belle Willis,,F,71.0,426.0,white
+204,Julia Restoin Roitfeld,,F,637.0,289.0,white
+205,Luke Hudson Gavigan,,M,641.0,672.0,white
+224,Collin Thomas Gosselin,,M,737.0,807.0,white
 277,Sasha Czack,,F,,,white
 278,Lori Loughlin,,F,,,white
 289,Carine Roitfeld,,F,,,white
-295,Shanaya Kapoor,,F,559,1044,white
-302,Quincy Jones,,M,,,black
+295,Shanaya Kapoor,,F,559.0,1044.0,white
 310,Sheree Zampino,,F,,,latino hispanic
-316,Coco Arquette,,F,915,427,white
+316,Coco Arquette,,F,915.0,427.0,white
 334,Susan Sarandon,,F,,,white
-348,Eva Amurri,,F,60,334,white
+348,Eva Amurri,,F,60.0,334.0,white
 353,Nancy Carlsson Paige,,F,,,white
 355,Shahrukh Khan,,M,,,latino hispanic
 360,Marilyn Wilson,,F,,,white
@@ -627,181 +417,138 @@ pid,name,family_name,sex,father_pid,mother_pid,race
 389,Neetu Singh,,F,,,latino hispanic
 390,Surekha Konidela,,F,,,latino hispanic
 391,Karuna Dhawan,,F,,,latino hispanic
-394,Jacelyn Reeves,,F,,,white
-402,Melanie Griffith,,F,,,white
 407,Heather Locklear,,F,,,white
 414,Anette Qviberg,,F,,,latino hispanic
-415,Louise Mountbatten Windsor,,F,52,,white
-418,Alexandra Lamy,,F,,,white
 426,Demi Moore,,F,,,white
 427,Courteney Cox,,F,,,white
 428,Priscilla Presley,,F,,,white
 429,Maria Shriver,,F,,,white
-433,Sarah Ferguson,,F,,,white
 475,Rakesh Roshan,,M,,,latino hispanic
-476,Hrithik Roshan,,M,475,388,middle eastern
+476,Hrithik Roshan,,M,475.0,388.0,middle eastern
 497,Jerry Hall,,F,,,white
-501,Elle King,,F,874,,white
-502,Robin Wright,,F,,,white
-506,Ava Elizabeth Sambora,,F,883,407,white
-507,Wendy Wilson,,F,687,360,white
+506,Ava Elizabeth Sambora,,F,883.0,407.0,white
+507,Wendy Wilson,,F,687.0,360.0,white
 510,Wanda Ventham,,F,,,white
-511,Lucy Julia Rogers Ciaffa,,F,620,714,white
-512,Elisabeth De Belgique,,F,57,777,white
+512,Elisabeth De Belgique,,F,57.0,777.0,white
 515,Chiranjeevi,,M,,,indian
 516,Rajesh Khattar,,M,,,indian
-517,Chunky Pandey,,M,,,white
 520,Hillary Clinton,,F,,,white
-523,Hailie Jade Scott,,F,765,876,white
+523,Hailie Jade Scott,,F,765.0,876.0,white
 532,Kathy Hilton,,F,,,white
 538,Grace Mcneil,,F,,,white
 543,Jackie Shroff,,M,,,indian
-544,Ajay Devgan,,M,,,indian
-545,Tiger Shroff,,M,543,1111,middle eastern
+545,Tiger Shroff,,M,543.0,1111.0,middle eastern
 546,Pankaj Kapur,,M,,,white
-551,Jefferson Hack,,M,,,white
 558,Cynthia Germanotta,,F,,,white
 559,Sanjay Kapoor,,M,,,white
-564,Leslie Mann,,F,,,white
 567,Nicola Elizabeth Frost,,F,,,white
 569,Paige Dylan,,F,,,white
 576,Rob Lowe,,M,,,white
-579,Matt Damon,,M,894,353,white
-580,Leonardo Dicaprio,,M,1055,383,latino hispanic
-583,Christian Bale,,M,980,,white
+579,Matt Damon,,M,894.0,353.0,white
+580,Leonardo Dicaprio,,M,1055.0,383.0,latino hispanic
 587,Meryl Streep,,F,,,white
-588,Grace Gummer,,F,67,587,white
-593,Tom Hanks,,M,,,asian
-598,Sistine Rose Stallone,,F,940,1056,white
-607,Nysa Devgan,,F,544,,latino hispanic
+588,Grace Gummer,,F,67.0,587.0,white
+598,Sistine Rose Stallone,,F,940.0,1056.0,white
 608,Princess Margaret Countess Of Snowdon,,F,,,white
-609,Chelsea Clinton,,F,61,520,white
+609,Chelsea Clinton,,F,61.0,520.0,white
 617,Paul Gascoigne,,M,,,white
-623,Sage Stallone,,M,940,277,white
-624,Tom Cruise,,M,,,white
-627,Benedict Cumberbatch,,M,50,510,white
+623,Sage Stallone,,M,940.0,277.0,white
+627,Benedict Cumberbatch,,M,50.0,510.0,white
 629,Paul Qualley,,M,,,white
 630,Rande Gerber,,M,,,white
 631,Rajesh Khanna,,M,,,indian
-634,Alexandra De Luxembourg,,F,,1050,white
 637,Christian Restoin,,M,,,white
-643,Vivek Oberoi,,M,82,674,middle eastern
-644,Lisa Marie Presley,,F,907,428,white
+643,Vivek Oberoi,,M,82.0,674.0,middle eastern
+644,Lisa Marie Presley,,F,907.0,428.0,white
 645,Nathalie Baye,,F,,,white
-655,Rita Wilson,,F,,,white
 656,Sheryl Berkoff,,F,,,white
 660,Jennifer Schwalbach Smith,,F,,,latino hispanic
-663,Harley Quinn Smith,,F,21,660,white
-668,Ava Elizabeth Phillippe,,F,1053,684,white
-670,Kate Hudson,,F,1090,408,white
+663,Harley Quinn Smith,,F,21.0,660.0,white
+668,Ava Elizabeth Phillippe,,F,1053.0,684.0,white
+670,Kate Hudson,,F,1090.0,408.0,white
 674,Yashodhara Oberoi,,F,,,black
-678,Kim Kardashian,,F,962,168,latino hispanic
-681,Olivia Jade Giannulli,,F,1011,278,white
+678,Kim Kardashian,,F,962.0,168.0,latino hispanic
+681,Olivia Jade Giannulli,,F,1011.0,278.0,white
 684,Reese Witherspoon,,F,,,white
 687,Brian Wilson,,M,,,white
 690,Nishi Mukesh,,F,,,white
-693,Sara Ali Khan,,F,956,694,latino hispanic
+693,Sara Ali Khan,,F,956.0,694.0,latino hispanic
 694,Amrita Singh,,F,,,latino hispanic
-696,Kaia Gerber,,F,630,722,white
-700,Ida Lundgren,,F,1012,414,white
-701,Miley Cyrus,,F,886,909,white
-712,Allison Williams,,F,895,,white
-714,Mimi Rogers,,F,,,white
+696,Kaia Gerber,,F,630.0,722.0,white
+700,Ida Lundgren,,F,1012.0,414.0,white
+701,Miley Cyrus,,F,886.0,909.0,white
 715,Marcheline Bertrand,,F,,,white
 722,Cindy Crawford,,F,,,white
-726,Twinkle Khanna,,F,631,1093,white
-727,Thomas Jouannet,,M,,,white
-728,Billie Lourd,,F,,949,white
+726,Twinkle Khanna,,F,631.0,1093.0,white
 737,Jon Gosselin,,M,,,asian
-740,Trey Smith,,M,158,310,black
+740,Trey Smith,,M,158.0,310.0,black
 747,Dominic Holland,,M,,,white
 748,William Alvin Pitt,,M,,,white
-754,Lady Gaga,,F,848,558,white
-758,Ishaan Khattar,,M,516,380,white
-761,Francesca Fisher Eastwood,,F,28,361,white
+754,Lady Gaga,,F,848.0,558.0,white
+758,Ishaan Khattar,,M,516.0,380.0,white
+761,Francesca Fisher Eastwood,,F,28.0,361.0,white
 765,Eminem,,M,,,white
 771,August Coppola,,M,,,white
 772,Francis Ford Coppola,,M,,,white
 777,Mathilde D'udekem D'acoz,,F,,,white
-779,Leonie Hemsworth,,F,,,white
-785,Laura Smet,,F,963,645,asian
-788,Rosemary,,F,,,white
-803,Tom Holland,,M,747,567,white
+785,Laura Smet,,F,963.0,645.0,asian
+803,Tom Holland,,M,747.0,567.0,white
 807,Kate,,F,,,white
 808,Sheryl Gascoigne,,F,,,white
 824,Nitin Mukesh,,M,,,white
 825,Rishi Kapoor,,M,,,latino hispanic
-828,Andrew D'york,,M,,,white
 829,Joy Vogelsang,,F,,,white
-840,Katherine Schwarzenegger,,F,42,429,white
-841,Ananya Panday,,F,517,,white
-846,Uday Chopra,,M,1027,182,indian
+840,Katherine Schwarzenegger,,F,42.0,429.0,white
+846,Uday Chopra,,M,1027.0,182.0,indian
 847,David Dhawan,,M,,,indian
 848,Joseph Germanotta,,M,,,white
-855,Chris Hemswort,,M,16,,white
-858,Scott,,M,28,,white
-864,Georgia May Jagger,,F,964,497,white
-871,Carys Zeta Douglas,,F,602,438,white
-872,Jessica Canseco,,F,,,white
-874,Rob Schneider,,M,,,asian
+864,Georgia May Jagger,,F,964.0,497.0,white
+871,Carys Zeta Douglas,,F,602.0,438.0,white
 876,Kimberly Anne Scott,,F,,,white
 883,Richie Sambora,,M,,,white
 886,Billy Ray Cyrus,,M,,,white
 891,Gauri Khan,,F,,,white
 894,Kent Damon,,M,,,white
-895,Brian Williams,,M,,,white
 896,Christopher John Jackman,,M,,,white
 898,Javed Akhtar,,M,,,indian
-899,Farhan Akhtar,,M,898,387,indian
+899,Farhan Akhtar,,M,898.0,387.0,indian
 907,Elvis Presley Color,,M,,,white
 909,Letitia Jean,,F,,,white
-910,Paris Hilton,,F,13,532,white
-911,Levi Dylan,,M,768,569,white
-912,Boney Kapoor,,M,,,latino hispanic
+910,Paris Hilton,,F,13.0,532.0,white
+911,Levi Dylan,,M,768.0,569.0,white
 915,David Arquette,,M,,,white
-937,Jose Canseco,,M,,,white
 940,Sylvester Stallone,,M,,,white
 945,Candace Cameron Bure,,F,,,white
-946,Bianca Gascoigne,,F,617,808,white
-947,Natasha Bure,,F,1057,945,white
-949,Carrie Fisher,,F,,,white
+946,Bianca Gascoigne,,F,617.0,808.0,white
+947,Natasha Bure,,F,1057.0,945.0,white
 956,Saif Ali Khan,,M,,,white
 962,Robert Kardashian,,M,,,latino hispanic
 963,Johnny Hallyday,,M,,,white
 964,Mick Jagger,,M,,,white
-966,Neil Nitin Mukesh,,M,824,690,white
-970,Ranbir Kapoor,,M,825,389,middle eastern
+966,Neil Nitin Mukesh,,M,824.0,690.0,white
+970,Ranbir Kapoor,,M,825.0,389.0,middle eastern
 972,Alec Baldwin,,M,,,white
-978,Judd Apatow,,M,,,middle eastern
-979,John Owen Lowe,,M,576,656,white
-980,David Bale,,M,,,white
+979,John Owen Lowe,,M,576.0,656.0,white
 984,Matthew Cowles,,M,,,asian
-991,Abhishek Bachchan,,M,1116,382,indian
-993,Suhana Khan,,F,355,891,latino hispanic
-1002,Ivanka Trump,,F,64,,white
-1008,Jose Ferrer,,M,,,white
+991,Abhishek Bachchan,,M,1116.0,382.0,indian
+993,Suhana Khan,,F,355.0,891.0,latino hispanic
 1009,Carlos Leon,,M,,,white
 1011,Mossimo Giannulli,,M,,,white
 1012,Dolph Lundgren,,M,,,white
-1016,Joseph Baena,,M,42,429,white
+1016,Joseph Baena,,M,42.0,429.0,white
 1027,Yash Chopra,,M,,,indian
-1041,Patrick Schwarzenegger,,M,,429,white
 1044,Maheep Sandhu,,F,,,middle eastern
-1046,Ireland Baldwin,,F,972,372,white
-1052,Gladys Portugues,,F,,,white
+1046,Ireland Baldwin,,F,972.0,372.0,white
 1053,Ryan Phillippe,,M,,,white
 1055,George Dicaprio,,M,,,white
 1056,Jennifer Flavin,,F,,,white
 1057,Valeri Bure,,M,,,white
-1060,Ram Charan,,M,515,390,indian
-1062,Rashida Jones,,F,302,,white
-1079,Varun Dhawan,,M,847,391,middle eastern
-1081,Shahid Kapoor,,M,546,380,white
+1060,Ram Charan,,M,515.0,390.0,indian
+1079,Varun Dhawan,,M,847.0,391.0,middle eastern
+1081,Shahid Kapoor,,M,546.0,380.0,white
 1090,Bill Hudson,,M,,,white
-1092,Hugh Jackman,,M,896,538,white
+1092,Hugh Jackman,,M,896.0,538.0,white
 1093,Dimple Kapadia,,F,,,white
-1098,Xi Mingze,,F,,146,asian
-1103,Sam,,M,23,,white
-1107,Nicolas Cage,,M,771,829,middle eastern
+1107,Nicolas Cage,,M,771.0,829.0,middle eastern
 1111,Ayesha Shroff,,F,,,latino hispanic
 1116,Amitabh Bachchan,,M,,,white

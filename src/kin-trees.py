@@ -13,21 +13,14 @@ COLOR_MALE = "#34aeeb"
 COLOR_FEMALE = "#de3e7e"
 
 persons_df = pd.read_csv("./annotations/kindb-persons.csv")
-# images_df = pd.read_csv("./annotations/kin-images.csv")
+images_df = pd.read_csv("./annotations/kindb-images.csv")
 
-# image_count_df = images_df.groupby("pid")["path"].agg("count").reset_index()
-# image_count_df = image_count_df.rename(columns={"path": "count"})
-# image_count_df = image_count_df.set_index("pid")
+image_count_df = images_df.groupby("pid")["iid"].agg("count").reset_index()
+image_count_df = image_count_df.rename(columns={"iid": "count"})
+image_count_df = image_count_df.set_index("pid")
 
-# counts = image_count_df.to_dict()["count"]
+counts = image_count_df.to_dict()["count"]
 
-counts = dict()
-for p in glob(f"{OUT_ROOT}/*"):
-  try:
-    pid = int(p.split("/")[-1])
-    counts[pid] = len(glob(f"{OUT_ROOT}/{pid}/*.png"))
-  except:
-    pass
 
 G = nx.DiGraph()
 
@@ -102,3 +95,27 @@ nx.draw_networkx_labels(G, pos=pos, labels=labels1, font_size=2)
 plt.savefig("./annotations/kin-trees.pdf", format="pdf", orientation="landscape")
 
 nx.write_gpickle(G, "./annotations/kin-trees.gpickle")
+
+
+
+# persons_df = pd.read_csv("annotations/kindb-persons.csv")
+
+# ok = []
+# to_remove = []
+# for index, person in persons_df.iterrows():
+#   pid = int(person["pid"])
+#   if pid not in G:
+#     to_remove.append(index)
+#   else:
+#     ok.append(index)
+
+
+# persons_df = persons_df.drop(persons_df.index[to_remove])
+# persons_df.to_csv("annotations/kindb-persons.csv", index=False)
+
+# images_df = pd.read_csv("annotations/kindb-images.csv")
+# pprint(images_df.shape)
+# images_df = images_df.merge(persons_df, left_on="pid", right_on="pid", how="inner")
+# images_df = images_df.drop(columns=["name","family_name","sex","father_pid","mother_pid","race"])
+# pprint(images_df.shape)
+# images_df.to_csv("annotations/kindb-images.csv", index=False)
