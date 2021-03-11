@@ -275,7 +275,7 @@ pid,name,family_name,sex,father_pid,mother_pid,race
 236,Knox,PITT-JOLIE,M,572.0,706.0,white
 234,Shiloh,PITT-JOLIE,F,572.0,706.0,white
 572,Brad Pitt,PITT-JOLIE,M,748.0,346.0,latino hispanic
-346,Jane Etta,PITT-JOLIE,M,,,white
+346,Jane Etta,PITT-JOLIE,F,,,white
 252,Vivienne,PITT-JOLIE,F,572.0,706.0,white
 62,Jon Voight,PITT-JOLIE,M,,,white
 53,Avner,PORTMAN.NATALIE,M,,,white

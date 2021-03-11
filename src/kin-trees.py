@@ -80,15 +80,16 @@ print(f"# total number of images: {sum(list(counts.values()))}")
 print(f"# total number of persons: {len(list(G.nodes()))}")
 
 node_colors = [COLOR_MALE if n[1]["sex"] == "M" else COLOR_FEMALE for n in G.nodes(data=True)]
+# node_border_colors = ["g" if counts.get(int(n), None) else "r" for n in G.nodes()]
 node_border_colors = ["g" if counts.get(int(n), None) else "r" for n in G.nodes()]
 pos = nx.drawing.nx_agraph.graphviz_layout(G, prog='dot')
 labels1 = {n[0]: f"{n[0]}\n{n[1]['name']}" for n in G.nodes(data=True)}
 # labels2 = {n[0]: "\n".join(wrap(" ".join(n[1]['family_name'].split('.')), width=25)) for n in G.nodes(data=True)}
 
-plt.figure(num=None, figsize=(200, 2.5), frameon=False, clear=True, tight_layout=True)
+plt.figure(num=None, figsize=(200, 1.5), frameon=False, clear=True, tight_layout=True)
 
-nx.draw_networkx_nodes(G, pos=pos, node_color=node_colors, node_size=50, edgecolors=node_border_colors, linewidths=0.5, alpha=0.5)
-nx.draw_networkx_edges(G, pos=pos, node_size=50, width=0.1, arrowsize=1, style="dashed", alpha=0.5)
+nx.draw_networkx_nodes(G, pos=pos, node_color=node_colors, node_size=50, edgecolors=node_border_colors, linewidths=0.0, alpha=0.5)
+nx.draw_networkx_edges(G, pos=pos, node_size=50, width=0.1, arrowsize=5, style="dashed", alpha=1)
 nx.draw_networkx_labels(G, pos=pos, labels=labels1, font_size=2)
 # nx.draw_networkx_labels(G, pos={k:(v[0], v[1]-5) for k,v in pos.items()}, labels=labels2, font_size=1.5, font_color="#5a5a5a", verticalalignment="top")
 
