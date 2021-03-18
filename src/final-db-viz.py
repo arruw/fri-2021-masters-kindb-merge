@@ -9,6 +9,7 @@ sns.set()
 persons_df = pd.read_csv("annotations/kindb-persons.csv")
 persons_df["race"] = persons_df["race"].astype("category")
 persons_df["race_code"] = persons_df["race"].cat.codes
+persons_df["none"] = "None"
 
 images_df = pd.read_csv("annotations/kindb-images.csv")
 images_df = images_df.merge(persons_df, left_on="pid", right_on="pid", how="inner")
@@ -22,7 +23,7 @@ persons_df = persons_df.merge(
 
 
 def group_minority(total, data):
-  cutoff = total * 0.03
+  cutoff = total * 0.05
   minority = data[data <= cutoff]
   minority = minority[minority > 0]
 
@@ -30,9 +31,10 @@ def group_minority(total, data):
     return data, None
 
   minority_sum = minority.sum()
-  minority_label = "Other: " + ", ".join(minority.index.map(lambda x: str(x)).tolist()) 
+  # minority_label = "Other: " + ", ".join(minority.index.map(lambda x: str(x)).tolist())
+  minority_label = ", ".join(minority.index.map(lambda x: str(x)).tolist())
   majority = data[data > cutoff]
-  return majority.append(pd.Series([minority_sum], ["Other"])), minority_label
+  return majority.append(pd.Series([minority_sum], [minority_label])), minority_label
 
 
 def plot_pie(total, data, title, file=None):
@@ -52,6 +54,30 @@ def plot_pie(total, data, title, file=None):
     return
   
   plt.show()
+
+
+def plot_bar(ax, total, data, title, file=None):
+  data, other_label = group_minority(total, data)
+
+  pprint(data)
+
+  percents = []
+  offset = 0
+  for label, value in data.iteritems():
+    p = value/total * 100
+    ax.barh(0, p, left=offset, label=f"{p:4.1f}% {label}", align="edge")
+    offset += p
+    percents.append(f"{p:.1f}%")
+
+  for label, percent, patch in zip(data.index, percents, ax.patches):
+    ax.text(patch.get_x() + patch.get_width() / 2, 0.4, percent, ha='center', va='center', rotation=0)
+
+  ax.title.set_text(title)
+  ax.set_xlim((0, 100))
+  ax.set_ylim((0,0.8))
+  ax.legend(loc='center left', bbox_to_anchor=(1.0, 0.5), fancybox=False, shadow=False, ncol=1, prop={'family': 'monospace'})
+  ax.tick_params(axis='both', which='both', left=False, right=False, bottom=False, top=False, labelleft=False, labelbottom=False)
+
 
 def plot_age_pie(file=None):
   total = images_df.shape[0]
@@ -108,5 +134,45 @@ def plot_image_count(file=None):
 # plot_gender_pie("viz/gender-pie.pdf")
 # plot_image_count("viz/number-of-images.pdf")
 
-sns.pairplot(images_df[["race_code","age","emotion_code"]], kind="hist", corner=True)
+# sns.countplot(data=images_df, x="age", hue="none")
+# # sns.pairplot(images_df[["race_code","age","emotion_code"]], kind="hist", corner=True)
+# plt.show()
+
+plt.close('all')
+fig, axs = plt.subplots(4,1)
+
+def plot_gender_bar(ax, file=None):
+  total = images_df.shape[0]
+  data = images_df.groupby("sex").size().sort_values(ascending=False)
+  plot_bar(ax, total, data, "Gender", file)
+
+def plot_race_bar(ax, file=None):
+  total = images_df.shape[0]
+  data = images_df.groupby("race").size().sort_values(ascending=False)
+  plot_bar(ax, total, data, "Race", file)
+
+def plot_emotion_bar(ax, file=None):
+  total = images_df.shape[0]
+  data = images_df.groupby("emotion").size().sort_values(ascending=False)
+  plot_bar(ax, total, data, "Emotion", file)
+
+def plot_age_bar(ax, file=None):
+  total = images_df.shape[0]
+  mean = images_df["age"].mean()
+  std = images_df["age"].std()
+  sns.histplot(ax=ax, data=images_df, x="age", binwidth=1)
+  ax.set_xlabel(None)
+  # ax.tick_params(axis='y', which='both', left=False, right=False, labelleft=False, labelbottom=False)
+  ax.title.set_text(f"Age (${mean:.1f} \pm {std:.1f}$)")
+
+# plt.rcParams.update({'font.size': 50})
+
+plot_gender_bar(axs[0])
+plot_race_bar(axs[1])
+plot_emotion_bar(axs[2])
+plot_age_bar(axs[3])
+
+
+plt.tight_layout()
+
 plt.show()
