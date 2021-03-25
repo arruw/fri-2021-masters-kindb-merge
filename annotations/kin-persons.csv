@@ -321,7 +321,7 @@ pid,name,family_name,sex,father_pid,mother_pid,paths
 73,Robert,Kraft.Robert,M,,,['604']
 273,Myra,Kraft.Robert,F,,,['599']
 1096,Wyatt (son),Kurt.Russell,F,,,['869']
-408,Goldie Hawn (mother),Kurt.Russell,M,,,"['fr/Family_16/goldie_hawn_mother', '868']"
+408,Goldie Hawn (mother),Kurt.Russell,F,,,"['fr/Family_16/goldie_hawn_mother', '868']"
 749,Kurt,Kurt.Russell,M,,,['867']
 536,Julian,LENNON.JOHN,M,534.0,344.0,"['in/Family_59/Julian_son', '410']"
 534,John,LENNON.JOHN,M,,,['409']

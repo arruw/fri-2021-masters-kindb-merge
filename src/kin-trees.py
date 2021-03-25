@@ -6,6 +6,8 @@ from textwrap import wrap
 from pprint import pprint
 from glob import glob
 import numpy as np
+import random
+import itertools
 
 OUT_ROOT = "/mnt/d/matja/dev/kindb-merge"
 
@@ -56,6 +58,8 @@ for n in G.nodes():
 for p in prune:
   G.remove_node(p)
 
+samples = []
+triplets = []
 # COUNT TRIPLETS
 n_triplets_s = 0
 n_triplets_d = 0
@@ -68,9 +72,38 @@ for n, nd in G.nodes(data=True):
   else:
     n_triplets_d += 1
 
-  # print(f"{n}: {counts[n]} * {counts[ie[0][0]]} * {counts[ie[1][0]]} = {counts[n] * counts[ie[0][0]] * counts[ie[1][0]]}")
-  # exit()
+  parents = list(map(lambda x: x[0], G.in_edges(n)))
+  p1 = G.nodes[parents[0]]
+  p2 = G.nodes[parents[1]]
+  if p1["sex"] == p2["sex"]:
+    raise Exception(f"Sex is the same (c_pid: {nd['pid']})")
+  
+  f_pid = None
+  m_pid = None
+  if p1["sex"] == "M":
+    f_pid = p1["pid"]
+    m_pid = p2["pid"]
+  else:
+    f_pid = p2["pid"]
+    m_pid = p1["pid"]
+
+  c_pid = n
+
+  f_iids = list(map(lambda x: (f_pid, x), images_df[images_df["pid"] == f_pid]["iid"].tolist()))
+  m_iids = list(map(lambda x: (m_pid, x), images_df[images_df["pid"] == m_pid]["iid"].tolist()))
+  c_iids = list(map(lambda x: (c_pid, x), images_df[images_df["pid"] == c_pid]["iid"].tolist()))
+  
+  samples += list(itertools.product(f_iids, m_iids, c_iids))
+
   n_triplets_i += (counts[n] * counts[ie[0][0]] * counts[ie[1][0]])
+
+random.shuffle(samples)
+samples = list(map(lambda x: [x[0][0], x[0][1], x[1][0], x[1][1], x[2][0], x[2][1]], samples))
+
+samples_df = pd.DataFrame.from_records(samples, columns=["f_pid", "f_iid", "m_pid", "m_iid", "c_pid", "c_iid"])
+samples_df.to_csv("annotations/samples.csv", index=False)
+
+exit()
 
 print(f"# father/mother/son triplets: {n_triplets_s}")
 print(f"# father/mother/daughter triplets: {n_triplets_d}")

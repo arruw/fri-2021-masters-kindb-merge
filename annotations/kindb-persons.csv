@@ -202,7 +202,7 @@ pid,name,family_name,sex,father_pid,mother_pid,race
 51,Will,KNIGHTLEY.KEIRA,M,,,white
 563,Keira,KNIGHTLEY.KEIRA,F,51.0,386.0,white
 903,Caleb,KNIGHTLEY.KEIRA,M,51.0,386.0,white
-408,Goldie Hawn (mother),Kurt.Russell,M,,,white
+408,Goldie Hawn (mother),Kurt.Russell,F,,,white
 536,Julian,LENNON.JOHN,M,534.0,344.0,white
 534,John,LENNON.JOHN,M,,,white
 969,Sean,LENNON.JOHN,M,534.0,552.0,white
